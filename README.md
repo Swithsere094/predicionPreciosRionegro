@@ -9,6 +9,7 @@ El modelo predice el precio de venta de apartamentos, casas y casas campestres e
 ## Metodología
 
 **CRISP-DM** — 6 fases:
+
 1. Entendimiento del negocio
 2. Entendimiento de los datos
 3. Preparación de los datos
@@ -25,15 +26,16 @@ El modelo predice el precio de venta de apartamentos, casas y casas campestres e
 
 ## Modelo
 
-| Parámetro | Valor |
-|---|---|
-| Algoritmo | Gradient Boosting (scikit-learn) |
-| MAE | $245.1M COP |
-| RMSE | $696.2M COP |
-| R² | 0.7176 |
-| Variable objetivo | log1p(precio_cop) |
+| Parámetro         | Valor                            |
+| ----------------- | -------------------------------- |
+| Algoritmo         | Gradient Boosting (scikit-learn) |
+| MAE               | $245.1M COP                      |
+| RMSE              | $696.2M COP                      |
+| R²                | 0.7176                           |
+| Variable objetivo | log1p(precio_cop)                |
 
 ### Variables predictoras
+
 - `area_m2` — Área construida (m²)
 - `habitaciones` — Número de habitaciones
 - `banos` — Número de baños
@@ -55,22 +57,6 @@ El modelo predice el precio de venta de apartamentos, casas y casas campestres e
 ├── dataset_rionegro.csv            # Dataset original
 └── CRISP_DM_Rionegro_Completo.ipynb # Notebook completo (Fases 3–5)
 ```
-
-## Instalación local
-
-```bash
-git clone https://github.com/<tu-usuario>/<tu-repo>.git
-cd <tu-repo>
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-## Despliegue en Streamlit Cloud
-
-1. Haz fork o push de este repositorio a GitHub
-2. Ingresa a [streamlit.io](https://streamlit.io) y conecta tu cuenta de GitHub
-3. Selecciona el repositorio y el archivo `app.py`
-4. Haz clic en **Deploy**
 
 ## Autor
 
