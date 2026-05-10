@@ -1,0 +1,20 @@
+[
+  "area_m2",
+  "habitaciones",
+  "banos",
+  "estrato",
+  "parqueaderos",
+  "conjunto_cerrado",
+  "dist_aeropuerto_km",
+  "dist_centro_km",
+  "dist_san_nicolas_km",
+  "tipo_inmueble_apartamento",
+  "tipo_inmueble_casa",
+  "tipo_inmueble_casa_campestre",
+  "barrio_el porvenir",
+  "barrio_liborio mejia",
+  "barrio_monse\u00f1or alfonso uribe jaramillo",
+  "barrio_otras",
+  "barrio_rionegro",
+  "barrio_san antonio"
+]

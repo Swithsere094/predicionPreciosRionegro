@@ -1,0 +1,280 @@
+import streamlit as st
+import joblib
+import json
+import numpy as np
+import pandas as pd
+
+# ── Configuración de página ───────────────────────────────────────────────────
+st.set_page_config(
+    page_title="Valorador Inmobiliario — Rionegro",
+    page_icon="🏡",
+    layout="centered",
+    initial_sidebar_state="collapsed",
+)
+
+# ── CSS personalizado ─────────────────────────────────────────────────────────
+st.markdown("""
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Sans:wght@300;400;500&display=swap');
+
+html, body, [class*="css"] {
+    font-family: 'DM Sans', sans-serif;
+}
+
+/* Fondo */
+.stApp {
+    background: #F7F4EF;
+}
+
+/* Encabezado principal */
+.hero {
+    background: #1C2B3A;
+    border-radius: 16px;
+    padding: 2.5rem 2rem 2rem;
+    margin-bottom: 1.5rem;
+    color: white;
+}
+.hero h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 0 0 0.4rem;
+    line-height: 1.2;
+    color: #F0E6C8;
+}
+.hero p {
+    font-size: 0.9rem;
+    color: #9BAFC2;
+    margin: 0;
+    font-weight: 300;
+}
+
+/* Tarjeta de sección */
+.section-card {
+    background: white;
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #E8E2D9;
+}
+.section-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #1C2B3A;
+    margin: 0 0 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #F0E6C8;
+}
+
+/* Resultado */
+.result-box {
+    background: #1C2B3A;
+    border-radius: 12px;
+    padding: 1.8rem 2rem;
+    text-align: center;
+    margin-top: 1rem;
+}
+.result-label {
+    font-size: 0.8rem;
+    color: #9BAFC2;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 0.4rem;
+    font-weight: 500;
+}
+.result-price {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.6rem;
+    font-weight: 700;
+    color: #F0E6C8;
+    line-height: 1;
+}
+.result-sub {
+    font-size: 0.8rem;
+    color: #9BAFC2;
+    margin-top: 0.5rem;
+}
+
+/* Badge de modelo */
+.model-badge {
+    display: inline-block;
+    background: #2E5F4A;
+    color: #A8D5B5;
+    font-size: 0.72rem;
+    font-weight: 500;
+    padding: 3px 10px;
+    border-radius: 999px;
+    margin-top: 0.8rem;
+}
+
+/* Info pill */
+.info-pill {
+    background: #EDF3F0;
+    border: 1px solid #C5DDCE;
+    border-radius: 8px;
+    padding: 0.6rem 1rem;
+    font-size: 0.82rem;
+    color: #2E5F4A;
+    margin-bottom: 1rem;
+}
+
+/* Ocultar elementos de Streamlit */
+#MainMenu, footer, header {visibility: hidden;}
+</style>
+""", unsafe_allow_html=True)
+
+
+# ── Cargar modelo y recursos ──────────────────────────────────────────────────
+@st.cache_resource
+def cargar_modelo():
+    modelo   = joblib.load("mejor_modelo.pkl")
+    features = json.load(open("features.json"))
+    dist_map = json.load(open("dist_aeropuerto_por_barrio.json"))
+    return modelo, features, dist_map
+
+try:
+    modelo, feature_cols, dist_por_barrio = cargar_modelo()
+    modelo_ok = True
+except Exception as e:
+    modelo_ok = False
+    st.error(f"Error cargando el modelo: {e}")
+
+
+# ── Encabezado ────────────────────────────────────────────────────────────────
+st.markdown("""
+<div class="hero">
+    <h1>Valorador Inmobiliario<br>Rionegro, Antioquia</h1>
+    <p>Estimación de precio de venta basada en aprendizaje de máquina · Gradient Boosting</p>
+</div>
+""", unsafe_allow_html=True)
+
+st.markdown("""
+<div class="info-pill">
+    ℹ️ Ingresa las características del inmueble y obtén una estimación del precio de venta en el mercado de Rionegro.
+    Los datos provienen de fuentes inmobiliarias locales (Ciencuadras, FincaRaíz, Lonja de Propiedad Raíz).
+</div>
+""", unsafe_allow_html=True)
+
+
+# ── Formulario ────────────────────────────────────────────────────────────────
+if modelo_ok:
+
+    # Sección 1: Tipo y ubicación
+    st.markdown('<div class="section-card"><p class="section-title">📍 Tipo y ubicación</p>', unsafe_allow_html=True)
+
+    col1, col2 = st.columns(2)
+    with col1:
+        tipo_inmueble = st.selectbox(
+            "Tipo de inmueble",
+            options=["apartamento", "casa", "casa_campestre"],
+            format_func=lambda x: {"apartamento": "Apartamento", "casa": "Casa", "casa_campestre": "Casa campestre"}[x]
+        )
+    with col2:
+        barrio = st.selectbox(
+            "Barrio / Sector",
+            options=sorted(dist_por_barrio.keys()),
+            format_func=lambda x: x.title()
+        )
+
+    col3, col4 = st.columns(2)
+    with col3:
+        estrato = st.selectbox("Estrato", options=[1, 2, 3, 4, 5, 6], index=3)
+    with col4:
+        conjunto_cerrado = st.selectbox(
+            "Conjunto cerrado",
+            options=["si", "no"],
+            format_func=lambda x: "Sí" if x == "si" else "No"
+        )
+
+    # Distancia al aeropuerto — automática según barrio
+    dist_aeropuerto = dist_por_barrio.get(barrio, 5.0)
+    st.caption(f"📡 Distancia estimada al aeropuerto J.M. Córdova: **{dist_aeropuerto} km** (calculada automáticamente según el barrio)")
+
+    st.markdown('</div>', unsafe_allow_html=True)
+
+    # Sección 2: Características físicas
+    st.markdown('<div class="section-card"><p class="section-title">🏠 Características físicas</p>', unsafe_allow_html=True)
+
+    col5, col6 = st.columns(2)
+    with col5:
+        area_m2 = st.number_input("Área construida (m²)", min_value=20, max_value=5000, value=80, step=5)
+    with col6:
+        habitaciones = st.number_input("Habitaciones", min_value=1, max_value=15, value=3, step=1)
+
+    col7, col8 = st.columns(2)
+    with col7:
+        banos = st.number_input("Baños", min_value=1, max_value=10, value=2, step=1)
+    with col8:
+        parqueaderos = st.number_input("Parqueaderos", min_value=0, max_value=10, value=1, step=1)
+
+    st.markdown('</div>', unsafe_allow_html=True)
+
+    # ── Botón de predicción ───────────────────────────────────────────────────
+    st.markdown("<br>", unsafe_allow_html=True)
+    predecir = st.button("✦ Estimar precio", use_container_width=True, type="primary")
+
+    if predecir:
+        # Construir vector de entrada
+        entrada = {col: 0 for col in feature_cols}
+
+        # Variables numéricas
+        entrada['area_m2']             = area_m2
+        entrada['habitaciones']        = habitaciones
+        entrada['banos']               = float(banos)
+        entrada['estrato']             = float(estrato)
+        entrada['parqueaderos']        = float(parqueaderos)
+        entrada['conjunto_cerrado']    = 1 if conjunto_cerrado == "si" else 0
+        entrada['dist_aeropuerto_km']  = dist_aeropuerto
+
+        # OHE tipo_inmueble
+        key_tipo = f"tipo_inmueble_{tipo_inmueble}"
+        if key_tipo in entrada:
+            entrada[key_tipo] = 1
+
+        # OHE barrio
+        key_barrio = f"barrio_{barrio}"
+        if key_barrio in entrada:
+            entrada[key_barrio] = 1
+
+        # Crear DataFrame con el orden correcto de features
+        X_input = pd.DataFrame([entrada])[feature_cols]
+
+        # Predecir
+        precio_log  = modelo.predict(X_input)[0]
+        precio_cop  = np.expm1(precio_log)
+        precio_m2   = precio_cop / area_m2
+
+        # Mostrar resultado
+        precio_fmt  = f"${precio_cop/1e6:,.0f}M COP"
+        precio_m2_fmt = f"${precio_m2/1e6:,.2f}M / m²"
+
+        st.markdown(f"""
+        <div class="result-box">
+            <p class="result-label">Precio estimado de venta</p>
+            <p class="result-price">{precio_fmt}</p>
+            <p class="result-sub">Precio por m²: {precio_m2_fmt}</p>
+            <span class="model-badge">Gradient Boosting · R² = 0.7176 · RMSE = $696M</span>
+        </div>
+        """, unsafe_allow_html=True)
+
+        # Advertencia de margen de error
+        st.markdown("<br>", unsafe_allow_html=True)
+        margen = 696_200_000  # RMSE del modelo
+        low    = max(0, precio_cop - margen)
+        high   = precio_cop + margen
+
+        st.info(
+            f"**Margen de error estimado (±1 RMSE):** "
+            f"${low/1e6:,.0f}M — ${high/1e6:,.0f}M COP\n\n"
+            "Este modelo predice precios de oferta publicados en portales inmobiliarios, "
+            "no precios de cierre de transacciones reales. Úselo como referencia orientativa."
+        )
+
+# ── Footer ────────────────────────────────────────────────────────────────────
+st.markdown("---")
+st.markdown(
+    "<small style='color:#999;'>Proyecto integrador CRISP-DM · Maestría en Ciencia de Datos · UPB · 2025 · "
+    "Dataset: mercado inmobiliario Rionegro (web scraping)</small>",
+    unsafe_allow_html=True
+)

@@ -1,0 +1,1898 @@
+precio_cop,area_m2,habitaciones,banos,estrato,parqueaderos,antiguedad_anos,conjunto_cerrado,tipo_inmueble,dist_aeropuerto_km,dist_centro_km,dist_san_nicolas_km,barrio,fuente
+1130000000.0,160.0,3,3,5,2,3,si,casa,5.362,2.922,2.965,san antonio,ciencuadras
+229500000.0,52.0,2,2,3,,4,no,apartamento,4.335,1.441,1.319,rionegro,metrocuadrado
+630000000.0,68.0,2,3,5,1,1,si,apartamento,3.302,2.577,2.513,el porvenir,lonja_propiedad_raiz
+570000000.0,66.13,2,2,5,1,1,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+505000000.0,68.0,2,2,5,1,,no,apartamento,5.944,0.56,0.682,monseñor alfonso uribe jaramillo,metrocuadrado
+280000000.0,56.0,3,2,3,1,,no,apartamento,5.523,0.768,0.836,monseñor alfonso uribe jaramillo,ciencuadras
+520000000.0,75.0,2,2,5,1,,no,apartamento,3.334,2.458,2.389,el porvenir,metrocuadrado
+558000000.0,64.0,2,2,5,,,si,apartamento,6.333,1.515,1.627,san antonio,metrocuadrado
+345000000.0,50.0,2,2,3,,,no,apartamento,4.03,1.944,1.9,el porvenir,ciencuadras
+409900000.0,54.0,2,2,4,1,,no,apartamento,4.063,1.676,1.613,el porvenir,ciencuadras
+1390000000.0,240.0,4,3,5,1,,no,casa,3.2,2.91,2.855,el porvenir,lonja_propiedad_raiz
+310000000.0,56.0,2,2,4,1,,no,apartamento,8.064,2.474,2.582,monseñor alfonso uribe jaramillo,ciencuadras
+300000000.0,100.0,4,2,3,1,,no,casa,4.539,1.134,1.017,liborio mejia,metrocuadrado
+320000000.0,58.0,3,2,4,1,1,no,apartamento,5.109,1.486,1.373,rionegro,lonja_propiedad_raiz
+1350000000.0,167.0,3,4,6,1,,si,casa,5.525,2.345,2.4,san antonio,lonja_propiedad_raiz
+1280000000.0,130.0,2,2,6,2,,no,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+3500000000.0,360.0,3,4,,2,1,no,casa_campestre,1.955,5.141,5.077,rionegro,metrocuadrado
+350000000.0,52.0,3,2,4,1,1,si,apartamento,5.02,0.865,0.739,el porvenir,ciencuadras
+1310000000.0,290.0,3,3,5,2,1,si,casa,3.14,2.726,2.66,el porvenir,ciencuadras
+470000000.0,69.0,3,2,3,1,1,no,apartamento,6.134,3.307,3.374,san antonio,ciencuadras
+1390000000.0,253.0,5,5,5,2,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+2950000000.0,300.0,4,4,6,2,,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+420000000.0,58.0,2,2,5,,1,no,apartamento,6.738,1.879,1.997,rionegro,ciencuadras
+1290000000.0,400.0,3,3,,,,no,casa_campestre,5.6,0.022,0.139,liborio mejia,metrocuadrado
+1030000000.0,210.0,4,5,5,1,1,si,casa,6.222,2.757,2.836,san antonio,ciencuadras
+300000000.0,55.0,2,2,4,,,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+4200000000.0,350.0,3,5,,6,1,no,casa_campestre,5.6,0.022,0.139,liborio mejia,metrocuadrado
+395000000.0,28.0,2,2,4,1,1,no,apartamento,6.197,4.216,4.272,rionegro,metrocuadrado
+1100000000.0,182.7,4,5,5,,,no,casa,5.602,0.015,0.136,liborio mejia,metrocuadrado
+5500000000.0,1000.0,5,6,6,7,1,no,casa,4.706,3.843,3.855,rionegro,ciencuadras
+1900000000.0,210.0,4,3,5,2,1,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+2600000000.0,450.0,3,4,5,4,,si,casa,3.517,6.375,6.337,rionegro,ciencuadras
+6200000000.0,547.0,3,5,6,3,,no,casa,5.361,6.137,6.144,rionegro,lonja_propiedad_raiz
+7800000000.0,1000.0,7,7,5,10,1,no,casa,3.676,8.303,8.24,rionegro,ciencuadras
+3975000000.0,1815.0,5,5,5,2,,no,casa,4.011,4.262,4.251,rionegro,ciencuadras
+1150000000.0,107.56,2,3,6,2,1,si,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+570000000.0,66.4,3,2,5,2,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+6000000000.0,576.0,3,4,6,4,,si,casa,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+950000000.0,170.0,4,5,5,1,1,no,casa,6.06,3.581,3.641,san antonio,metrocuadrado
+2490000000.0,200.0,3,3,6,4,,no,casa,4.74,4.219,4.23,rionegro,ciencuadras
+3480000000.0,350.0,4,5,5,8,,si,casa,6.431,6.02,6.055,rionegro,ciencuadras
+630000000.0,97.0,3,3,5,1,1,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+290000000.0,48.0,2,2,4,1,,no,apartamento,6.834,1.268,1.385,monseñor alfonso uribe jaramillo,ciencuadras
+1390000000.0,253.0,5,5,4,2,,no,apartamento,6.5,0.906,1.018,otras,lonja_propiedad_raiz
+530000000.0,87.7,3,2,5,1,,no,apartamento,6.185,2.714,2.792,san antonio,ciencuadras
+310000000.0,52.0,2,2,4,1,,no,apartamento,7.226,2.027,2.05,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+520000000.0,66.0,2,2,4,1,1,si,apartamento,7.226,2.027,2.051,monseñor alfonso uribe jaramillo,ciencuadras
+310000000.0,50.0,2,2,4,,,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+570000000.0,65.0,3,2,5,1,,no,apartamento,5.523,0.768,0.836,rionegro,metrocuadrado
+345000000.0,49.6,3,2,4,1,,no,apartamento,5.559,0.827,0.742,liborio mejia,lonja_propiedad_raiz
+695000000.0,77.95,3,2,5,1,1,no,apartamento,5.983,1.082,1.187,monseñor alfonso uribe jaramillo,ciencuadras
+850000000.0,86.0,3,3,5,1,1,si,apartamento,3.498,2.659,2.612,el porvenir,ciencuadras
+430000000.0,72.0,2,2,4,1,,no,apartamento,5.363,2.777,2.82,san antonio,ciencuadras
+949000000.0,170.0,4,5,5,1,,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+720000000.0,212.0,3,4,5,1,,si,casa,6.862,1.328,1.397,monseñor alfonso uribe jaramillo,ciencuadras
+3000000000.0,330.0,3,5,3,2,1,si,casa,2.6,7.523,7.407,rionegro,ciencuadras
+340000000.0,50.2,2,2,5,1,6,no,apartamento,5.388,1.04,0.939,liborio mejia,lonja_propiedad_raiz
+2600000000.0,380.0,4,5,5,2,6,si,casa,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+880000000.0,220.0,3,4,,3,,no,casa_campestre,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+2300000000.0,320.0,3,4,,4,,no,casa_campestre,7.251,2.529,2.648,rionegro,metrocuadrado
+445000000.0,56.0,2,2,4,1,,si,apartamento,6.341,3.023,3.102,san antonio,ciencuadras
+715000000.0,80.0,3,2,5,1,,no,apartamento,6.852,3.377,3.467,otras,ciencuadras
+260000000.0,48.0,2,2,4,1,,si,apartamento,8.176,2.583,2.691,rionegro,metrocuadrado
+1200000000.0,1200.0,4,4,5,1,,si,casa,6.61,3.285,3.369,san antonio,ciencuadras
+7000000000.0,600.0,5,5,5,3,2,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+1140000000.0,186.0,3,4,5,2,,no,casa,6.115,3.367,3.432,san antonio,metrocuadrado
+1350000000.0,107.0,2,2,6,2,1,no,apartamento,5.613,6.374,6.384,rionegro,ciencuadras
+225000000.0,48.0,3,2,3,,,no,apartamento,6.279,2.537,2.623,san antonio,metrocuadrado
+970000000.0,97.0,2,2,5,1,,no,apartamento,1.992,4.15,4.079,rionegro,ciencuadras
+300000000.0,56.0,3,2,3,1,12,no,apartamento,6.569,1.104,1.153,monseñor alfonso uribe jaramillo,ciencuadras
+625000000.0,171.0,4,3,4,1,,no,casa,5.723,0.121,0.233,liborio mejia,lonja_propiedad_raiz
+1590000000.0,230.0,3,5,6,2,,no,casa,5.523,0.768,0.836,monseñor alfonso uribe jaramillo,ciencuadras
+510000000.0,59.0,2,2,5,1,,si,apartamento,3.37,2.364,2.29,el porvenir,ciencuadras
+1150000000.0,230.0,3,4,5,2,1,no,casa,4.676,1.192,1.163,el porvenir,ciencuadras
+285000000.0,55.0,3,2,4,1,1,si,apartamento,7.226,2.027,2.05,monseñor alfonso uribe jaramillo,metrocuadrado
+320000000.0,49.0,2,2,4,,,si,apartamento,7.082,1.675,1.722,monseñor alfonso uribe jaramillo,metrocuadrado
+1350000000.0,167.0,3,4,5,2,8,si,casa,4.759,3.417,3.433,rionegro,lonja_propiedad_raiz
+380000000.0,60.0,3,2,4,2,3,si,apartamento,4.351,1.543,1.418,rionegro,ciencuadras
+335000000.0,53.0,2,2,3,,1,no,apartamento,7.086,1.681,1.728,monseñor alfonso uribe jaramillo,metrocuadrado
+260000000.0,48.0,3,2,3,1,,si,apartamento,8.166,2.574,2.681,monseñor alfonso uribe jaramillo,ciencuadras
+620000000.0,67.0,2,2,2,1,,no,apartamento,7.446,1.869,1.953,rionegro,ciencuadras
+299000000.0,56.0,3,2,4,1,,si,apartamento,5.256,0.973,0.862,liborio mejia,ciencuadras
+557000000.0,68.0,2,2,5,1,1,no,apartamento,4.555,1.36,1.33,el porvenir,lonja_propiedad_raiz
+275000000.0,49.0,2,1,3,,,si,apartamento,7.086,1.681,1.728,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+260000000.0,49.0,2,2,4,,1,si,apartamento,3.937,1.667,1.574,rionegro,ciencuadras
+2800000000.0,500.0,3,4,4,14,8,si,casa,5.77,0.19,0.266,otras,metrocuadrado
+330000000.0,57.0,3,2,4,1,0,no,apartamento,5.08,1.515,1.401,rionegro,ciencuadras
+420000000.0,60.0,3,2,5,1,1,si,apartamento,5.889,3.141,3.202,san antonio,lonja_propiedad_raiz
+720000000.0,180.0,4,6,4,3,2,no,casa,5.924,3.757,3.81,san antonio,ciencuadras
+2500000000.0,400.0,5,15,4,9,1,si,casa,4.224,1.864,1.833,el porvenir,metrocuadrado
+1410000000.0,142.0,3,6,4,3,5,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+1200000000.0,108.0,2,2,6,2,6,si,apartamento,3.051,8.627,8.524,rionegro,lonja_propiedad_raiz
+1100000000.0,154.0,3,4,5,1,,si,apartamento,3.302,2.577,2.513,el porvenir,ciencuadras
+350000000.0,57.0,2,2,4,1,,si,apartamento,4.638,1.681,1.557,rionegro,ciencuadras
+870000000.0,205.0,3,3,4,2,1,no,casa,5.701,1.369,1.447,monseñor alfonso uribe jaramillo,ciencuadras
+650000000.0,76.0,2,2,5,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,metrocuadrado
+540000000.0,75.0,2,2,5,1,,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+740000000.0,87.0,3,3,5,1,,no,apartamento,3.5,2.662,2.615,el porvenir,lonja_propiedad_raiz
+350000000.0,68.0,3,2,3,,,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+590000000.0,160.0,4,2,4,1,,si,casa,6.337,3.001,3.08,san antonio,ciencuadras
+639000000.0,76.0,3,2,5,1,1,no,apartamento,6.273,1.095,1.216,monseñor alfonso uribe jaramillo,ciencuadras
+300000000.0,48.0,2,2,4,1,1,no,apartamento,6.834,1.268,1.385,monseñor alfonso uribe jaramillo,ciencuadras
+245000000.0,48.0,3,2,3,,,no,apartamento,8.176,2.583,2.691,rionegro,ciencuadras
+317000000.0,55.0,2,2,4,1,,no,apartamento,8.065,2.476,2.585,monseñor alfonso uribe jaramillo,ciencuadras
+1100000000.0,100.0,1,3,3,1,,no,casa,6.448,0.888,1.008,monseñor alfonso uribe jaramillo,metrocuadrado
+690000000.0,74.0,3,2,5,1,,si,apartamento,6.17,2.873,2.948,san antonio,ciencuadras
+780000000.0,96.0,3,3,4,1,,si,apartamento,6.348,1.221,1.341,monseñor alfonso uribe jaramillo,ciencuadras
+2500000000.0,300.0,4,5,6,4,,no,casa,5.289,5.891,5.9,rionegro,metrocuadrado
+300000000.0,50.0,2,2,3,1,,si,apartamento,3.933,1.885,1.828,el porvenir,ciencuadras
+770000000.0,86.0,3,2,5,1,,no,apartamento,6.41,3.521,3.595,san antonio,ciencuadras
+530000000.0,70.0,3,2,5,1,1,no,apartamento,8.061,2.465,2.572,monseñor alfonso uribe jaramillo,ciencuadras
+395000000.0,73.0,2,2,4,1,,si,apartamento,5.906,2.705,2.772,san antonio,ciencuadras
+590000000.0,65.48,2,2,4,1,,no,apartamento,6.311,1.144,1.265,monseñor alfonso uribe jaramillo,ciencuadras
+1150000000.0,230.0,4,4,6,1,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+830000000.0,140.0,4,3,5,1,,no,casa,7.128,1.529,1.635,monseñor alfonso uribe jaramillo,ciencuadras
+290000000.0,70.0,3,2,4,1,,no,apartamento,5.814,0.466,0.582,liborio mejia,ciencuadras
+550000000.0,88.0,3,2,4,1,,no,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+5500000000.0,750.0,6,10,6,2,,si,casa,4.631,5.583,5.578,rionegro,ciencuadras
+4950000000.0,734.0,4,6,6,2,,no,casa,3.128,7.904,7.836,rionegro,ciencuadras
+1850000000.0,300.0,3,5,4,8,,si,casa,5.243,0.754,0.778,el porvenir,ciencuadras
+2850000000.0,380.0,3,3,4,2,1,si,casa,5.388,0.928,0.979,el porvenir,ciencuadras
+370000000.0,67.0,3,2,4,1,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+5500000000.0,2016.0,3,5,6,2,,si,casa,4.918,6.935,6.921,rionegro,ciencuadras
+535000000.0,66.0,2,2,4,2,1,no,apartamento,3.178,2.657,2.589,el porvenir,ciencuadras
+1900000000.0,1000.0,3,2,5,2,,no,casa,6.38,9.804,9.775,rionegro,metrocuadrado
+3750000000.0,461.0,4,6,4,,,si,casa,6.38,9.804,9.775,rionegro,ciencuadras
+1000000000.0,102.0,2,3,5,2,,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+4500000000.0,392.0,3,5,5,3,,no,casa,4.509,6.192,6.178,rionegro,lonja_propiedad_raiz
+595000000.0,60.0,1,2,4,1,,no,apartamento,5.069,7.263,7.248,rionegro,metrocuadrado
+350000000.0,45.0,2,2,4,1,1,si,apartamento,3.984,1.675,1.599,el porvenir,metrocuadrado
+747500000.0,115.0,3,3,5,1,,si,apartamento,6.553,1.878,1.989,rionegro,metrocuadrado
+600000000.0,70.0,2,3,5,1,,si,apartamento,3.327,2.457,2.387,el porvenir,ciencuadras
+1350000000.0,128.0,2,3,5,1,1,si,apartamento,2.835,8.372,8.268,rionegro,ciencuadras
+1500000000.0,250.0,4,4,4,2,,si,casa,5.076,2.259,2.291,san antonio,ciencuadras
+1800000000.0,350.0,5,3,5,2,,no,casa,4.918,6.935,6.921,rionegro,ciencuadras
+650000000.0,57.0,1,2,5,1,,si,apartamento,5.079,7.282,7.267,rionegro,lonja_propiedad_raiz
+10500000000.0,1568.0,7,13,5,12,,si,casa,4.918,6.935,6.921,rionegro,ciencuadras
+640000000.0,75.0,2,2,4,1,,no,apartamento,3.178,2.657,2.589,el porvenir,ciencuadras
+570000000.0,76.0,3,2,5,1,,no,apartamento,7.251,2.529,2.648,rionegro,metrocuadrado
+4600000000.0,480.0,3,5,6,2,,si,casa,6.232,8.325,8.319,rionegro,metrocuadrado
+500000000.0,60.0,2,2,5,1,,si,apartamento,6.035,3.394,3.457,san antonio,ciencuadras
+319000000.0,56.0,3,2,4,1,1,si,apartamento,5.645,0.085,0.208,liborio mejia,metrocuadrado
+610000000.0,78.0,2,2,5,1,,si,apartamento,5.961,3.766,3.821,san antonio,ciencuadras
+360000000.0,95.0,4,2,3,,,no,apartamento,5.543,0.08,0.137,liborio mejia,ciencuadras
+480000000.0,58.0,2,2,5,1,,si,apartamento,6.916,3.24,3.334,san antonio,ciencuadras
+1490000000.0,300.0,3,4,5,2,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+719000000.0,162.0,2,2,4,1,1,si,apartamento,5.983,1.082,1.187,monseñor alfonso uribe jaramillo,ciencuadras
+3600000000.0,352.0,3,5,5,2,,no,casa,3.78,6.527,6.493,rionegro,ciencuadras
+450000000.0,35.0,1,1,5,1,1,si,apartamento,5.314,7.646,7.63,rionegro,ciencuadras
+550000000.0,117.0,4,2,2,,,no,casa,5.127,0.524,0.403,liborio mejia,ciencuadras
+2700000000.0,300.0,4,5,5,2,,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+560000000.0,62.0,2,2,5,1,,si,apartamento,3.478,2.155,2.07,el porvenir,ciencuadras
+540000000.0,76.0,3,2,5,1,,si,apartamento,3.139,2.613,2.539,el porvenir,ciencuadras
+700000000.0,60.0,1,2,6,1,13,no,apartamento,4.209,5.468,5.455,rionegro,ciencuadras
+598000000.0,72.0,3,2,4,1,1,si,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+2800000000.0,350.0,5,5,5,1,,no,casa,8.995,9.591,9.625,rionegro,ciencuadras
+590000000.0,76.0,2,2,5,1,1,no,apartamento,6.464,1.626,1.74,san antonio,ciencuadras
+750000000.0,167.0,4,4,4,2,1,no,casa,6.516,3.283,3.364,san antonio,ciencuadras
+480000000.0,74.0,3,2,4,1,1,si,apartamento,6.437,1.62,1.733,san antonio,lonja_propiedad_raiz
+600000000.0,91.0,3,2,5,2,1,si,apartamento,6.327,0.889,1.015,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+580000000.0,69.0,2,2,5,1,,si,apartamento,3.178,2.657,2.589,el porvenir,metrocuadrado
+750000000.0,200.0,4,3,4,1,,no,casa,5.523,0.768,0.836,rionegro,metrocuadrado
+850000000.0,162.0,3,4,5,2,1,no,casa,5.997,3.752,3.807,san antonio,metrocuadrado
+570000000.0,88.0,2,2,5,1,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+355000000.0,51.0,3,2,4,1,,no,apartamento,5.385,1.018,0.916,liborio mejia,lonja_propiedad_raiz
+380000000.0,56.0,3,2,5,1,,no,apartamento,5.081,1.515,1.4,rionegro,ciencuadras
+490000000.0,58.0,2,2,4,2,,no,apartamento,6.916,3.24,3.334,san antonio,ciencuadras
+445000000.0,70.0,2,2,5,1,,si,apartamento,2.334,3.752,3.684,rionegro,ciencuadras
+280000000.0,52.0,3,2,4,,,si,apartamento,6.973,1.474,1.536,monseñor alfonso uribe jaramillo,metrocuadrado
+1350000000.0,220.0,4,3,3,2,,no,casa,10.35,7.649,7.593,rionegro,lonja_propiedad_raiz
+250000000.0,49.0,2,2,3,1,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+280000000.0,48.0,2,2,3,1,,si,apartamento,8.176,2.583,2.691,rionegro,lonja_propiedad_raiz
+540000000.0,62.0,2,2,5,1,2,si,apartamento,4.185,5.169,5.157,rionegro,ciencuadras
+420000000.0,96.0,3,2,4,1,,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+800000000.0,182.0,3,3,4,2,,si,casa,6.358,0.863,0.988,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+540000000.0,60.0,3,2,6,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+2550000000.0,350.0,2,3,5,2,1,si,casa,5.523,0.768,0.836,monseñor alfonso uribe jaramillo,ciencuadras
+410000000.0,56.0,2,2,4,,2,si,apartamento,4.062,1.677,1.614,el porvenir,ciencuadras
+275000000.0,54.0,2,2,4,1,1,si,apartamento,6.671,1.228,1.274,monseñor alfonso uribe jaramillo,metrocuadrado
+276000000.0,49.0,2,2,4,1,,si,apartamento,5.519,0.884,0.794,liborio mejia,lonja_propiedad_raiz
+550000000.0,74.0,2,2,6,1,1,no,apartamento,6.346,3.145,3.222,san antonio,ciencuadras
+390000000.0,60.0,2,2,4,1,1,si,apartamento,4.812,1.289,1.165,liborio mejia,ciencuadras
+2600000000.0,4000.0,4,5,5,8,,si,casa,7.346,2.59,2.71,rionegro,ciencuadras
+750000000.0,90.0,3,3,4,1,,si,apartamento,2.576,3.35,3.279,rionegro,ciencuadras
+1150000000.0,220.0,3,4,5,2,1,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+340000000.0,50.0,2,2,3,,1,no,apartamento,5.779,0.201,0.275,liborio mejia,lonja_propiedad_raiz
+656000000.0,76.0,2,2,6,1,,si,apartamento,6.03,3.149,3.215,san antonio,ciencuadras
+650000000.0,90.0,3,2,6,1,1,si,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+1000000000.0,200.0,2,2,5,2,1,si,casa,3.143,2.737,2.671,el porvenir,ciencuadras
+3500000000.0,550.0,4,4,6,2,1,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+650000000.0,67.0,1,2,5,1,,no,apartamento,1.649,6.855,6.772,rionegro,ciencuadras
+530000000.0,87.73,2,2,4,1,1,no,apartamento,6.334,3.048,3.127,san antonio,ciencuadras
+3200000000.0,380.0,3,4,6,2,,si,casa,5.523,0.768,0.836,rionegro,metrocuadrado
+770000000.0,79.53,3,2,4,2,,no,apartamento,6.886,3.21,3.304,san antonio,ciencuadras
+800000000.0,79.0,3,2,5,1,8,si,apartamento,4.514,1.505,1.481,el porvenir,lonja_propiedad_raiz
+2035748609.0,191.74,3,5,5,2,1,si,apartamento,7.271,7.52,7.551,rionegro,metrocuadrado
+4300000000.0,620.0,5,7,6,2,,si,casa,4.166,3.894,3.888,rionegro,ciencuadras
+6000000000.0,500.0,5,5,,10,1,si,casa_campestre,5.247,0.498,0.494,liborio mejia,ciencuadras
+600000000.0,57.0,2,2,5,1,,si,apartamento,3.498,2.659,2.612,el porvenir,ciencuadras
+400000000.0,115.0,4,2,3,,,no,apartamento,4.81,1.079,1.059,el porvenir,ciencuadras
+1400000000.0,210.0,3,3,5,1,1,si,casa,4.533,3.869,3.876,rionegro,metrocuadrado
+720000000.0,120.0,3,4,4,1,16,si,casa,5.894,1.11,1.208,monseñor alfonso uribe jaramillo,ciencuadras
+570000000.0,70.0,2,2,5,1,,no,apartamento,2.334,3.752,3.684,rionegro,ciencuadras
+560000000.0,67.0,2,2,5,1,1,si,apartamento,3.304,2.682,2.624,el porvenir,ciencuadras
+1400000000.0,119.0,2,2,4,2,,si,apartamento,3.085,8.647,8.544,rionegro,metrocuadrado
+2200000000.0,320.0,4,3,,2,,no,casa_campestre,5.523,0.768,0.836,rionegro,ciencuadras
+3250000000.0,423.0,4,5,5,4,,si,casa,3.284,6.061,6.021,rionegro,ciencuadras
+650000000.0,79.0,3,2,6,1,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+620000000.0,79.0,3,2,5,1,1,no,apartamento,5.6,0.022,0.139,liborio mejia,ciencuadras
+2400000000.0,215.0,3,3,5,1,,si,casa,6.431,6.02,6.055,rionegro,metrocuadrado
+530000000.0,60.0,2,2,6,2,,no,apartamento,6.185,2.714,2.792,san antonio,ciencuadras
+560000000.0,67.0,2,2,6,1,,no,apartamento,5.6,0.022,0.139,liborio mejia,ciencuadras
+2200000000.0,350.0,4,3,4,2,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+3000000000.0,127.0,3,3,5,1,,si,casa,6.206,1.858,1.955,rionegro,ciencuadras
+680000000.0,60.0,1,2,6,1,,si,apartamento,4.45,4.144,4.147,rionegro,ciencuadras
+2850000000.0,381.0,3,4,5,5,,si,casa,1.522,6.893,6.806,rionegro,ciencuadras
+1200000000.0,170.0,4,4,6,2,,no,casa,5.6,0.022,0.139,liborio mejia,lonja_propiedad_raiz
+570000000.0,73.0,3,2,4,1,,no,apartamento,7.788,2.193,2.3,monseñor alfonso uribe jaramillo,ciencuadras
+3200000000.0,450.0,5,7,5,3,,no,casa,4.499,3.931,3.936,rionegro,ciencuadras
+620000000.0,60.0,1,2,5,1,1,si,apartamento,4.739,0.943,0.823,liborio mejia,lonja_propiedad_raiz
+1100000000.0,168.0,3,4,5,2,,si,casa,4.749,3.308,3.324,rionegro,lonja_propiedad_raiz
+340000000.0,60.0,3,2,3,1,1,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+285000000.0,55.0,2,2,4,,,si,apartamento,4.46,1.415,1.377,el porvenir,lonja_propiedad_raiz
+650000000.0,67.0,2,2,2,1,,no,apartamento,7.446,1.869,1.953,rionegro,metrocuadrado
+630000000.0,67.0,2,2,2,1,,no,apartamento,7.446,1.869,1.953,rionegro,metrocuadrado
+680000000.0,68.0,2,2,4,1,,no,apartamento,7.446,1.869,1.953,rionegro,lonja_propiedad_raiz
+580000000.0,68.0,2,2,4,1,1,no,apartamento,5.095,0.898,0.907,el porvenir,ciencuadras
+355000000.0,54.0,3,2,4,1,,si,apartamento,4.244,1.416,1.344,liborio mejia,lonja_propiedad_raiz
+1300000000.0,96.0,2,3,5,2,1,no,apartamento,3.063,8.646,8.544,rionegro,metrocuadrado
+280000000.0,48.41,3,2,4,1,,no,apartamento,8.18,2.587,2.694,rionegro,metrocuadrado
+606000000.0,66.0,2,2,5,1,1,no,apartamento,5.992,3.268,3.331,san antonio,metrocuadrado
+330000000.0,56.0,3,2,3,1,,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+260000000.0,56.0,2,2,3,,12,no,apartamento,4.817,1.237,1.112,liborio mejia,metrocuadrado
+690000000.0,74.0,2,2,,3,,si,casa_campestre,7.858,4.767,4.704,rionegro,ciencuadras
+1390000000.0,235.0,5,5,1,2,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+1250000000.0,150.0,3,4,5,1,,no,casa,6.119,2.864,2.938,san antonio,lonja_propiedad_raiz
+950000000.0,220.0,4,5,5,2,,no,casa,3.264,2.775,2.719,el porvenir,metrocuadrado
+1450000000.0,396.0,4,5,4,2,26,si,casa,5.615,2.293,2.353,san antonio,ciencuadras
+390000000.0,88.0,3,2,5,1,,si,apartamento,5.071,0.588,0.467,liborio mejia,ciencuadras
+310000000.0,48.0,2,2,4,,,no,apartamento,4.223,1.864,1.833,el porvenir,ciencuadras
+660000000.0,76.0,2,2,4,1,,no,apartamento,6.273,1.095,1.216,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+448000000.0,82.0,2,2,5,1,,si,apartamento,5.364,2.667,2.712,san antonio,metrocuadrado
+385000000.0,69.0,3,2,5,1,,si,apartamento,3.329,2.653,2.596,el porvenir,ciencuadras
+400000000.0,71.0,3,2,5,1,1,si,apartamento,6.213,2.673,2.754,san antonio,ciencuadras
+410000000.0,118.0,3,2,5,1,1,no,apartamento,2.991,2.855,2.785,el porvenir,lonja_propiedad_raiz
+1090000000.0,186.0,3,3,4,2,1,no,casa,7.251,2.529,2.648,rionegro,ciencuadras
+409900000.0,54.4,2,2,4,1,1,no,apartamento,4.028,1.695,1.629,el porvenir,ciencuadras
+1900000000.0,320.0,3,4,5,2,1,no,casa,5.523,0.768,0.836,rionegro,metrocuadrado
+410000000.0,80.0,3,2,4,1,5,no,apartamento,6.386,0.831,0.952,monseñor alfonso uribe jaramillo,ciencuadras
+305000000.0,46.0,2,2,4,,,no,apartamento,5.646,0.391,0.486,liborio mejia,ciencuadras
+790000000.0,90.0,3,3,5,1,,si,apartamento,5.017,1.532,1.556,el porvenir,ciencuadras
+280000000.0,52.0,2,2,3,,,si,apartamento,4.817,1.237,1.112,liborio mejia,ciencuadras
+390000000.0,56.8,3,2,4,2,1,si,apartamento,5.385,1.018,0.916,liborio mejia,ciencuadras
+5800000000.0,800.0,5,7,6,10,,no,casa,4.572,6.222,6.21,rionegro,ciencuadras
+800000000.0,146.0,4,3,5,1,,no,casa,6.194,2.705,2.784,san antonio,ciencuadras
+800000000.0,138.0,3,2,5,1,15,no,casa,5.602,0.015,0.136,liborio mejia,ciencuadras
+625000000.0,65.47,2,2,4,1,1,si,apartamento,3.121,2.939,2.881,el porvenir,lonja_propiedad_raiz
+285000000.0,60.0,3,2,4,1,,no,apartamento,4.843,1.279,1.155,rionegro,metrocuadrado
+680000000.0,90.0,3,2,5,1,1,si,apartamento,3.405,2.3,2.224,el porvenir,ciencuadras
+1600000000.0,240.0,3,5,,4,,no,casa_campestre,5.523,0.768,0.836,rionegro,ciencuadras
+280000000.0,75.0,2,1,3,,,no,apartamento,5.94,2.845,2.911,san antonio,metrocuadrado
+980000000.0,107.0,2,2,4,2,,si,apartamento,5.02,10.552,10.463,rionegro,metrocuadrado
+2000000000.0,824.0,5,5,6,1,,no,casa,5.525,2.345,2.4,san antonio,metrocuadrado
+1300000000.0,180.0,4,3,3,5,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+550000000.0,110.0,3,3,4,1,,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+288000000.0,55.0,3,2,3,1,6,si,apartamento,4.468,1.428,1.393,el porvenir,lonja_propiedad_raiz
+270000000.0,52.0,2,2,4,1,1,no,apartamento,6.647,2.146,2.109,rionegro,ciencuadras
+2400000000.0,170.0,4,3,4,,,no,casa,7.403,6.968,7.011,rionegro,lonja_propiedad_raiz
+465000000.0,72.0,2,2,4,1,1,no,apartamento,6.158,1.247,1.357,monseñor alfonso uribe jaramillo,ciencuadras
+360000000.0,67.7,3,2,4,1,1,no,apartamento,4.602,1.694,1.57,rionegro,metrocuadrado
+1450000000.0,220.0,4,3,6,2,,si,casa,3.096,2.807,2.742,el porvenir,ciencuadras
+2500000000.0,450.0,3,4,6,2,,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+260000000.0,71.0,3,2,5,1,,si,apartamento,5.102,0.534,0.48,liborio mejia,ciencuadras
+395000000.0,68.0,2,2,5,1,1,si,apartamento,6.108,2.98,3.051,san antonio,metrocuadrado
+280000000.0,80.0,3,2,5,1,1,si,apartamento,6.683,1.099,1.212,monseñor alfonso uribe jaramillo,ciencuadras
+350000000.0,54.0,2,2,4,1,1,si,apartamento,4.095,1.56,1.448,rionegro,ciencuadras
+530000000.0,76.7,3,2,5,1,,no,apartamento,7.596,2.004,2.112,monseñor alfonso uribe jaramillo,ciencuadras
+350000000.0,49.0,2,2,4,1,,no,apartamento,4.118,1.862,1.821,el porvenir,ciencuadras
+280000000.0,54.0,2,2,1,,,si,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+590000000.0,69.0,2,3,5,1,,si,apartamento,3.33,2.401,2.327,el porvenir,ciencuadras
+560000000.0,76.35,2,2,5,1,1,no,apartamento,3.496,2.656,2.609,el porvenir,metrocuadrado
+890000000.0,144.0,4,4,,1,,si,casa_campestre,7.858,4.767,4.704,rionegro,metrocuadrado
+1050000000.0,214.0,3,3,3,2,,no,casa,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+520000000.0,65.0,3,2,6,1,,no,apartamento,5.914,3.383,3.441,san antonio,ciencuadras
+770000000.0,140.0,4,3,4,1,,no,casa,6.469,3.166,3.247,san antonio,ciencuadras
+595000000.0,75.0,2,3,5,1,,no,casa,6.017,3.212,3.276,san antonio,ciencuadras
+1950000000.0,581.0,4,5,4,3,,no,casa,5.613,6.374,6.384,rionegro,metrocuadrado
+265000000.0,56.0,2,2,4,,,si,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+7400000000.0,2700.0,5,8,,3,,si,casa_campestre,5.37,6.403,6.406,rionegro,lonja_propiedad_raiz
+480000000.0,63.0,2,2,5,1,1,si,apartamento,3.301,2.459,2.387,el porvenir,ciencuadras
+310000000.0,55.0,2,2,3,,,no,apartamento,4.063,1.676,1.613,el porvenir,metrocuadrado
+790000000.0,94.0,3,2,5,1,1,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+2200000000.0,320.0,4,3,5,3,1,si,casa,5.529,6.33,6.339,corregimiento gilberto echeverri mejía,ciencuadras
+1870000000.0,168.0,4,3,6,2,,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+220000000.0,57.0,3,2,4,1,1,si,apartamento,5.045,0.843,0.718,liborio mejia,metrocuadrado
+400000000.0,66.0,2,2,4,1,,si,apartamento,6.597,3.244,3.328,san antonio,lonja_propiedad_raiz
+245000000.0,58.0,3,3,4,1,,si,apartamento,5.045,0.843,0.718,liborio mejia,ciencuadras
+346000000.0,68.0,3,2,4,1,,no,apartamento,3.329,2.653,2.596,el porvenir,ciencuadras
+197000000.0,56.0,3,2,4,1,,si,apartamento,5.491,0.857,0.764,liborio mejia,ciencuadras
+259000000.0,59.0,3,2,4,1,1,no,apartamento,5.491,0.857,0.764,liborio mejia,ciencuadras
+325000000.0,66.0,3,2,4,1,,no,apartamento,6.324,2.988,3.067,san antonio,ciencuadras
+217000000.0,48.0,2,2,4,1,1,no,apartamento,5.478,0.766,0.672,liborio mejia,ciencuadras
+238000000.0,58.0,3,2,4,1,,no,apartamento,5.143,0.983,1.005,el porvenir,ciencuadras
+514000000.0,80.0,3,2,4,2,1,si,apartamento,6.394,2.925,3.008,san antonio,ciencuadras
+370000000.0,75.0,3,2,5,1,,si,apartamento,5.23,0.748,0.77,el porvenir,lonja_propiedad_raiz
+315000000.0,64.0,2,2,5,1,,no,apartamento,6.325,1.368,1.483,monseñor alfonso uribe jaramillo,ciencuadras
+220000000.0,56.0,3,2,4,1,,si,apartamento,5.045,0.843,0.718,liborio mejia,ciencuadras
+750000000.0,60.0,2,2,6,1,2,no,apartamento,6.342,3.14,3.217,san antonio,ciencuadras
+380000000.0,57.0,2,2,4,1,,no,apartamento,6.282,1.358,1.471,monseñor alfonso uribe jaramillo,metrocuadrado
+270000000.0,68.0,3,2,4,1,,no,apartamento,6.286,2.781,2.863,san antonio,ciencuadras
+420000000.0,62.0,3,2,3,1,,no,apartamento,4.328,1.573,1.448,rionegro,metrocuadrado
+264000000.0,51.0,2,2,3,,,si,apartamento,6.462,1.196,1.21,liborio mejia,metrocuadrado
+680000000.0,65.0,1,2,5,2,,no,apartamento,5.523,0.768,0.836,monseñor alfonso uribe jaramillo,ciencuadras
+550000000.0,66.0,2,2,4,,3,no,apartamento,6.243,3.006,3.081,san antonio,lonja_propiedad_raiz
+1230000000.0,290.0,3,3,6,,,no,casa,3.683,2.223,2.167,el porvenir,ciencuadras
+2100000000.0,837.0,4,3,6,1,,si,casa,5.343,2.361,2.407,san antonio,ciencuadras
+330000000.0,48.0,2,2,4,,,no,apartamento,4.021,1.612,1.53,el porvenir,metrocuadrado
+312000000.0,54.0,2,2,4,,,no,apartamento,5.333,0.278,0.171,liborio mejia,ciencuadras
+1100000000.0,170.0,4,5,5,1,2,no,casa,5.602,0.015,0.136,liborio mejia,lonja_propiedad_raiz
+650000000.0,78.0,4,3,4,1,31,no,casa,5.602,0.015,0.136,liborio mejia,ciencuadras
+460000000.0,110.0,3,4,4,,,no,apartamento,3.491,2.554,2.502,el porvenir,lonja_propiedad_raiz
+580000000.0,68.0,3,2,5,,,si,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+770000000.0,87.0,3,3,4,,,si,apartamento,3.496,2.656,2.609,el porvenir,ciencuadras
+480000000.0,313.0,6,2,3,,,no,casa,5.5,0.345,0.248,liborio mejia,ciencuadras
+610000000.0,76.0,3,2,5,1,,si,apartamento,3.496,2.656,2.609,el porvenir,metrocuadrado
+450000000.0,72.72,2,2,4,1,14,no,apartamento,6.264,2.746,2.827,san antonio,ciencuadras
+340000000.0,57.0,3,2,4,1,1,no,apartamento,5.084,1.515,1.4,rionegro,metrocuadrado
+1250000000.0,205.0,3,6,4,3,1,si,casa,5.525,2.345,2.4,san antonio,metrocuadrado
+600000000.0,73.0,2,2,4,1,,si,apartamento,6.522,1.678,1.793,san antonio,ciencuadras
+850000000.0,185.4,4,6,3,2,,no,casa,4.76,1.174,1.155,el porvenir,metrocuadrado
+640000000.0,76.0,3,2,5,1,1,si,apartamento,3.153,2.609,2.536,san antonio,ciencuadras
+1085000000.0,141.0,2,4,5,3,1,si,apartamento,5.754,5.07,5.101,rionegro,ciencuadras
+325000000.0,56.02,3,2,3,1,1,si,apartamento,5.177,1.408,1.297,rionegro,ciencuadras
+340000000.0,49.0,2,2,3,1,1,no,apartamento,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+605000000.0,82.0,1,2,2,,,no,apartamento,2.159,3.993,3.924,rionegro,ciencuadras
+340000000.0,49.0,2,2,4,1,,no,apartamento,5.385,1.018,0.916,liborio mejia,metrocuadrado
+850000000.0,89.0,3,2,5,1,,no,apartamento,5.845,3.079,3.139,san antonio,metrocuadrado
+250000000.0,49.2,2,2,4,1,,no,apartamento,5.944,0.56,0.682,monseñor alfonso uribe jaramillo,ciencuadras
+480000000.0,66.0,2,2,4,2,1,no,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+575000000.0,172.0,5,3,3,1,,no,apartamento,5.6,0.022,0.139,el porvenir,ciencuadras
+565000000.0,65.0,2,2,5,1,1,si,apartamento,5.912,1.924,2.004,san antonio,ciencuadras
+620000000.0,84.0,3,2,5,1,,no,apartamento,2.576,3.35,3.279,rionegro,ciencuadras
+210000000.0,50.0,3,2,2,1,,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+260000000.0,48.41,2,2,3,,,si,apartamento,8.15,2.56,2.668,monseñor alfonso uribe jaramillo,ciencuadras
+700000000.0,90.0,3,3,4,1,1,no,apartamento,3.252,2.592,2.526,el porvenir,ciencuadras
+1099000000.0,230.0,4,5,5,1,,no,casa,3.178,2.657,2.589,el porvenir,metrocuadrado
+1900000000.0,340.0,4,3,2,,,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+2500000000.0,370.0,3,3,5,2,8,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+490000000.0,78.43,3,2,5,1,1,si,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+670000000.0,60.0,1,2,6,1,1,si,apartamento,4.45,4.144,4.147,rionegro,ciencuadras
+345000000.0,60.0,2,2,4,1,,si,apartamento,4.789,1.29,1.165,rionegro,lonja_propiedad_raiz
+480000000.0,58.0,2,2,5,1,,no,apartamento,6.525,1.482,1.602,monseñor alfonso uribe jaramillo,metrocuadrado
+11800000000.0,2686.0,11,14,5,,,no,casa,4.548,6.258,6.244,rionegro,lonja_propiedad_raiz
+650000000.0,113.0,3,2,5,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,lonja_propiedad_raiz
+1200000000.0,200.0,3,3,4,3,,si,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+445000000.0,72.0,3,2,4,1,14,no,apartamento,5.934,2.713,2.781,san antonio,metrocuadrado
+265000000.0,55.0,3,1,4,1,,si,apartamento,7.226,2.027,2.05,el porvenir,ciencuadras
+399000000.0,54.0,1,1,4,1,,no,apartamento,5.367,1.291,1.343,el porvenir,ciencuadras
+310000000.0,57.0,3,2,3,1,1,no,apartamento,5.19,1.433,1.322,rionegro,ciencuadras
+476500000.0,58.0,2,2,5,,1,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+8199500000.0,800.0,6,8,,6,,no,casa_campestre,7.016,8.017,8.035,rionegro,ciencuadras
+1420000000.0,235.0,5,5,4,2,,si,casa,3.153,2.609,2.536,san antonio,lonja_propiedad_raiz
+460000000.0,105.0,4,3,4,,,no,casa,3.596,2.45,2.401,el porvenir,lonja_propiedad_raiz
+350000000.0,50.0,2,2,4,1,1,no,apartamento,5.472,1.107,1.012,liborio mejia,ciencuadras
+650000000.0,92.0,3,2,5,1,1,si,apartamento,3.21,2.537,2.463,el porvenir,lonja_propiedad_raiz
+250000000.0,52.0,2,2,4,,,si,apartamento,6.461,1.195,1.209,liborio mejia,ciencuadras
+620000000.0,75.0,2,2,5,1,1,no,apartamento,3.314,2.419,2.345,el porvenir,ciencuadras
+590000000.0,83.0,3,2,4,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,metrocuadrado
+280000000.0,57.0,3,2,4,1,1,no,apartamento,5.256,0.973,0.862,el porvenir,metrocuadrado
+1350000000.0,120.0,2,3,6,2,,si,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+720000000.0,74.0,2,2,5,1,,no,apartamento,6.376,3.544,3.615,san antonio,metrocuadrado
+1870000000.0,168.0,4,3,5,2,,si,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+1400000000.0,250.0,3,3,5,2,,no,casa,5.6,0.022,0.139,liborio mejia,ciencuadras
+630000000.0,76.0,3,2,5,1,,si,apartamento,6.62,1.822,1.937,otras,ciencuadras
+380000000.0,53.0,1,2,4,1,4,no,apartamento,5.099,1.021,0.901,liborio mejia,metrocuadrado
+360000000.0,62.0,3,2,4,1,1,si,apartamento,3.991,1.706,1.59,rionegro,lonja_propiedad_raiz
+680000000.0,130.0,3,3,5,1,,no,casa,5.906,2.865,2.931,san antonio,ciencuadras
+750000000.0,73.0,2,2,4,1,,no,apartamento,6.197,4.216,4.272,rionegro,lonja_propiedad_raiz
+2550000000.0,336.0,3,4,5,2,,no,casa,6.139,9.257,9.233,rionegro,ciencuadras
+220000000.0,50.0,3,2,3,,,si,apartamento,6.943,1.456,1.515,monseñor alfonso uribe jaramillo,metrocuadrado
+710000000.0,79.53,2,2,4,1,1,no,apartamento,7.251,2.529,2.648,rionegro,ciencuadras
+400000000.0,44.0,1,2,5,1,,no,apartamento,0.821,6.272,6.168,rionegro,ciencuadras
+242143274.0,57.9,2,2,5,1,1,no,apartamento,5.565,3.309,3.356,san antonio,metrocuadrado
+220000000.0,48.0,2,2,4,,,si,apartamento,8.15,2.56,2.668,rionegro,lonja_propiedad_raiz
+2350000000.0,340.0,3,4,4,,,no,casa,6.269,2.889,2.968,san antonio,ciencuadras
+310000000.0,54.0,2,2,4,1,,si,apartamento,5.447,0.789,0.691,liborio mejia,ciencuadras
+2035000000.0,191.0,3,3,,2,,no,apartamento,5.613,6.374,6.384,rionegro,ciencuadras
+340000000.0,50.0,2,2,4,1,,si,apartamento,8.129,2.53,2.634,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+340000000.0,56.0,2,2,4,1,,si,apartamento,5.18,1.469,1.358,el porvenir,lonja_propiedad_raiz
+425000000.0,84.0,3,2,4,1,1,no,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+2950000000.0,305.0,4,5,,1,,no,casa_campestre,4.572,6.222,6.21,rionegro,ciencuadras
+650000000.0,76.25,3,2,5,1,1,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+400000000.0,70.0,3,2,4,,,no,casa,6.294,1.372,1.485,monseñor alfonso uribe jaramillo,ciencuadras
+1580000000.0,120.0,2,3,6,1,1,si,apartamento,5.6,0.022,0.139,el porvenir,ciencuadras
+1150000000.0,353.0,3,4,4,1,,no,casa,6.269,2.889,2.968,san antonio,lonja_propiedad_raiz
+680000000.0,140.0,5,4,4,3,,no,casa,7.041,1.637,1.682,monseñor alfonso uribe jaramillo,ciencuadras
+1200000000.0,260.0,4,5,4,2,1,no,casa,3.142,2.609,2.535,el porvenir,metrocuadrado
+520000000.0,112.0,4,3,4,,,no,casa,4.855,1.014,0.994,el porvenir,ciencuadras
+1600000000.0,375.0,4,4,5,1,,no,casa,3.386,2.33,2.256,el porvenir,lonja_propiedad_raiz
+300000000.0,60.0,2,2,4,1,1,si,apartamento,4.721,1.37,1.245,rionegro,ciencuadras
+1200000000.0,145.0,3,4,5,2,,no,casa,6.261,2.824,2.903,san antonio,ciencuadras
+735000000.0,120.0,3,2,4,1,,no,apartamento,2.159,3.993,3.924,rionegro,ciencuadras
+950000000.0,202.0,3,4,5,2,,no,casa,5.864,3.646,3.698,san antonio,ciencuadras
+365000000.0,53.0,2,2,5,1,,no,apartamento,5.26,1.578,1.471,rionegro,ciencuadras
+350000000.0,110.0,5,3,2,2,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+3200000000.0,460.0,5,6,6,3,1,si,casa,4.482,5.843,5.833,rionegro,ciencuadras
+570000000.0,80.0,3,2,3,2,1,no,apartamento,6.194,2.705,2.784,san antonio,ciencuadras
+310000000.0,50.0,2,2,4,,,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+630000000.0,78.0,3,2,5,1,1,no,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+440000000.0,53.81,2,2,4,1,1,si,apartamento,6.737,1.894,2.011,rionegro,ciencuadras
+1200000000.0,183.81,3,3,5,,,no,casa,5.6,0.022,0.139,el porvenir,metrocuadrado
+990000000.0,150.0,3,3,4,1,,no,apartamento,2.159,3.993,3.924,rionegro,metrocuadrado
+690000000.0,83.0,2,2,4,1,1,si,apartamento,4.519,1.386,1.353,rural,ciencuadras
+787500000.0,115.0,3,2,5,1,1,si,apartamento,7.541,1.96,2.072,san antonio,ciencuadras
+680000000.0,142.0,4,4,4,1,,no,casa,6.469,3.166,3.247,san antonio,ciencuadras
+2300000000.0,230.0,3,5,,4,1,no,casa_campestre,2.159,3.993,3.924,rionegro,ciencuadras
+380000000.0,77.0,2,2,4,1,1,no,apartamento,5.69,0.884,0.814,liborio mejia,ciencuadras
+630000000.0,100.0,2,2,5,1,1,no,apartamento,6.197,4.216,4.272,rionegro,metrocuadrado
+1400000000.0,2117.0,4,4,4,,,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+365000000.0,64.0,3,2,3,1,1,si,apartamento,4.835,1.286,1.162,rionegro,metrocuadrado
+1380000000.0,230.0,4,4,5,2,1,si,casa,5.301,0.704,0.736,liborio mejia,metrocuadrado
+1200000000.0,250.0,5,8,3,2,1,no,casa,3.382,2.333,2.258,el porvenir,lonja_propiedad_raiz
+650000000.0,76.0,3,2,5,1,,no,apartamento,5.579,0.228,0.165,liborio mejia,ciencuadras
+460000000.0,65.0,3,2,3,2,1,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+1100000000.0,258.0,5,3,4,,,no,casa,6.269,2.889,2.968,san antonio,lonja_propiedad_raiz
+253000000.0,53.0,2,2,3,,,no,apartamento,5.944,0.56,0.682,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+1380000000.0,150.0,3,4,5,2,,si,apartamento,5.244,0.754,0.778,comuna 3 monseñor alfonso uribe jaramillo,metrocuadrado
+605000000.0,82.0,1,2,4,2,,no,apartamento,6.593,1.009,1.123,monseñor alfonso uribe jaramillo,ciencuadras
+530000000.0,69.0,2,2,5,1,,si,apartamento,5.953,1.277,1.374,monseñor alfonso uribe jaramillo,ciencuadras
+250000000.0,48.41,3,2,3,1,,no,apartamento,8.159,2.568,2.675,rionegro,ciencuadras
+595000000.0,80.0,2,2,4,1,1,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+452000000.0,56.0,2,2,3,1,,no,apartamento,3.496,2.656,2.609,el porvenir,metrocuadrado
+530000000.0,67.0,2,2,5,1,,si,apartamento,6.916,3.24,3.335,san antonio,ciencuadras
+650000000.0,90.1,3,3,5,1,1,si,apartamento,3.262,2.513,2.443,el porvenir,ciencuadras
+360000000.0,50.0,2,2,3,1,1,no,apartamento,5.944,0.56,0.682,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+380000000.0,85.0,3,2,3,,,no,apartamento,5.6,0.022,0.139,el porvenir,ciencuadras
+210000000.0,45.0,2,2,3,,1,no,apartamento,2.159,3.993,3.924,rionegro,metrocuadrado
+290000000.0,52.0,2,2,3,1,1,no,apartamento,2.159,3.993,3.924,rionegro,metrocuadrado
+520000000.0,63.0,1,2,5,1,,si,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+220000000.0,49.0,3,2,4,,,si,apartamento,4.224,1.864,1.833,el porvenir,ciencuadras
+2600000000.0,170.0,4,4,5,1,1,no,casa,5.244,0.754,0.778,el porvenir,metrocuadrado
+720000000.0,180.0,3,3,4,1,,no,casa,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+5000000000.0,660.0,4,7,5,2,1,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+770000000.0,91.0,3,2,5,1,1,si,apartamento,5.268,0.701,0.727,liborio mejia,ciencuadras
+550000000.0,75.0,2,2,5,,2,no,apartamento,4.961,0.764,0.729,el porvenir,ciencuadras
+1744927000.0,139.77,3,5,6,2,2,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+420000000.0,64.0,2,2,5,1,1,no,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+620000000.0,83.0,3,3,5,,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+650000000.0,80.0,3,2,5,,,no,apartamento,5.489,0.175,0.056,liborio mejia,metrocuadrado
+480000000.0,76.0,3,2,5,1,,si,apartamento,6.36,1.56,1.671,san antonio,ciencuadras
+1300000000.0,893.0,6,5,5,1,,no,casa,5.244,0.754,0.778,el porvenir,metrocuadrado
+850000000.0,260.0,6,5,4,2,,no,casa,4.588,1.314,1.283,el porvenir,metrocuadrado
+650000000.0,83.0,3,3,5,1,,si,apartamento,3.435,2.273,2.197,el porvenir,ciencuadras
+880000000.0,82.0,2,3,2,2,1,si,apartamento,5.523,0.768,0.836,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+1190000000.0,210.0,4,13,4,3,,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+350000000.0,57.0,3,2,5,1,,si,apartamento,5.523,0.768,0.836,rionegro,metrocuadrado
+280000000.0,60.0,2,2,3,,,no,apartamento,4.293,1.371,1.301,liborio mejia,metrocuadrado
+1150000000.0,162.0,3,3,6,1,,si,casa,6.018,3.136,3.201,san antonio,ciencuadras
+620000000.0,65.0,2,2,5,1,,si,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+405600000.0,67.89,3,2,4,1,,no,apartamento,5.957,0.578,0.7,monseñor alfonso uribe jaramillo,ciencuadras
+225000000.0,52.0,2,2,3,,,no,apartamento,4.392,1.493,1.368,rionegro,metrocuadrado
+470000000.0,112.3,5,3,4,,1,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+470000000.0,60.0,3,2,6,1,1,si,apartamento,5.914,3.383,3.441,san antonio,lonja_propiedad_raiz
+587000000.0,66.71,2,2,5,1,,si,apartamento,6.902,3.219,3.314,otras,lonja_propiedad_raiz
+335000000.0,56.0,2,2,4,1,,no,apartamento,2.159,3.993,3.924,rionegro,ciencuadras
+500000000.0,70.0,1,,3,1,,no,apartamento,5.6,1.553,1.621,san antonio,metrocuadrado
+290000000.0,48.0,2,2,3,1,1,no,apartamento,8.15,2.56,2.668,rionegro,ciencuadras
+9000000000.0,5300.0,6,6,5,3,1,si,casa,5.242,0.755,0.779,comuna 3 monseñor alfonso uribe jaramillo,metrocuadrado
+540000000.0,74.0,3,2,5,1,,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+4000000000.0,560.0,5,6,6,8,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+674000000.0,77.0,3,2,4,1,1,si,apartamento,2.159,3.993,3.924,rionegro,ciencuadras
+720000000.0,170.0,5,3,4,1,1,no,casa,6.197,4.216,4.272,rionegro,ciencuadras
+390000000.0,56.0,2,2,4,1,,si,apartamento,5.26,1.578,1.471,rionegro,ciencuadras
+2595000000.0,373.0,3,3,,3,,si,casa_campestre,5.523,0.768,0.836,rionegro,metrocuadrado
+1200000000.0,239.0,3,4,4,1,,si,casa,6.224,2.911,2.988,san antonio,ciencuadras
+1250000000.0,190.0,4,3,5,1,,no,casa,5.796,3.827,3.875,san antonio,ciencuadras
+470000000.0,69.0,3,2,4,1,6,si,apartamento,5.602,0.015,0.136,liborio mejia,lonja_propiedad_raiz
+276000000.0,56.0,3,2,4,,1,si,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+450000000.0,60.0,2,2,4,1,,no,apartamento,4.835,1.286,1.162,rionegro,metrocuadrado
+2400000000.0,360.0,4,4,6,5,1,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+521212150.0,73.0,3,2,4,1,,si,apartamento,6.005,1.146,1.25,monseñor alfonso uribe jaramillo,ciencuadras
+780000000.0,150.0,3,4,4,,,no,casa,6.469,3.166,3.247,san antonio,ciencuadras
+530000000.0,68.0,3,2,5,1,1,no,apartamento,2.956,2.882,2.811,el porvenir,metrocuadrado
+220000000.0,54.0,2,2,3,,,no,apartamento,6.558,1.149,1.187,liborio mejia,metrocuadrado
+400000000.0,50.0,2,2,4,1,,no,apartamento,6.151,1.299,1.407,monseñor alfonso uribe jaramillo,ciencuadras
+1190000000.0,138.0,2,3,6,1,1,si,apartamento,5.613,6.374,6.384,rionegro,ciencuadras
+577832754.0,76.0,2,2,4,1,1,no,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+356000000.0,56.0,2,2,4,1,,no,apartamento,5.204,0.996,1.026,el porvenir,ciencuadras
+2600000000.0,500.0,3,4,4,1,1,si,casa,6.269,2.889,2.968,san antonio,lonja_propiedad_raiz
+580000000.0,84.0,3,2,5,1,,si,apartamento,6.155,2.668,2.747,san antonio,ciencuadras
+560000000.0,67.0,3,2,5,2,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+450000000.0,60.0,3,2,6,,,no,apartamento,5.858,3.245,3.303,san antonio,lonja_propiedad_raiz
+3400000000.0,332.0,3,5,6,2,4,no,casa,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+575000000.0,120.0,2,4,2,1,1,no,casa,6.248,2.926,3.003,san antonio,metrocuadrado
+890000000.0,320.0,10,6,2,1,,no,casa,6.603,2.972,3.061,el porvenir,ciencuadras
+550000000.0,140.0,2,3,3,1,,no,casa,5.944,0.56,0.682,monseñor alfonso uribe jaramillo,ciencuadras
+450000000.0,58.0,2,2,3,,1,si,apartamento,6.923,3.24,3.335,san antonio,ciencuadras
+650000000.0,172.0,5,3,4,1,1,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+360000000.0,60.78,2,2,4,1,,si,apartamento,4.835,1.286,1.162,monseñor alfonso uribe jaramillo,metrocuadrado
+230000000.0,52.0,2,2,3,,1,si,apartamento,4.378,1.519,1.394,rionegro,ciencuadras
+450000000.0,58.6,2,2,5,1,1,si,apartamento,6.754,3.14,3.231,san antonio,lonja_propiedad_raiz
+360000000.0,95.0,3,2,2,,,no,casa,10.83,9.95,10.017,rionegro,ciencuadras
+460000000.0,58.0,2,2,5,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,lonja_propiedad_raiz
+2600000000.0,330.0,3,3,5,,,si,casa,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+550000000.0,66.0,2,2,5,1,,no,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+597000000.0,65.13,2,2,5,1,1,no,apartamento,6.388,3.552,3.624,san antonio,ciencuadras
+800000000.0,81.0,3,1,3,4,,no,casa,3.348,2.261,2.159,rionegro,lonja_propiedad_raiz
+305000000.0,57.0,3,2,4,1,1,si,apartamento,5.185,0.968,0.852,liborio mejia,ciencuadras
+1550000000.0,201.0,4,4,6,2,,si,casa,3.123,2.709,2.641,el porvenir,ciencuadras
+1200000000.0,220.0,4,4,5,,,no,casa,3.251,2.791,2.734,el porvenir,ciencuadras
+2500000000.0,280.0,4,4,6,2,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+440000000.0,66.0,3,2,4,1,,no,apartamento,5.527,0.891,0.802,liborio mejia,ciencuadras
+720000000.0,78.0,2,2,5,1,1,si,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+220000000.0,48.0,2,2,3,1,,no,apartamento,4.891,0.823,0.7,liborio mejia,ciencuadras
+460000000.0,66.0,3,2,3,2,1,si,apartamento,6.192,2.704,2.783,san antonio,metrocuadrado
+850000000.0,195.0,3,5,4,1,,no,casa,6.176,1.281,1.391,monseñor alfonso uribe jaramillo,ciencuadras
+650000000.0,250.0,3,1,3,7,1,no,casa,7.189,1.587,1.688,monseñor alfonso uribe jaramillo,metrocuadrado
+2200000000.0,420.0,3,5,4,2,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+330000000.0,55.7,2,2,3,1,1,si,apartamento,6.848,1.287,1.405,monseñor alfonso uribe jaramillo,ciencuadras
+175000000.0,30.0,1,1,4,,,no,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+730000000.0,172.0,5,3,3,1,,no,casa,4.95,1.262,1.272,el porvenir,ciencuadras
+460000000.0,73.0,3,2,4,1,,no,apartamento,5.892,3.141,3.202,san antonio,metrocuadrado
+330000000.0,60.0,2,2,2,1,,no,apartamento,7.486,1.887,1.992,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+315000000.0,59.7,2,2,4,1,8,no,apartamento,5.222,1.316,1.206,rionegro,metrocuadrado
+550000000.0,126.0,3,2,3,1,,no,apartamento,2.159,3.993,3.924,rionegro,ciencuadras
+690000000.0,83.0,3,2,5,1,,no,apartamento,6.105,2.821,2.895,san antonio,ciencuadras
+570000000.0,84.0,2,2,5,1,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+400000000.0,56.0,2,2,4,1,1,si,apartamento,5.244,0.754,0.778,rionegro,ciencuadras
+268000000.0,56.0,3,2,2,,1,no,apartamento,5.957,0.578,0.7,monseñor alfonso uribe jaramillo,ciencuadras
+950000000.0,170.0,3,3,6,1,,no,casa,6.347,1.225,1.345,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+610000000.0,76.0,3,2,4,1,1,no,apartamento,2.159,3.993,3.924,rionegro,ciencuadras
+640000000.0,72.0,2,3,5,,1,si,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+303000000.0,54.0,2,2,4,1,,no,apartamento,4.2,1.429,1.348,el porvenir,lonja_propiedad_raiz
+580000000.0,80.0,3,2,5,1,1,si,apartamento,5.461,2.576,2.626,san antonio,lonja_propiedad_raiz
+570000000.0,120.0,2,2,4,1,1,si,apartamento,3.591,2.289,2.23,el porvenir,metrocuadrado
+1300000000.0,260.0,4,3,3,,,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+600000000.0,90.0,3,1,2,1,,no,casa,2.159,3.993,3.924,rionegro,lonja_propiedad_raiz
+580000000.0,71.0,3,2,5,1,1,no,apartamento,6.353,4.182,4.243,san antonio,ciencuadras
+1100000000.0,230.0,4,5,4,1,,no,casa,3.252,2.801,2.745,el porvenir,metrocuadrado
+700000000.0,254.0,4,3,3,,,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+1700000000.0,166.0,3,4,5,2,,si,apartamento,3.52,9.099,8.997,el porvenir,metrocuadrado
+283300000.0,68.0,2,2,2,1,1,no,apartamento,2.159,3.993,3.924,rionegro,metrocuadrado
+5900000000.0,595.0,6,6,5,4,5,si,casa,4.548,6.258,6.244,rionegro,ciencuadras
+350000000.0,56.0,3,2,4,1,1,si,apartamento,5.229,0.928,0.814,liborio mejia,ciencuadras
+1100000000.0,250.0,4,3,3,1,,no,casa,5.46,0.226,0.105,liborio mejia,metrocuadrado
+495000000.0,62.0,2,2,5,1,1,no,apartamento,2.912,2.938,2.868,el porvenir,metrocuadrado
+1580000000.0,191.0,2,3,4,1,1,si,apartamento,4.572,6.222,6.21,rionegro,metrocuadrado
+470000000.0,57.14,2,1,4,1,,no,apartamento,6.927,3.253,3.347,san antonio,ciencuadras
+3000000000.0,230.0,3,2,4,2,1,si,casa,5.871,1.786,1.867,san antonio,ciencuadras
+620000000.0,82.0,2,2,5,1,,no,apartamento,3.289,2.452,2.379,el porvenir,lonja_propiedad_raiz
+398000000.0,53.81,2,2,4,1,,si,apartamento,6.914,2.068,2.187,rionegro,ciencuadras
+809564337.0,77.0,2,3,4,,1,si,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+5800000000.0,400.0,4,5,5,2,,si,casa,5.523,0.768,0.836,monseñor alfonso uribe jaramillo,metrocuadrado
+510000000.0,60.0,2,2,4,1,7,si,apartamento,6.035,3.394,3.457,san antonio,ciencuadras
+330000000.0,57.0,2,2,4,1,1,no,apartamento,4.811,1.285,1.16,rionegro,ciencuadras
+1900000000.0,280.0,5,5,,2,,no,casa_campestre,5.602,1.624,1.691,san antonio,lonja_propiedad_raiz
+220000000.0,52.0,2,2,3,,0,si,apartamento,4.817,1.237,1.112,liborio mejia,metrocuadrado
+255000000.0,50.0,3,2,4,1,1,si,apartamento,8.159,2.568,2.675,rionegro,ciencuadras
+1190000000.0,114.0,2,3,6,1,,si,apartamento,6.389,6.841,6.862,rionegro,metrocuadrado
+3000000000.0,500.0,9,8,4,2,,no,casa,6.429,1.484,1.6,monseñor alfonso uribe jaramillo,ciencuadras
+300000000.0,48.0,2,2,3,1,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+370000000.0,57.0,3,2,4,1,,si,apartamento,5.02,0.865,0.739,liborio mejia,ciencuadras
+300000000.0,72.0,3,2,3,,,si,apartamento,5.244,0.754,0.778,rionegro,ciencuadras
+350000000.0,55.0,2,2,4,1,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+265000000.0,56.0,3,1,4,1,,si,apartamento,6.594,0.992,1.091,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+230000000.0,46.0,2,2,3,,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+1500000000.0,360.0,3,3,,3,,no,casa_campestre,5.523,0.768,0.836,rionegro,ciencuadras
+485000000.0,60.0,2,2,5,1,,no,apartamento,3.286,2.44,2.365,el porvenir,ciencuadras
+1350000000.0,173.0,4,4,5,1,,si,casa,3.153,2.609,2.536,el porvenir,metrocuadrado
+450000000.0,120.0,4,2,4,,,no,casa,5.267,0.535,0.544,liborio mejia,ciencuadras
+440000000.0,58.0,2,2,5,,,no,apartamento,7.251,2.529,2.648,rionegro,ciencuadras
+800000000.0,130.0,4,3,4,1,,no,casa,5.244,0.754,0.778,rionegro,ciencuadras
+330000000.0,54.0,2,2,3,,,no,apartamento,4.163,2.042,2.015,el porvenir,ciencuadras
+545000000.0,75.0,3,2,5,,,no,apartamento,5.602,0.015,0.136,liborio mejia,metrocuadrado
+350000000.0,65.0,3,2,3,,,no,apartamento,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+650000000.0,180.0,4,3,4,1,1,si,apartamento,6.199,2.677,2.757,san antonio,ciencuadras
+400000000.0,50.0,2,2,4,1,1,no,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+630000000.0,97.0,3,2,4,1,,si,apartamento,5.6,0.022,0.139,el porvenir,ciencuadras
+3650000000.0,573.0,4,4,6,3,1,si,casa,4.737,4.173,4.184,rionegro,ciencuadras
+570000000.0,70.0,2,2,5,1,,si,apartamento,5.53,0.291,0.359,liborio mejia,ciencuadras
+680000000.0,140.0,4,4,4,1,,no,casa,6.197,4.216,4.272,rionegro,ciencuadras
+280000000.0,52.0,2,2,3,,,no,apartamento,4.374,1.55,1.424,monseñor alfonso uribe jaramillo,ciencuadras
+3600000000.0,350.0,6,6,5,,,no,casa,4.838,4.948,4.955,rionegro,ciencuadras
+295000000.0,59.7,2,2,4,1,,si,apartamento,5.222,1.316,1.206,rionegro,ciencuadras
+480000000.0,72.0,1,2,3,2,1,si,apartamento,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+280000000.0,55.0,2,2,4,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,lonja_propiedad_raiz
+4000000000.0,730.0,5,7,6,6,,no,casa,4.918,6.935,6.921,rionegro,ciencuadras
+345000000.0,56.0,3,2,3,1,,no,apartamento,5.18,1.469,1.358,liborio mejia,ciencuadras
+230000000.0,54.0,2,2,4,,,si,apartamento,4.2,1.429,1.348,liborio mejia,lonja_propiedad_raiz
+630000000.0,97.0,2,2,6,1,1,no,apartamento,6.342,3.14,3.217,san antonio,ciencuadras
+1000000000.0,150.0,3,3,5,1,,si,casa,6.147,1.057,1.038,laureles estadio,ciencuadras
+610000000.0,82.0,2,2,4,,1,si,apartamento,6.189,1.134,1.25,monseñor alfonso uribe jaramillo,ciencuadras
+275000000.0,48.0,2,2,3,1,,si,apartamento,3.925,1.88,1.821,el porvenir,ciencuadras
+1800000000.0,360.0,3,5,5,2,,no,casa_campestre,5.523,0.768,0.836,monseñor alfonso uribe jaramillo,ciencuadras
+890000000.0,170.0,4,5,5,1,,si,casa,5.238,0.618,0.495,liborio mejia,ciencuadras
+2200000000.0,365.0,4,8,4,5,1,si,casa,5.297,0.333,0.293,otras,lonja_propiedad_raiz
+17000000000.0,352.0,4,5,,2,21,no,casa_campestre,6.005,10.016,9.974,rionegro,metrocuadrado
+580000000.0,90.0,3,2,5,,,si,apartamento,5.73,0.133,0.255,liborio mejia,ciencuadras
+1150000000.0,122.0,2,2,6,2,1,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+530000000.0,57.0,2,2,5,1,1,si,apartamento,3.354,2.632,2.575,el porvenir,metrocuadrado
+590000000.0,79.0,2,2,4,1,,no,apartamento,5.846,3.08,3.139,san antonio,ciencuadras
+1100000000.0,208.0,3,4,5,1,1,si,apartamento,5.6,0.022,0.139,liborio mejia,lonja_propiedad_raiz
+550000000.0,58.0,2,2,5,2,,no,apartamento,6.902,3.219,3.314,san antonio,ciencuadras
+470000000.0,68.0,3,2,4,1,,si,apartamento,3.153,2.609,2.536,el porvenir,ciencuadras
+432000000.0,71.81,3,2,3,1,,si,apartamento,4.638,1.699,1.575,rionegro,ciencuadras
+1600000000.0,337.0,3,2,5,3,,no,casa,5.523,0.768,0.836,rionegro,metrocuadrado
+479000000.0,58.0,2,2,5,1,,no,apartamento,6.194,2.705,2.784,san antonio,metrocuadrado
+400000000.0,53.0,1,1,5,,,si,apartamento,5.02,0.865,0.739,rionegro,ciencuadras
+1150000000.0,242.0,4,5,6,1,,no,casa,3.258,2.674,2.613,el porvenir,ciencuadras
+950000000.0,90.0,2,4,4,2,1,si,apartamento,4.918,6.935,6.921,rionegro,ciencuadras
+380000000.0,96.0,4,2,3,,,no,casa,4.215,1.623,1.574,el porvenir,ciencuadras
+453700000.0,69.8,3,2,5,1,,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+300000000.0,54.0,2,2,4,1,1,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+320000000.0,51.0,2,2,3,1,1,si,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+2890000000.0,432.0,4,5,,3,,no,casa_campestre,5.753,5.07,5.101,rionegro,ciencuadras
+1150000000.0,163.0,4,4,4,2,,si,casa,5.709,0.315,0.296,liborio mejia,ciencuadras
+270000000.0,50.0,2,2,3,,1,no,apartamento,2.159,3.993,3.924,rionegro,ciencuadras
+380000000.0,60.0,2,2,4,1,1,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+840000000.0,234.0,5,5,4,1,14,si,casa,6.097,3.001,3.072,san antonio,ciencuadras
+500000000.0,70.0,2,2,5,1,,si,apartamento,5.371,0.645,0.687,liborio mejia,ciencuadras
+520000000.0,60.02,1,2,4,,1,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+530000000.0,66.0,2,2,5,,1,si,apartamento,6.925,3.24,3.335,san antonio,lonja_propiedad_raiz
+2500000000.0,267.0,3,4,4,2,,si,casa,5.271,6.081,6.087,rionegro,ciencuadras
+890000000.0,89.0,3,2,5,1,,no,apartamento,5.912,1.924,2.004,san antonio,ciencuadras
+739500000.0,90.0,3,3,4,2,,no,apartamento,6.582,1.794,1.908,san antonio,ciencuadras
+720000000.0,80.0,3,2,5,,1,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+1850000000.0,240.0,3,4,4,2,1,si,apartamento,5.244,0.754,0.778,monseñor alfonso uribe jaramillo,ciencuadras
+300000000.0,68.0,3,2,5,1,,si,apartamento,5.37,1.224,1.122,liborio mejia,ciencuadras
+900000000.0,157.0,3,3,5,1,1,si,casa,6.007,2.6,2.673,san antonio,lonja_propiedad_raiz
+215000000.0,53.0,2,2,3,,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+300000000.0,56.0,3,2,4,,,no,apartamento,5.034,1.63,1.515,rionegro,ciencuadras
+3650000000.0,573.0,4,5,5,3,,no,casa,5.6,0.022,0.139,liborio mejia,ciencuadras
+400000000.0,42.0,1,2,5,1,1,no,apartamento,0.821,6.272,6.168,rionegro,lonja_propiedad_raiz
+579000000.0,112.0,2,3,,4,,no,casa_campestre,5.523,0.768,0.836,rionegro,ciencuadras
+250000000.0,57.0,3,2,4,1,,no,apartamento,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+415000000.0,50.0,2,2,5,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,lonja_propiedad_raiz
+545000000.0,62.0,2,2,4,1,,si,apartamento,3.302,2.46,2.389,el porvenir,ciencuadras
+520000000.0,75.0,3,2,5,1,,no,apartamento,6.269,2.889,2.968,san antonio,ciencuadras
+310000000.0,57.0,2,2,3,1,,no,apartamento,4.752,1.167,1.147,el porvenir,ciencuadras
+680000000.0,122.0,3,3,4,,1,si,casa,4.679,0.988,0.926,el porvenir,metrocuadrado
+770000000.0,182.0,5,4,4,1,,no,casa,6.269,2.889,2.968,san antonio,ciencuadras
+950000000.0,240.0,5,6,5,2,,no,casa,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+595000000.0,80.0,2,2,5,1,,si,apartamento,6.029,3.147,3.213,san antonio,lonja_propiedad_raiz
+1000000000.0,154.0,3,4,5,1,,no,apartamento,3.56,2.441,2.389,el porvenir,ciencuadras
+15000000000.0,1000.0,4,5,4,4,,no,casa,3.771,8.501,8.437,rionegro,lonja_propiedad_raiz
+1100000000.0,170.0,3,3,5,1,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+320000000.0,57.0,2,2,4,1,,si,apartamento,5.6,0.022,0.139,el porvenir,ciencuadras
+840000000.0,76.0,2,2,6,2,,si,apartamento,5.127,7.293,7.278,rionegro,ciencuadras
+1690000000.0,285.0,4,5,5,1,,si,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+400000000.0,60.0,2,2,4,1,1,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+400000000.0,53.8,2,2,5,1,,no,apartamento,6.674,1.83,1.946,rionegro,ciencuadras
+395000000.0,74.0,2,2,4,1,,si,apartamento,5.762,3.507,3.559,san antonio,ciencuadras
+320000000.0,54.6,2,2,4,1,1,si,apartamento,5.6,0.022,0.139,san antonio,ciencuadras
+1200000000.0,167.0,3,4,5,2,,si,casa,5.41,2.906,2.951,san antonio,ciencuadras
+429000000.0,61.0,2,2,4,1,,no,apartamento,5.954,2.751,2.819,san antonio,ciencuadras
+1300000000.0,220.0,4,3,5,1,1,no,casa,5.777,3.859,3.907,san antonio,lonja_propiedad_raiz
+940000000.0,175.0,4,8,4,2,1,si,casa,5.304,1.052,1.096,san antonio,ciencuadras
+680000000.0,160.0,4,3,4,,,no,casa,4.98,1.239,1.251,el porvenir,metrocuadrado
+250000000.0,35.0,1,,3,1,,no,apartamento,5.6,1.553,1.621,san antonio,ciencuadras
+1400000000.0,370.0,4,4,,,,no,casa_campestre,5.602,0.015,0.136,liborio mejia,ciencuadras
+260000000.0,50.0,2,2,4,1,1,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+310000000.0,62.0,3,2,3,,,no,apartamento,5.957,0.578,0.7,monseñor alfonso uribe jaramillo,ciencuadras
+450000000.0,58.0,2,2,5,1,1,si,apartamento,2.593,3.274,3.201,rionegro,ciencuadras
+370000000.0,57.6,3,2,4,1,,no,apartamento,5.385,1.018,0.916,liborio mejia,metrocuadrado
+320000000.0,85.0,3,2,3,,,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+443000000.0,82.4,2,2,4,1,1,no,apartamento,6.197,4.216,4.272,rionegro,lonja_propiedad_raiz
+520000000.0,59.0,1,2,5,1,1,si,apartamento,6.689,3.066,3.157,san antonio,ciencuadras
+2200000000.0,358.0,4,5,5,4,,si,casa,4.572,6.222,6.21,rionegro,ciencuadras
+5500000000.0,900.0,6,10,6,5,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+1250000000.0,160.0,2,2,5,2,1,no,apartamento,5.422,6.927,6.925,rionegro,ciencuadras
+3500000000.0,296.0,4,5,,10,,no,casa_campestre,5.523,0.768,0.836,rionegro,ciencuadras
+610000000.0,80.0,3,2,3,1,,si,apartamento,5.317,0.923,0.965,el porvenir,ciencuadras
+457454652.0,64.97,2,2,4,1,1,si,apartamento,5.611,0.155,0.131,liborio mejia,ciencuadras
+245000000.0,48.0,2,2,4,,,no,apartamento,5.6,0.022,0.139,el porvenir,ciencuadras
+900000000.0,165.0,4,5,4,1,,si,casa,5.935,3.639,3.694,san antonio,ciencuadras
+310000000.0,55.0,3,2,3,,1,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+280000000.0,53.0,2,2,3,,,si,apartamento,4.748,0.906,0.789,liborio mejia,ciencuadras
+2500000000.0,500.0,4,6,6,4,,no,casa,5.91,6.777,6.788,rionegro,ciencuadras
+900000000.0,140.0,3,3,5,1,1,si,casa,5.421,2.498,2.546,san antonio,ciencuadras
+317000000.0,53.16,2,2,3,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+260000000.0,52.0,2,2,3,,1,no,apartamento,6.572,1.036,1.103,monseñor alfonso uribe jaramillo,ciencuadras
+4800000000.0,10300.0,19,22,6,20,,no,casa,4.082,8.269,8.216,rionegro,metrocuadrado
+4500000000.0,310.0,3,3,4,3,,no,casa,5.523,0.768,0.836,rionegro,metrocuadrado
+360000000.0,80.0,3,2,3,1,1,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+299000000.0,49.0,2,2,3,,1,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+980000000.0,180.0,4,3,4,1,,no,casa,5.739,0.266,0.386,liborio mejia,ciencuadras
+360000000.0,54.0,2,2,3,1,,si,apartamento,4.293,1.371,1.301,liborio mejia,ciencuadras
+1100000000.0,153.0,3,4,4,1,,no,apartamento,2.576,3.35,3.279,rionegro,ciencuadras
+410000000.0,70.0,2,2,4,,,no,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+320000000.0,57.0,3,2,4,1,,no,apartamento,5.08,1.515,1.401,rionegro,ciencuadras
+420000000.0,70.0,3,2,3,1,,no,apartamento,5.523,0.768,0.836,rionegro,metrocuadrado
+450000000.0,144.0,2,2,2,,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+1300000000.0,104.0,3,3,4,2,,si,apartamento,3.302,2.577,2.513,el porvenir,ciencuadras
+615000000.0,88.0,3,2,4,2,,no,apartamento,6.319,0.848,0.974,monseñor alfonso uribe jaramillo,metrocuadrado
+850000000.0,70.0,1,3,5,2,,si,apartamento,4.824,3.414,3.432,rionegro,ciencuadras
+3950000000.0,1550.0,4,5,5,6,,si,casa,5.8,0.419,0.411,liborio mejia,metrocuadrado
+290000000.0,48.0,3,2,4,1,1,no,apartamento,6.721,1.142,1.256,monseñor alfonso uribe jaramillo,metrocuadrado
+350000000.0,56.0,3,2,4,1,1,si,apartamento,4.063,2.05,1.925,rionegro,ciencuadras
+270000000.0,82.0,3,2,3,1,1,no,apartamento,5.957,0.578,0.7,monseñor alfonso uribe jaramillo,ciencuadras
+1400000000.0,141.0,3,4,6,2,,si,apartamento,4.421,5.689,5.679,otras,ciencuadras
+330000000.0,60.0,2,2,4,1,8,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+1800000000.0,430.0,8,4,5,2,,no,casa,5.137,2.066,2.102,san antonio,ciencuadras
+360000000.0,50.0,2,2,3,1,,no,apartamento,4.503,1.506,1.481,el porvenir,lonja_propiedad_raiz
+510000000.0,68.82,3,2,5,1,2,no,apartamento,3.474,2.705,2.659,el porvenir,ciencuadras
+335000000.0,64.0,3,2,4,1,,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+330000000.0,55.0,2,2,4,1,,no,apartamento,5.459,0.917,0.821,liborio mejia,lonja_propiedad_raiz
+750000000.0,90.0,3,2,3,,1,si,apartamento,3.153,2.609,2.536,el porvenir,ciencuadras
+710000000.0,90.0,2,3,5,1,1,si,apartamento,6.245,9.086,9.067,rionegro,ciencuadras
+510000000.0,67.07,3,2,4,1,1,no,apartamento,6.389,2.762,2.847,san antonio,ciencuadras
+290000000.0,60.0,2,2,3,,1,no,apartamento,2.159,3.993,3.924,rionegro,lonja_propiedad_raiz
+420000000.0,64.0,2,2,5,1,,si,apartamento,5.892,3.141,3.202,san antonio,lonja_propiedad_raiz
+2650000000.0,350.0,5,4,,2,,si,casa_campestre,3.308,6.192,6.151,rionegro,ciencuadras
+360000000.0,80.0,3,2,2,,,no,apartamento,6.224,2.911,2.988,san antonio,ciencuadras
+780000000.0,120.0,3,3,4,1,,no,casa,5.979,2.887,2.955,san antonio,metrocuadrado
+3500000000.0,348.0,4,13,4,2,1,no,casa,6.426,7.334,7.348,rionegro,ciencuadras
+380000000.0,54.0,3,2,5,1,,si,apartamento,5.602,0.015,0.136,liborio mejia,metrocuadrado
+3100000000.0,300.0,3,5,5,2,1,si,casa,5.6,0.022,0.139,liborio mejia,ciencuadras
+930000000.0,200.0,3,3,3,1,,no,casa,6.197,4.216,4.272,rionegro,metrocuadrado
+525000000.0,68.0,2,2,5,1,,si,apartamento,3.405,2.703,2.653,el porvenir,lonja_propiedad_raiz
+890000000.0,182.0,4,4,4,,,si,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+360000000.0,61.0,3,2,4,,,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+670000000.0,82.0,2,2,4,1,,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+520000000.0,68.0,3,3,4,1,,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+319000000.0,56.2,3,2,4,1,,si,apartamento,5.177,1.408,1.297,rionegro,lonja_propiedad_raiz
+340000000.0,57.0,2,2,3,1,1,si,apartamento,4.846,1.31,1.186,rionegro,ciencuadras
+260000000.0,49.0,2,2,4,,,si,apartamento,6.422,1.216,1.221,liborio mejia,ciencuadras
+335000000.0,57.0,3,2,5,1,6,si,apartamento,5.08,1.515,1.401,rionegro,metrocuadrado
+550000000.0,60.0,2,2,5,1,1,si,apartamento,6.202,2.756,2.835,san antonio,ciencuadras
+510000000.0,68.0,2,2,3,1,1,si,apartamento,3.717,2.106,2.045,el porvenir,metrocuadrado
+3420000000.0,250.0,4,4,4,2,,si,casa,7.064,7.869,7.89,rionegro,ciencuadras
+1190000000.0,230.0,3,2,3,1,,no,casa,7.203,5.276,5.187,rionegro,lonja_propiedad_raiz
+345000000.0,60.0,3,2,1,,,no,apartamento,5.02,0.865,0.739,liborio mejia,lonja_propiedad_raiz
+680000000.0,77.0,3,2,4,,,si,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+250000000.0,46.0,1,2,4,1,,no,apartamento,6.32,0.771,0.838,monseñor alfonso uribe jaramillo,ciencuadras
+430000000.0,47.5,2,2,4,,,si,apartamento,6.269,2.889,2.968,san antonio,ciencuadras
+270000000.0,57.0,3,2,3,1,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+680000000.0,148.0,3,2,4,1,,no,casa,6.197,4.216,4.272,rionegro,lonja_propiedad_raiz
+550000000.0,76.0,2,2,4,1,1,si,apartamento,3.211,2.533,2.459,el porvenir,ciencuadras
+540000000.0,74.0,2,2,5,1,,no,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+1500000000.0,159.0,2,2,5,2,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+400000000.0,85.34,3,2,3,,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+475000000.0,75.0,3,2,5,,,no,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+1450000000.0,162.0,4,4,5,2,,no,casa,3.683,2.223,2.167,el porvenir,metrocuadrado
+850000000.0,182.0,4,3,5,1,1,si,casa,5.758,2.434,2.499,san antonio,ciencuadras
+3050000000.0,328.0,3,4,5,2,1,si,casa,3.085,8.647,8.544,san antonio,metrocuadrado
+1500000000.0,300.0,3,4,5,2,,no,casa,3.378,2.356,2.283,el porvenir,ciencuadras
+4100000000.0,472.0,4,13,4,4,1,si,casa,5.608,6.374,6.384,rionegro,ciencuadras
+460000000.0,64.0,3,2,6,1,1,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+1270000000.0,240.0,4,5,5,2,1,si,casa,3.371,2.632,2.576,el porvenir,ciencuadras
+3950000000.0,1550.0,4,6,6,2,6,no,casa,3.475,6.436,6.396,rionegro,ciencuadras
+600000000.0,250.0,3,3,3,,,no,casa,5.6,0.022,0.139,liborio mejia,ciencuadras
+390000000.0,60.0,2,1,4,1,,si,apartamento,5.847,2.38,2.449,san antonio,metrocuadrado
+1650000000.0,234.0,3,6,2,2,,si,casa,6.192,2.863,2.94,san antonio,ciencuadras
+310000000.0,70.0,3,2,4,,,no,apartamento,5.758,1.221,1.305,rionegro,metrocuadrado
+335000000.0,48.0,2,2,4,1,1,no,apartamento,6.812,1.25,1.368,monseñor alfonso uribe jaramillo,ciencuadras
+300000000.0,56.0,2,2,4,,1,si,apartamento,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+335000000.0,54.04,3,2,4,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,metrocuadrado
+320000000.0,53.0,2,2,4,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+7800000000.0,800.0,6,8,6,6,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+1190000000.0,139.0,2,3,6,,,no,apartamento,5.244,0.754,0.778,rionegro,ciencuadras
+415000000.0,64.0,2,2,4,1,,si,apartamento,4.877,1.28,1.156,rionegro,ciencuadras
+450000000.0,152.0,4,3,3,,,no,casa,4.752,1.298,1.287,el porvenir,metrocuadrado
+1450000000.0,800.0,3,2,,2,,no,casa_campestre,5.613,6.374,6.384,rionegro,ciencuadras
+285000000.0,57.0,2,1,3,,1,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+170500000.0,50.8,3,2,4,,,no,apartamento,5.6,0.022,0.139,el porvenir,ciencuadras
+495000000.0,80.0,2,2,3,1,,si,apartamento,5.957,0.578,0.7,monseñor alfonso uribe jaramillo,metrocuadrado
+3300000000.0,423.0,3,6,4,4,1,si,casa,4.918,6.935,6.921,rionegro,ciencuadras
+985000000.0,145.0,4,4,3,,1,si,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+570000000.0,79.0,2,2,4,1,,no,apartamento,3.287,2.453,2.38,el porvenir,ciencuadras
+530000000.0,80.0,3,2,5,1,,si,apartamento,6.335,0.9,1.026,monseñor alfonso uribe jaramillo,ciencuadras
+390000000.0,57.2,3,2,4,1,,si,apartamento,5.743,0.63,0.58,liborio mejia,ciencuadras
+1350000000.0,127.0,2,2,6,2,,no,apartamento,6.744,5.711,5.759,corregimiento gilberto echeverri mejía,metrocuadrado
+1350000000.0,260.0,5,4,5,2,3,no,casa,4.833,1.339,1.34,el porvenir,metrocuadrado
+1650000000.0,166.0,3,4,4,2,,si,apartamento,4.911,1.775,1.794,monseñor alfonso uribe jaramillo,ciencuadras
+330000000.0,84.0,3,2,3,,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+360000000.0,54.0,3,1,4,,,si,apartamento,4.293,1.371,1.301,liborio mejia,ciencuadras
+360000000.0,55.0,2,2,4,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+550000000.0,70.0,2,3,5,,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+6000000000.0,600.0,3,6,5,4,1,si,casa,4.96,6.951,6.938,rionegro,lonja_propiedad_raiz
+485000000.0,58.0,2,2,5,1,1,si,apartamento,6.528,1.485,1.605,monseñor alfonso uribe jaramillo,ciencuadras
+950000000.0,160.0,4,4,5,1,,no,casa,5.244,0.754,0.778,rionegro,metrocuadrado
+680000000.0,134.0,3,3,4,1,1,no,casa,6.197,4.216,4.272,rionegro,ciencuadras
+510000000.0,78.0,3,2,4,1,1,si,apartamento,5.6,0.022,0.139,liborio mejia,ciencuadras
+360000000.0,58.0,2,2,3,2,1,si,apartamento,5.26,1.578,1.471,rionegro,ciencuadras
+318000000.0,55.0,3,2,4,,,si,apartamento,7.105,1.651,1.706,monseñor alfonso uribe jaramillo,ciencuadras
+290000000.0,51.0,2,2,3,1,,no,apartamento,6.452,1.217,1.226,liborio mejia,ciencuadras
+280000000.0,50.0,3,1,3,,,si,apartamento,5.244,0.754,0.778,rionegro,ciencuadras
+1150000000.0,160.0,3,4,5,2,,si,casa,5.352,2.931,2.973,san antonio,metrocuadrado
+650000000.0,150.0,3,2,4,1,,no,apartamento,5.937,2.706,2.775,san antonio,ciencuadras
+625000000.0,110.0,3,2,4,1,1,no,apartamento,6.474,3.176,3.257,san antonio,ciencuadras
+430000000.0,57.7,2,2,5,1,,no,apartamento,3.21,2.537,2.463,otras,ciencuadras
+500000000.0,67.0,2,2,5,,6,no,apartamento,3.488,2.528,2.475,el porvenir,ciencuadras
+620000000.0,68.0,3,2,5,1,,si,apartamento,3.459,2.324,2.256,el porvenir,ciencuadras
+585000000.0,65.19,2,2,5,1,,no,apartamento,6.194,2.705,2.784,san antonio,ciencuadras
+375000000.0,100.0,3,2,4,,,no,casa,6.007,0.946,0.916,liborio mejia,metrocuadrado
+1400000000.0,138.0,2,3,6,2,,si,apartamento,3.37,8.699,8.587,rionegro,ciencuadras
+490000000.0,65.0,2,1,4,,,no,apartamento,6.443,3.581,3.655,san antonio,ciencuadras
+250000000.0,40.0,2,1,2,,2,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+2400000000.0,300.0,4,4,1,2,,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+400000000.0,67.0,2,2,4,1,,no,apartamento,4.835,1.286,1.162,rionegro,ciencuadras
+620000000.0,83.0,3,3,4,,1,no,apartamento,3.153,2.609,2.536,rionegro,metrocuadrado
+220000000.0,49.0,2,2,3,,,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+280000000.0,58.0,2,2,3,,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+1200000000.0,94.0,2,2,5,1,,no,apartamento,4.918,6.935,6.921,rionegro,ciencuadras
+900000000.0,170.0,4,5,5,2,,no,casa,5.948,2.886,2.953,san antonio,ciencuadras
+240000000.0,56.0,3,2,3,,,si,apartamento,5.19,1.433,1.322,liborio mejia,ciencuadras
+515000000.0,69.0,2,2,5,1,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+500000000.0,132.0,4,3,2,,,no,casa,2.159,3.993,3.924,rionegro,ciencuadras
+420000000.0,57.87,2,2,4,1,,no,apartamento,5.6,0.022,0.139,liborio mejia,ciencuadras
+1130000000.0,160.0,3,3,6,,,si,casa,5.6,0.022,0.139,el porvenir,ciencuadras
+4800000000.0,345.0,4,4,6,2,,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+585000000.0,75.0,3,2,5,,,si,apartamento,5.6,0.022,0.139,liborio mejia,lonja_propiedad_raiz
+230000000.0,53.4,3,2,3,,,si,apartamento,4.505,1.185,1.067,liborio mejia,ciencuadras
+510000000.0,66.15,3,2,4,1,,no,apartamento,7.994,2.394,2.497,monseñor alfonso uribe jaramillo,ciencuadras
+370000000.0,52.0,1,1,4,,,si,apartamento,6.373,2.977,3.058,san antonio,ciencuadras
+750000000.0,265.0,3,4,5,1,1,si,casa,7.041,1.637,1.682,el porvenir,lonja_propiedad_raiz
+595000000.0,95.0,2,2,5,,,no,casa,5.55,1.372,1.438,san antonio,ciencuadras
+300000000.0,55.0,3,2,4,,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+850000000.0,130.0,3,4,5,1,,no,casa,6.64,1.068,1.184,monseñor alfonso uribe jaramillo,metrocuadrado
+215000000.0,49.0,2,1,4,,,si,apartamento,6.898,1.329,1.409,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+321000000.0,61.0,2,2,4,1,,si,apartamento,4.823,1.29,1.166,rionegro,ciencuadras
+850000000.0,180.0,3,2,4,1,,no,casa,4.768,1.165,1.146,el porvenir,ciencuadras
+345000000.0,57.0,2,2,4,1,1,si,apartamento,5.6,0.022,0.139,el porvenir,lonja_propiedad_raiz
+540000000.0,79.0,3,2,5,1,1,si,apartamento,6.269,2.889,2.968,san antonio,lonja_propiedad_raiz
+235000000.0,51.0,2,1,3,,,si,apartamento,6.42,1.196,1.203,liborio mejia,ciencuadras
+295000000.0,55.0,3,2,4,1,,si,apartamento,7.226,2.027,2.05,el porvenir,metrocuadrado
+580000000.0,66.0,2,2,5,1,,si,apartamento,6.916,3.24,3.335,san antonio,ciencuadras
+790000000.0,185.0,3,2,4,,1,no,casa,5.6,0.022,0.139,el porvenir,lonja_propiedad_raiz
+590000000.0,74.0,2,2,5,1,1,si,apartamento,5.845,3.08,3.14,san antonio,ciencuadras
+1150000000.0,186.0,3,3,5,2,1,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+4500000000.0,12540.0,3,3,,,,no,casa_campestre,5.758,1.221,1.305,rionegro,metrocuadrado
+490000000.0,58.0,3,2,5,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,metrocuadrado
+530000000.0,76.0,3,2,4,1,,no,apartamento,2.316,3.659,3.587,rionegro,ciencuadras
+450000000.0,68.0,3,2,5,1,1,no,apartamento,2.956,2.882,2.811,otras,metrocuadrado
+4500000000.0,3800.0,3,1,6,2,,si,casa,4.866,2.606,2.628,san antonio,ciencuadras
+680000000.0,67.0,1,2,5,2,3,no,apartamento,3.066,8.649,8.547,rionegro,ciencuadras
+1050000000.0,138.56,3,3,5,2,1,no,casa,6.227,3.486,3.554,san antonio,ciencuadras
+560000000.0,80.0,2,2,5,,6,no,apartamento,6.265,0.885,1.01,monseñor alfonso uribe jaramillo,metrocuadrado
+420000000.0,53.0,1,1,5,,,no,apartamento,5.26,1.578,1.471,rionegro,ciencuadras
+1300000000.0,104.0,2,2,6,2,1,si,apartamento,5.22,7.225,7.214,rionegro,lonja_propiedad_raiz
+3480000000.0,350.0,5,6,,,,no,casa_campestre,3.453,6.397,6.357,rionegro,metrocuadrado
+400000000.0,103.0,3,1,3,,1,no,casa,5.588,0.302,0.235,rionegro,lonja_propiedad_raiz
+230000000.0,48.0,2,1,3,,,no,apartamento,7.17,1.725,1.779,monseñor alfonso uribe jaramillo,ciencuadras
+610000000.0,76.0,3,2,5,1,1,no,apartamento,6.346,3.145,3.222,san antonio,lonja_propiedad_raiz
+2250000000.0,320.0,4,8,4,4,,si,casa,4.918,6.935,6.921,rionegro,ciencuadras
+385000000.0,66.0,3,2,3,1,,no,apartamento,2.159,3.993,3.924,rionegro,ciencuadras
+500000000.0,63.0,1,2,4,1,,no,apartamento,4.572,6.222,6.21,rionegro,ciencuadras
+446000000.0,71.13,3,2,4,,,no,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+5850000000.0,2100.0,5,6,6,3,1,si,casa,5.73,6.639,6.648,comuna 3 monseñor alfonso uribe jaramillo,ciencuadras
+220000000.0,48.0,2,2,3,,,no,apartamento,7.088,1.803,1.834,monseñor alfonso uribe jaramillo,ciencuadras
+1050000000.0,185.0,4,5,5,1,1,si,casa,5.76,3.87,3.916,rionegro,ciencuadras
+1100000000.0,230.0,3,4,5,1,,no,casa,3.217,2.889,2.835,el porvenir,ciencuadras
+620000000.0,69.0,3,2,4,1,1,si,apartamento,3.489,2.651,2.604,el porvenir,ciencuadras
+2800000000.0,260.0,6,6,4,1,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+498000000.0,58.0,1,2,5,1,,no,apartamento,6.525,1.482,1.602,monseñor alfonso uribe jaramillo,ciencuadras
+1550000000.0,230.0,5,5,6,2,,no,casa,22.472,27.99,27.881,el porvenir,ciencuadras
+3650000000.0,350.0,4,4,,5,,no,casa_campestre,5.244,0.754,0.778,el porvenir,metrocuadrado
+375000000.0,90.0,3,3,4,,,no,apartamento,7.179,1.578,1.68,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+540000000.0,75.72,2,2,5,,,no,apartamento,5.603,0.013,0.119,liborio mejia,lonja_propiedad_raiz
+330000000.0,58.2,2,1,4,1,1,si,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+2200000000.0,5000.0,4,5,4,11,,si,casa,0.821,6.272,6.168,rionegro,ciencuadras
+2200000000.0,354.0,5,5,5,5,,no,casa,4.548,6.258,6.244,rionegro,lonja_propiedad_raiz
+3300000000.0,300.0,2,2,6,2,,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+275000000.0,53.6,2,2,4,1,,no,apartamento,6.647,1.232,1.273,monseñor alfonso uribe jaramillo,ciencuadras
+600000000.0,68.0,3,3,4,1,,si,apartamento,3.405,2.649,2.596,el porvenir,ciencuadras
+1400000000.0,275.0,4,4,5,1,,no,casa,3.165,2.866,2.808,el porvenir,ciencuadras
+2380000000.0,320.0,4,3,6,1,1,no,casa,5.753,5.07,5.101,rionegro,lonja_propiedad_raiz
+460000000.0,65.0,2,2,3,,1,no,casa,4.089,2.062,2.03,el porvenir,ciencuadras
+270000000.0,49.0,2,2,4,,1,si,apartamento,3.933,1.885,1.828,el porvenir,ciencuadras
+300000000.0,55.0,3,2,4,1,1,si,apartamento,6.573,1.037,1.104,monseñor alfonso uribe jaramillo,ciencuadras
+640000000.0,75.0,3,2,5,1,,no,apartamento,3.174,2.601,2.529,el porvenir,metrocuadrado
+450000000.0,66.0,2,2,4,1,1,si,apartamento,6.264,3.421,3.491,san antonio,ciencuadras
+610000000.0,71.0,3,2,4,1,,no,apartamento,6.224,2.911,2.988,san antonio,ciencuadras
+10980000000.0,913.0,5,9,4,1,1,si,casa,3.155,6.83,6.779,rionegro,metrocuadrado
+1310000000.0,240.0,4,5,5,1,,si,casa,5.024,2.562,2.592,san antonio,ciencuadras
+3250000000.0,400.0,4,5,4,2,,si,casa,5.244,0.754,0.778,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+1050000000.0,167.0,3,4,5,,,no,casa,5.244,0.754,0.778,el porvenir,metrocuadrado
+490000000.0,58.0,2,2,4,1,,si,apartamento,3.177,2.576,2.502,el porvenir,lonja_propiedad_raiz
+450000000.0,78.0,2,2,5,1,,no,apartamento,5.66,0.564,0.655,liborio mejia,lonja_propiedad_raiz
+295000000.0,49.0,3,2,2,1,,no,apartamento,7.76,2.162,2.268,otras,ciencuadras
+780000000.0,154.0,4,3,5,1,1,no,casa,6.412,3.034,3.116,san antonio,ciencuadras
+800000000.0,79.8,3,2,5,1,,no,apartamento,6.236,1.114,1.232,monseñor alfonso uribe jaramillo,ciencuadras
+800000000.0,81.0,4,4,4,1,1,no,casa,5.523,0.768,0.836,rionegro,metrocuadrado
+770000000.0,80.0,2,2,5,1,,si,apartamento,6.264,1.193,1.311,monseñor alfonso uribe jaramillo,ciencuadras
+600000000.0,102.0,2,2,4,1,,si,apartamento,6.189,3.214,3.285,san antonio,ciencuadras
+1250000000.0,210.0,3,6,4,3,,si,casa,5.448,2.149,2.202,san antonio,ciencuadras
+525000000.0,73.6,3,2,4,1,1,si,apartamento,6.224,2.911,2.988,san antonio,ciencuadras
+560000000.0,140.0,3,2,4,1,,no,casa,6.373,2.545,2.634,san antonio,lonja_propiedad_raiz
+560000000.0,78.0,2,2,5,1,,no,apartamento,6.094,1.167,1.276,monseñor alfonso uribe jaramillo,ciencuadras
+650000000.0,80.0,3,2,5,1,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+480000000.0,76.0,2,2,3,1,,no,apartamento,6.15,2.675,2.753,san antonio,metrocuadrado
+370000000.0,57.0,2,2,4,,,no,apartamento,5.6,0.022,0.139,el porvenir,ciencuadras
+1400000000.0,119.0,2,3,5,2,,si,apartamento,5.02,10.552,10.463,san antonio,ciencuadras
+650000000.0,104.0,3,3,4,1,,no,casa,6.224,2.911,2.988,san antonio,ciencuadras
+350000000.0,78.0,3,2,3,1,,no,apartamento,6.371,3.277,3.353,san antonio,ciencuadras
+603000000.0,75.0,3,3,4,,,si,apartamento,5.6,0.022,0.139,liborio mejia,ciencuadras
+330000000.0,55.7,3,2,4,1,,si,apartamento,6.721,1.142,1.256,monseñor alfonso uribe jaramillo,ciencuadras
+680000000.0,140.0,4,4,4,,,no,casa,5.6,0.022,0.139,liborio mejia,metrocuadrado
+3200000000.0,450.0,3,4,5,6,17,si,casa,3.771,8.501,8.437,rionegro,lonja_propiedad_raiz
+345000000.0,50.0,3,2,4,1,,no,apartamento,4.223,1.864,1.833,el porvenir,ciencuadras
+500000000.0,69.0,2,2,5,,,no,apartamento,6.094,1.167,1.276,monseñor alfonso uribe jaramillo,ciencuadras
+650000000.0,74.0,3,2,5,,1,no,apartamento,5.602,0.015,0.136,rionegro,ciencuadras
+1800000000.0,350.0,3,2,3,1,1,no,casa,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+550000000.0,67.0,2,2,3,2,1,no,apartamento,6.593,1.009,1.123,monseñor alfonso uribe jaramillo,ciencuadras
+580000000.0,160.0,5,2,4,,1,no,casa,6.194,2.705,2.784,san antonio,metrocuadrado
+455000000.0,60.0,3,2,4,1,1,no,apartamento,6.224,2.911,2.988,san antonio,metrocuadrado
+1700000000.0,230.0,3,3,3,,,no,casa,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+480000000.0,78.0,3,2,4,1,,no,apartamento,6.194,2.705,2.784,san antonio,ciencuadras
+800000000.0,140.0,4,4,4,2,,no,casa,5.602,0.015,0.136,liborio mejia,ciencuadras
+360000000.0,52.0,2,2,4,,,si,apartamento,4.224,1.864,1.833,el porvenir,metrocuadrado
+500000000.0,65.0,1,2,5,1,,no,apartamento,6.878,3.221,3.315,san antonio,ciencuadras
+1250000000.0,30.0,5,6,4,1,,si,casa,5.523,0.768,0.836,monseñor alfonso uribe jaramillo,ciencuadras
+1200000000.0,4508.0,4,3,3,1,1,no,casa,5.523,0.768,0.836,rionegro,metrocuadrado
+2400000000.0,4340.0,6,7,5,12,9,no,casa,5.6,0.022,0.139,liborio mejia,metrocuadrado
+310000000.0,59.0,3,2,4,,1,si,apartamento,5.523,0.768,0.836,rionegro,metrocuadrado
+4350000000.0,5100.0,4,5,5,2,,no,casa,5.6,0.022,0.139,liborio mejia,ciencuadras
+790000000.0,95.0,3,2,5,2,,si,apartamento,6.321,1.23,1.349,monseñor alfonso uribe jaramillo,ciencuadras
+750000000.0,182.0,4,4,4,1,1,no,casa,6.476,2.674,2.764,san antonio,ciencuadras
+4000000000.0,560.0,5,5,6,10,,si,casa,5.321,1.933,1.98,san antonio,ciencuadras
+445127460.0,73.37,3,3,4,,,si,apartamento,6.737,1.894,2.011,rionegro,ciencuadras
+540000000.0,69.0,3,2,5,1,1,no,apartamento,3.207,2.569,2.498,otras,metrocuadrado
+850000000.0,170.0,3,4,4,1,1,no,casa,6.088,2.878,2.95,san antonio,ciencuadras
+270000000.0,54.0,3,2,3,,,no,apartamento,4.941,1.014,0.889,liborio mejia,ciencuadras
+780000000.0,104.54,3,2,5,1,1,si,apartamento,6.598,1.847,1.961,san antonio,ciencuadras
+360000000.0,58.0,3,2,5,1,,no,apartamento,5.08,1.515,1.401,rionegro,ciencuadras
+3500000000.0,348.0,4,6,6,2,,si,casa,5.6,0.022,0.139,liborio mejia,ciencuadras
+580000000.0,65.0,2,2,4,2,,no,apartamento,5.313,0.995,1.038,el porvenir,ciencuadras
+600000000.0,82.0,3,3,3,,,no,apartamento,2.576,3.35,3.279,rionegro,metrocuadrado
+550000000.0,180.0,4,3,3,,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+545000000.0,74.0,2,2,4,1,1,si,apartamento,2.334,3.752,3.684,rionegro,ciencuadras
+510000000.0,70.0,3,2,5,,1,no,apartamento,3.305,2.488,2.419,el porvenir,ciencuadras
+2395000000.0,196.0,4,5,6,5,,si,casa,5.613,6.374,6.384,rionegro,metrocuadrado
+600000000.0,76.0,2,2,5,,,si,apartamento,6.194,2.705,2.784,san antonio,ciencuadras
+3500000000.0,416.69,3,3,5,2,1,no,casa,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+5000000000.0,500.0,4,5,6,6,1,no,casa,3.155,6.83,6.779,rionegro,ciencuadras
+860000000.0,135.0,3,3,3,,,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+520000000.0,108.0,4,2,3,,,no,casa,4.228,1.98,1.954,el porvenir,lonja_propiedad_raiz
+335000000.0,54.14,3,2,4,1,,si,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+375000000.0,51.0,2,2,4,1,1,no,apartamento,6.071,2.342,2.422,san antonio,ciencuadras
+650000000.0,66.0,2,2,6,2,,si,apartamento,6.522,2.81,2.899,san antonio,ciencuadras
+2600000000.0,269.0,3,4,5,3,1,no,casa,5.525,2.345,2.4,san antonio,metrocuadrado
+2600000000.0,350.0,3,3,5,,,no,casa,5.244,0.754,0.778,el porvenir,metrocuadrado
+1310000000.0,200.0,3,3,6,2,1,si,casa,3.385,2.507,2.446,el porvenir,metrocuadrado
+524000000.0,71.0,3,2,6,1,1,si,apartamento,6.152,2.716,2.793,comuna 2 san antonio,ciencuadras
+325000000.0,66.0,2,2,4,1,,no,apartamento,5.523,0.768,0.836,rionegro,metrocuadrado
+3600000000.0,560.0,5,7,5,7,,no,casa,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+500000000.0,66.15,3,2,4,1,1,no,apartamento,6.005,1.146,1.25,monseñor alfonso uribe jaramillo,ciencuadras
+528000000.0,59.0,2,2,6,1,1,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+350000000.0,50.0,2,2,4,1,,no,apartamento,4.223,1.864,1.833,el porvenir,ciencuadras
+803386320.0,75.0,3,3,4,,,si,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+1200000000.0,150.0,3,2,5,2,,no,casa,5.86,2.443,2.513,san antonio,metrocuadrado
+280000000.0,56.0,3,2,4,1,,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+395000000.0,57.0,3,2,4,1,,si,apartamento,5.26,1.578,1.471,rionegro,ciencuadras
+570000000.0,68.0,2,2,5,,,si,apartamento,5.244,0.754,0.778,comuna 4 el porvenir,ciencuadras
+2620000000.0,230.0,3,3,6,4,,no,casa,6.431,6.02,6.055,otras,metrocuadrado
+1680000000.0,300.0,4,4,,3,,no,casa_campestre,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+495000000.0,60.0,2,2,6,1,1,no,apartamento,6.02,3.416,3.478,san antonio,ciencuadras
+825000000.0,220.0,3,4,5,1,1,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+1450000000.0,200.0,3,3,,6,1,no,casa_campestre,5.523,0.768,0.836,otras,ciencuadras
+449000000.0,60.0,3,2,4,,1,no,apartamento,6.269,2.889,2.968,san antonio,ciencuadras
+265000000.0,52.0,2,2,4,1,1,no,apartamento,6.84,1.273,1.39,monseñor alfonso uribe jaramillo,metrocuadrado
+2450000000.0,365.0,4,5,6,4,,si,casa,5.613,6.374,6.384,rionegro,ciencuadras
+540000000.0,68.0,3,2,5,1,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+1250000000.0,113.0,2,2,6,2,1,si,apartamento,6.744,5.711,5.759,rionegro,ciencuadras
+695000000.0,59.0,1,2,5,1,2,si,apartamento,3.34,8.934,8.833,rionegro,lonja_propiedad_raiz
+340000000.0,64.0,3,2,4,1,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+272000000.0,96.0,3,2,5,1,1,si,apartamento,6.531,1.69,1.805,san antonio,ciencuadras
+545000000.0,66.0,2,2,5,1,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+499000000.0,68.0,2,2,5,1,1,si,apartamento,6.951,3.254,3.349,san antonio,ciencuadras
+1380000000.0,270.0,4,3,3,,,no,casa,1.033,6.482,6.391,rionegro,ciencuadras
+418000000.0,70.0,3,2,4,1,1,si,apartamento,4.808,1.288,1.163,rionegro,ciencuadras
+1800000000.0,350.0,4,3,4,8,,no,casa,6.934,7.917,7.934,rionegro,ciencuadras
+390000000.0,71.55,3,2,4,1,,no,apartamento,5.6,0.022,0.139,el porvenir,ciencuadras
+950000000.0,170.0,4,5,5,1,2,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+3850000000.0,573.0,4,5,5,6,8,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+580000000.0,60.0,3,2,4,1,6,no,apartamento,6.223,2.489,2.574,san antonio,ciencuadras
+550000000.0,62.0,2,2,5,1,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+850000000.0,219.0,3,1,2,,,no,casa,5.428,0.392,0.281,liborio mejia,ciencuadras
+360000000.0,49.0,2,2,2,1,,si,apartamento,5.6,0.022,0.139,monseñor alfonso uribe jaramillo,ciencuadras
+1150000000.0,230.0,4,5,5,,,no,casa,3.192,2.868,2.812,el porvenir,metrocuadrado
+240000000.0,48.0,2,1,3,,1,si,apartamento,6.937,1.418,1.484,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+1490000000.0,216.0,3,3,4,1,,no,casa,5.137,2.066,2.102,san antonio,metrocuadrado
+270000000.0,52.0,2,2,4,,,no,apartamento,5.678,0.205,0.32,liborio mejia,lonja_propiedad_raiz
+4550000000.0,550.0,7,6,4,5,1,si,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+5050000000.0,470.0,4,5,5,2,1,si,casa,5.523,0.768,0.836,monseñor alfonso uribe jaramillo,ciencuadras
+900000000.0,240.0,5,4,4,1,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+690000000.0,119.7,3,2,3,2,,no,casa,5.163,2.651,2.687,san antonio,ciencuadras
+680000000.0,102.0,3,2,4,,,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+680000000.0,108.0,2,3,6,1,1,si,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+3800000000.0,1504.0,4,4,5,4,,no,casa,4.918,6.935,6.921,rionegro,metrocuadrado
+260000000.0,60.0,2,2,4,,,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+580000000.0,82.0,2,2,5,1,1,si,apartamento,5.48,0.658,0.719,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+5900000000.0,700.0,5,6,5,20,,si,casa,5.834,6.739,6.749,rionegro,metrocuadrado
+980000000.0,168.0,3,4,5,2,,no,casa,5.202,2.609,2.646,san antonio,lonja_propiedad_raiz
+2200000000.0,450.0,6,9,5,10,,no,casa,5.523,0.768,0.836,rionegro,metrocuadrado
+370000000.0,111.0,3,2,2,,,no,apartamento,5.957,0.578,0.7,monseñor alfonso uribe jaramillo,ciencuadras
+320000000.0,56.0,3,2,3,1,1,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+1150000000.0,123.0,2,3,5,2,1,no,apartamento,3.37,8.699,8.587,rionegro,ciencuadras
+360000000.0,51.0,2,2,4,1,,no,apartamento,6.071,2.342,2.422,san antonio,ciencuadras
+2250000000.0,246.0,2,4,4,3,,si,casa,4.758,1.299,1.289,comuna 1 liborio mejía,lonja_propiedad_raiz
+900000000.0,157.0,3,4,3,2,,no,casa,6.197,4.216,4.272,rionegro,metrocuadrado
+780000000.0,269.0,4,3,3,,1,no,casa,6.475,0.873,0.976,monseñor alfonso uribe jaramillo,ciencuadras
+700000000.0,112.0,6,2,3,,1,no,casa,5.904,0.829,0.793,liborio mejia,metrocuadrado
+5000000000.0,450.0,4,4,4,4,1,no,casa,5.6,0.022,0.139,el porvenir,ciencuadras
+615000000.0,69.0,2,3,3,1,1,no,apartamento,2.334,3.752,3.684,rionegro,metrocuadrado
+269000000.0,69.0,3,2,3,1,1,si,apartamento,4.783,0.917,0.795,liborio mejia,ciencuadras
+380000000.0,52.0,2,2,4,,,si,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+1250000000.0,171.0,4,5,5,2,1,no,casa,6.061,0.654,0.674,liborio mejia,ciencuadras
+360000000.0,58.0,2,2,4,1,,si,apartamento,5.175,2.6,2.636,san antonio,metrocuadrado
+485000000.0,58.0,2,2,4,1,,si,apartamento,6.916,3.24,3.334,san antonio,ciencuadras
+400000000.0,72.0,2,2,4,1,,si,apartamento,8.226,3.743,3.863,rionegro,ciencuadras
+360000000.0,56.0,2,1,4,1,1,si,apartamento,5.26,1.578,1.471,rionegro,ciencuadras
+775000000.0,91.0,3,3,4,1,1,si,apartamento,2.159,3.993,3.924,rionegro,metrocuadrado
+850000000.0,138.0,3,3,5,1,1,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+830000000.0,150.0,4,8,4,2,1,si,casa,5.498,2.235,2.29,san antonio,ciencuadras
+485000000.0,59.0,2,2,5,1,,no,apartamento,3.334,2.458,2.389,el porvenir,ciencuadras
+615000000.0,165.0,5,3,4,1,,no,casa,5.161,1.11,1.138,el porvenir,ciencuadras
+250000000.0,68.0,2,2,4,,,no,apartamento,6.231,2.831,2.91,san antonio,ciencuadras
+260000000.0,48.6,2,2,4,1,1,si,apartamento,6.834,1.268,1.385,monseñor alfonso uribe jaramillo,ciencuadras
+260000000.0,41.0,2,2,3,,,si,apartamento,7.133,1.65,1.71,monseñor alfonso uribe jaramillo,ciencuadras
+560000000.0,76.27,2,2,5,1,,no,apartamento,5.247,0.734,0.759,liborio mejia,metrocuadrado
+1265000000.0,84.69,2,2,6,2,,si,apartamento,4.912,5.045,5.054,rionegro,metrocuadrado
+349000000.0,61.0,2,2,4,1,1,si,apartamento,4.823,1.29,1.166,rionegro,lonja_propiedad_raiz
+575000000.0,76.0,3,2,4,2,,no,apartamento,6.047,0.63,0.651,liborio mejia,metrocuadrado
+730000000.0,200.0,3,2,5,1,,no,casa,4.759,3.417,3.433,rionegro,metrocuadrado
+290000000.0,50.0,3,2,4,1,1,si,apartamento,4.741,0.93,0.811,liborio mejia,ciencuadras
+2850000000.0,404.0,5,5,6,2,14,no,casa,5.758,1.221,1.305,rionegro,ciencuadras
+1800000000.0,300.0,4,5,5,1,,si,casa,5.53,2.195,2.251,san antonio,ciencuadras
+4500000000.0,1000.0,6,7,6,6,,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+350000000.0,54.14,2,2,4,1,,no,apartamento,4.293,1.371,1.301,liborio mejia,ciencuadras
+750000000.0,86.0,3,2,5,2,,no,apartamento,6.281,2.781,2.862,san antonio,ciencuadras
+1200000000.0,165.0,4,6,4,3,1,si,casa,5.417,2.403,2.452,san antonio,metrocuadrado
+6200000000.0,510.0,4,4,6,7,1,si,casa,6.083,7.082,7.093,rionegro,ciencuadras
+720000000.0,182.0,6,4,4,1,,no,casa,6.033,2.891,2.961,san antonio,ciencuadras
+1150000000.0,168.0,3,4,6,2,2,no,casa,5.43,3.137,3.18,san antonio,metrocuadrado
+1200000000.0,206.0,3,3,4,2,,si,casa,5.79,3.831,3.879,san antonio,ciencuadras
+5990000000.0,400.0,6,6,5,10,,no,casa,4.455,6.098,6.084,rionegro,ciencuadras
+650000000.0,80.0,3,2,5,1,1,si,apartamento,5.459,2.576,2.625,san antonio,lonja_propiedad_raiz
+340000000.0,57.0,3,2,4,1,,si,apartamento,5.18,1.469,1.358,liborio mejia,ciencuadras
+1200000000.0,162.0,3,4,4,3,1,si,casa,5.383,2.634,2.68,san antonio,ciencuadras
+420000000.0,82.0,3,2,3,2,,no,apartamento,3.948,2.052,2.009,el porvenir,ciencuadras
+880000000.0,160.0,3,4,4,1,,no,casa,5.89,3.448,3.504,san antonio,metrocuadrado
+2750000000.0,362.0,3,6,5,3,1,si,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+330000000.0,48.0,2,2,3,1,,si,apartamento,5.6,0.022,0.139,liborio mejia,ciencuadras
+380000000.0,56.0,2,2,3,1,,no,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+520000000.0,73.0,3,2,5,1,,no,apartamento,2.159,3.993,3.924,rionegro,ciencuadras
+490000000.0,66.0,2,2,5,1,,si,apartamento,3.302,2.577,2.513,el porvenir,lonja_propiedad_raiz
+543000000.0,72.0,3,2,4,1,1,no,apartamento,6.224,2.911,2.988,san antonio,ciencuadras
+1400000000.0,160.0,3,2,,3,,no,casa_campestre,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+320000000.0,55.0,2,2,4,,1,si,apartamento,5.16,0.461,0.348,liborio mejia,metrocuadrado
+630000000.0,76.0,2,2,5,1,1,si,apartamento,6.161,3.061,3.133,san antonio,ciencuadras
+1980000000.0,150.0,2,2,6,2,1,si,apartamento,5.17,7.215,7.203,rionegro,ciencuadras
+1250000000.0,180.0,3,3,5,1,,si,casa,5.754,3.876,3.922,rionegro,ciencuadras
+950000000.0,220.0,3,5,5,2,,no,casa,3.285,2.758,2.702,el porvenir,ciencuadras
+550000000.0,132.0,4,3,3,,,no,casa,5.897,0.769,0.736,liborio mejia,ciencuadras
+590000000.0,74.0,3,2,5,1,,no,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+1800000000.0,189.0,3,2,2,4,,no,casa,5.546,0.239,0.157,liborio mejia,ciencuadras
+780000000.0,178.0,7,4,4,1,,no,casa,5.602,0.015,0.136,liborio mejia,ciencuadras
+498000000.0,58.0,1,2,5,1,1,no,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+7850000000.0,800.0,5,6,5,6,1,si,casa,5.247,2.361,2.402,san antonio,ciencuadras
+315000000.0,49.7,2,2,3,1,,no,apartamento,5.957,0.578,0.7,monseñor alfonso uribe jaramillo,ciencuadras
+1450000000.0,360.0,4,4,4,2,,si,casa,6.128,1.14,1.252,monseñor alfonso uribe jaramillo,ciencuadras
+770000000.0,320.0,5,6,3,2,1,si,casa,4.572,1.325,1.293,el porvenir,metrocuadrado
+650000000.0,80.0,2,2,5,,,no,apartamento,5.489,0.175,0.056,liborio mejia,metrocuadrado
+585000000.0,74.25,2,2,5,1,1,si,apartamento,5.413,0.848,0.902,otras,ciencuadras
+700000000.0,67.0,1,2,5,2,,si,apartamento,4.765,10.366,10.266,san antonio,lonja_propiedad_raiz
+443000000.0,71.13,3,2,4,,,no,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+2400000000.0,450.0,6,9,,,,no,casa_campestre,5.523,0.768,0.836,rionegro,ciencuadras
+600000000.0,140.0,5,3,4,1,,si,casa,6.247,2.952,3.029,san antonio,ciencuadras
+355000000.0,56.0,3,2,4,1,,no,apartamento,4.608,1.69,1.565,rionegro,ciencuadras
+330000000.0,55.7,2,2,4,,1,si,apartamento,5.6,0.022,0.139,el porvenir,ciencuadras
+540000000.0,62.0,2,2,4,,,no,apartamento,3.153,2.609,2.536,el porvenir,ciencuadras
+650000000.0,87.0,3,2,5,1,,si,apartamento,6.141,2.674,2.752,san antonio,ciencuadras
+373000000.0,57.0,2,2,4,1,,si,apartamento,5.389,1.039,0.938,liborio mejia,ciencuadras
+525000000.0,71.0,3,2,3,1,,no,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+990000000.0,140.0,6,4,5,1,,no,casa,6.194,2.705,2.784,san antonio,ciencuadras
+230000000.0,43.0,2,2,4,,,si,apartamento,8.15,2.56,2.668,monseñor alfonso uribe jaramillo,ciencuadras
+298000000.0,53.0,2,2,4,1,,no,apartamento,6.647,1.232,1.273,monseñor alfonso uribe jaramillo,ciencuadras
+440000000.0,96.0,2,2,3,2,,no,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+520000000.0,73.0,2,2,5,1,1,si,apartamento,5.493,0.691,0.755,monseñor alfonso uribe jaramillo,ciencuadras
+590000000.0,133.99,3,2,4,1,,si,apartamento,5.258,0.964,1.0,el porvenir,ciencuadras
+360000000.0,57.0,3,2,4,1,1,si,apartamento,5.204,0.996,1.026,el porvenir,metrocuadrado
+340000000.0,61.0,3,3,3,,,si,apartamento,5.918,0.317,0.417,liborio mejia,metrocuadrado
+550000000.0,88.0,3,2,3,1,1,no,apartamento,2.159,3.993,3.924,rionegro,metrocuadrado
+240000000.0,50.0,2,1,2,,1,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+1130000000.0,154.0,3,4,5,,,si,apartamento,3.302,2.577,2.513,el porvenir,lonja_propiedad_raiz
+690000000.0,77.58,3,2,5,1,1,no,apartamento,5.151,0.875,0.892,el porvenir,ciencuadras
+1580000000.0,140.0,3,6,5,2,1,si,apartamento,6.431,6.02,6.055,rionegro,ciencuadras
+700000000.0,160.0,3,2,5,1,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+3500000000.0,320.0,3,3,6,2,1,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+279000000.0,58.0,2,2,4,,4,no,apartamento,5.944,0.56,0.682,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+3300000000.0,1500.0,3,4,6,5,,si,casa,3.496,6.41,6.371,rionegro,lonja_propiedad_raiz
+2157893526.0,173.0,3,3,6,2,1,no,apartamento,6.431,6.02,6.055,otras,ciencuadras
+1050000000.0,300.0,4,3,3,2,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+541000000.0,68.0,2,2,4,,,si,apartamento,5.179,1.325,1.36,el porvenir,ciencuadras
+1990000000.0,235.0,3,4,5,2,,no,casa,3.879,9.442,9.338,rionegro,lonja_propiedad_raiz
+2500000000.0,600.0,4,5,3,3,1,si,casa,5.6,0.022,0.139,liborio mejia,ciencuadras
+415000000.0,74.0,2,2,4,1,1,si,apartamento,5.834,2.383,2.453,otras,lonja_propiedad_raiz
+860000000.0,190.0,4,4,5,2,,si,casa,6.065,2.96,3.03,san antonio,ciencuadras
+1400000000.0,2117.0,4,4,3,1,,no,casa,9.345,9.815,9.853,rionegro,lonja_propiedad_raiz
+320000000.0,62.0,2,2,4,1,1,no,apartamento,4.721,1.37,1.245,rionegro,ciencuadras
+1100000000.0,125.0,3,3,4,2,1,si,apartamento,2.576,3.35,3.279,rionegro,ciencuadras
+6000000000.0,614.0,6,8,6,8,,si,casa,3.48,6.209,6.172,rionegro,ciencuadras
+520000000.0,75.0,3,2,4,,,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+620000000.0,79.5,3,2,5,1,1,si,apartamento,6.194,2.705,2.784,san antonio,ciencuadras
+725000000.0,165.0,2,2,4,2,1,no,apartamento,6.152,2.716,2.793,san antonio,ciencuadras
+700000000.0,165.0,3,1,3,,1,no,casa,5.523,0.768,0.836,rionegro,metrocuadrado
+405000000.0,54.0,2,2,4,1,2024,no,apartamento,7.251,2.529,2.648,rionegro,lonja_propiedad_raiz
+3700000000.0,450.0,3,4,5,2,,si,casa,6.194,2.705,2.784,san antonio,lonja_propiedad_raiz
+360000000.0,76.0,3,2,4,,1,no,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+650000000.0,140.0,4,4,3,2,,no,casa,6.419,2.637,2.726,san antonio,ciencuadras
+1000000000.0,112.0,2,2,5,2,1,si,apartamento,3.37,8.968,8.868,rionegro,ciencuadras
+4500000000.0,503.0,4,5,3,2,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+260000000.0,44.29,3,2,3,1,,no,apartamento,8.176,2.583,2.691,rionegro,lonja_propiedad_raiz
+597000000.0,65.0,2,1,5,1,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+1200000000.0,240.0,4,4,5,2,,no,casa,5.562,1.04,1.11,otras,ciencuadras
+245000000.0,56.0,2,2,3,,,si,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+400000000.0,59.82,3,2,3,1,1,si,apartamento,5.52,1.709,1.77,san antonio,ciencuadras
+280000000.0,57.0,2,2,4,1,,si,apartamento,6.668,1.117,1.236,monseñor alfonso uribe jaramillo,ciencuadras
+330000000.0,92.0,3,3,2,,,no,apartamento,5.944,0.56,0.682,monseñor alfonso uribe jaramillo,ciencuadras
+250000000.0,41.19,2,2,3,,,si,casa,5.6,0.022,0.139,el porvenir,ciencuadras
+260000000.0,52.0,2,2,3,,,no,apartamento,5.6,0.022,0.139,el porvenir,lonja_propiedad_raiz
+245000000.0,55.0,2,2,4,,,no,apartamento,4.293,1.371,1.301,liborio mejia,ciencuadras
+350000000.0,48.0,2,2,3,,1,si,apartamento,5.602,0.015,0.136,liborio mejia,lonja_propiedad_raiz
+190000000.0,55.0,3,2,4,1,,si,apartamento,7.226,2.027,2.05,el porvenir,ciencuadras
+840000000.0,134.0,3,3,5,1,,no,casa,6.197,4.216,4.272,rionegro,ciencuadras
+420000000.0,89.0,3,2,3,,,no,apartamento,5.244,0.754,0.778,rionegro,ciencuadras
+1400000000.0,210.0,3,3,5,,,si,casa,5.681,3.77,3.815,san antonio,ciencuadras
+240000000.0,45.0,2,1,3,1,,no,apartamento,2.159,3.993,3.924,rionegro,ciencuadras
+2250000000.0,257.0,3,4,6,,,si,casa,5.6,0.022,0.139,liborio mejia,ciencuadras
+5500000000.0,660.0,5,6,5,1,1,si,casa,6.224,2.911,2.988,san antonio,metrocuadrado
+1400000000.0,241.21,3,4,5,2,,si,casa,5.602,0.015,0.136,liborio mejia,ciencuadras
+380000000.0,66.0,2,2,4,2,,no,apartamento,6.224,2.911,2.988,san antonio,lonja_propiedad_raiz
+240000000.0,48.0,2,2,3,,1,no,apartamento,2.159,3.993,3.924,rionegro,metrocuadrado
+340000000.0,56.0,3,2,4,1,,no,apartamento,5.758,1.221,1.305,rionegro,ciencuadras
+470000000.0,53.0,2,2,5,1,,no,casa,6.902,3.219,3.314,san antonio,metrocuadrado
+2380000000.0,340.0,4,3,,5,,no,casa_campestre,4.548,6.258,6.244,rionegro,lonja_propiedad_raiz
+2300000000.0,360.0,4,5,5,,,no,casa,7.251,2.529,2.648,rionegro,ciencuadras
+370000000.0,55.0,2,2,3,1,1,no,apartamento,3.94,1.81,1.746,el porvenir,lonja_propiedad_raiz
+2300000000.0,278.0,3,4,,2,1,si,casa_campestre,15.237,15.195,15.255,rionegro,ciencuadras
+600000000.0,300.0,4,3,3,,1,no,casa,7.755,5.796,5.711,rionegro,ciencuadras
+1150000000.0,173.0,3,3,4,2,1,si,casa,3.178,2.657,2.589,el porvenir,ciencuadras
+550000000.0,73.0,2,2,4,,1,si,apartamento,3.153,2.609,2.536,el porvenir,metrocuadrado
+1500000000.0,220.0,4,4,5,2,,si,casa,5.6,0.022,0.139,liborio mejia,ciencuadras
+650000000.0,160.0,4,2,4,1,1,no,casa,5.994,2.817,2.886,san antonio,metrocuadrado
+340000000.0,58.0,2,2,2,2,1,si,apartamento,5.02,0.865,0.739,liborio mejia,ciencuadras
+1292506760.0,352.0,3,2,3,,,no,casa,5.602,0.015,0.136,liborio mejia,metrocuadrado
+515000000.0,65.0,2,2,5,1,,no,apartamento,5.268,0.701,0.727,liborio mejia,lonja_propiedad_raiz
+1250000000.0,137.0,2,2,5,2,,no,apartamento,3.37,8.699,8.587,rionegro,metrocuadrado
+290000000.0,75.0,2,2,4,,,no,apartamento,6.152,2.716,2.793,san antonio,metrocuadrado
+280000000.0,57.0,3,2,3,1,,no,apartamento,6.557,1.101,1.148,monseñor alfonso uribe jaramillo,ciencuadras
+530000000.0,77.0,3,2,5,1,,no,apartamento,5.957,0.578,0.7,monseñor alfonso uribe jaramillo,ciencuadras
+255000000.0,54.0,2,2,4,,,no,apartamento,6.547,1.103,1.147,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+2200000000.0,450.0,4,6,5,2,1,no,casa,5.091,2.39,2.423,san antonio,ciencuadras
+1900000000.0,173.0,3,5,6,2,,no,apartamento,4.757,4.787,4.793,rionegro,ciencuadras
+290000000.0,52.0,3,2,4,1,1,si,apartamento,6.809,1.288,1.409,monseñor alfonso uribe jaramillo,ciencuadras
+650000000.0,111.0,3,2,5,1,,si,apartamento,5.159,0.458,0.347,liborio mejia,metrocuadrado
+680000000.0,85.6,3,2,4,1,1,si,apartamento,5.602,0.015,0.136,liborio mejia,lonja_propiedad_raiz
+510000000.0,67.0,2,2,4,1,,si,apartamento,3.465,2.54,2.485,el porvenir,ciencuadras
+1690000000.0,365.0,4,4,5,3,1,no,casa,6.176,1.223,1.335,monseñor alfonso uribe jaramillo,metrocuadrado
+280000000.0,72.0,2,2,2,,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+1000000000.0,130.0,3,4,6,2,,si,casa,5.472,3.334,3.377,rionegro,metrocuadrado
+1360000000.0,174.0,3,4,4,2,,si,casa,6.213,2.771,2.85,san antonio,ciencuadras
+300000000.0,59.0,5,2,3,,,no,casa,5.448,0.469,0.52,liborio mejia,ciencuadras
+430000000.0,50.0,2,2,4,1,,no,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+325000000.0,58.0,2,2,3,,,no,apartamento,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+850000000.0,150.0,4,2,5,1,,no,apartamento,6.386,2.62,2.708,san antonio,ciencuadras
+1350000000.0,232.0,2,3,6,2,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+650000000.0,127.0,3,3,3,1,,no,casa,6.373,2.637,2.724,san antonio,ciencuadras
+510000000.0,74.25,2,2,4,1,1,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+650000000.0,80.0,2,2,4,1,,si,apartamento,6.925,3.24,3.335,san antonio,ciencuadras
+460000000.0,95.0,2,2,4,,,no,casa,4.272,1.357,1.277,liborio mejia,lonja_propiedad_raiz
+35000000000.0,10000.0,8,8,6,,,no,casa,5.264,7.167,7.158,rionegro,lonja_propiedad_raiz
+1300000000.0,342.0,3,6,3,2,1,no,casa,6.324,0.851,0.977,monseñor alfonso uribe jaramillo,ciencuadras
+730000000.0,87.0,3,2,4,2,1,no,apartamento,6.197,4.216,4.272,rionegro,lonja_propiedad_raiz
+310000000.0,54.0,2,2,4,1,,si,apartamento,7.238,2.081,2.101,rionegro,ciencuadras
+1400000000.0,220.0,4,4,6,1,,si,casa,5.727,0.672,0.616,otras,ciencuadras
+800000000.0,127.0,5,4,4,1,1,no,casa,6.358,0.863,0.988,monseñor alfonso uribe jaramillo,ciencuadras
+290000000.0,57.0,2,2,4,,,si,apartamento,5.26,1.578,1.471,rionegro,ciencuadras
+1150000000.0,230.0,4,6,6,,,no,casa,5.6,0.022,0.139,liborio mejia,metrocuadrado
+240000000.0,49.0,2,2,3,,,no,apartamento,5.523,0.768,0.836,monseñor alfonso uribe jaramillo,ciencuadras
+570000000.0,76.0,3,2,5,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+425000000.0,59.87,3,2,5,1,,no,apartamento,2.477,4.405,4.351,rionegro,lonja_propiedad_raiz
+205000000.0,48.0,3,2,3,1,,si,apartamento,8.165,2.575,2.683,rionegro,ciencuadras
+570000000.0,78.0,3,2,5,1,1,si,apartamento,7.542,1.96,2.072,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+900000000.0,155.0,3,4,5,2,,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+660000000.0,130.0,4,2,4,1,24,si,casa,5.197,0.999,1.027,el porvenir,metrocuadrado
+730000000.0,169.0,3,2,4,1,,no,casa,5.523,0.768,0.836,rionegro,metrocuadrado
+280000000.0,52.0,2,2,4,,1,si,apartamento,5.6,0.022,0.139,el porvenir,ciencuadras
+260000000.0,49.0,2,1,4,,1,si,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+680000000.0,94.0,3,4,3,2,1,si,apartamento,3.37,2.364,2.29,el porvenir,ciencuadras
+400000000.0,108.0,4,2,3,,,no,casa,3.591,2.461,2.412,el porvenir,ciencuadras
+550000000.0,75.0,2,2,4,1,1,no,apartamento,2.576,3.35,3.279,rionegro,metrocuadrado
+1100000000.0,220.0,4,13,4,2,1,si,casa,6.192,2.863,2.94,san antonio,ciencuadras
+460000000.0,110.0,4,4,3,,,no,casa,3.544,2.553,2.505,el porvenir,ciencuadras
+1300000000.0,120.0,3,3,6,4,2,no,casa,6.26,4.747,4.797,rionegro,ciencuadras
+670000000.0,68.0,3,3,4,,,no,casa,6.567,3.063,3.149,san antonio,lonja_propiedad_raiz
+1100000000.0,165.0,3,6,5,3,1,si,casa,6.476,2.906,2.992,san antonio,ciencuadras
+640000000.0,69.0,2,3,4,1,,si,apartamento,3.442,2.309,2.239,el porvenir,ciencuadras
+670000000.0,76.0,2,2,5,1,,no,apartamento,5.912,1.924,2.004,san antonio,ciencuadras
+220000000.0,58.0,2,2,3,,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+550000000.0,80.0,2,2,4,1,,si,apartamento,6.303,1.234,1.352,monseñor alfonso uribe jaramillo,ciencuadras
+320000000.0,56.0,3,2,3,1,,no,apartamento,7.226,2.027,2.05,monseñor alfonso uribe jaramillo,ciencuadras
+1300000000.0,108.0,2,3,6,2,1,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+2100000000.0,173.0,3,3,6,2,1,no,apartamento,5.997,5.922,5.947,otras,ciencuadras
+1800000000.0,240.0,3,5,5,2,1,si,apartamento,6.692,3.435,3.519,san antonio,ciencuadras
+580000000.0,70.8,3,2,5,,1,si,apartamento,4.02,2.108,2.073,el porvenir,ciencuadras
+545000000.0,58.0,2,2,4,,,no,apartamento,5.6,0.022,0.139,liborio mejia,lonja_propiedad_raiz
+3800000000.0,300.0,5,5,4,15,,no,casa,3.634,8.208,8.146,rionegro,metrocuadrado
+520000000.0,69.0,2,2,3,1,,no,apartamento,5.944,0.56,0.682,monseñor alfonso uribe jaramillo,ciencuadras
+380000000.0,58.0,2,2,4,1,,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+1290000000.0,220.0,3,3,5,2,1,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+780000000.0,180.0,4,3,4,1,,no,casa,6.938,1.343,1.452,monseñor alfonso uribe jaramillo,ciencuadras
+620000000.0,64.0,2,2,5,1,,si,apartamento,5.238,0.618,0.495,liborio mejia,lonja_propiedad_raiz
+620000000.0,79.5,3,2,5,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+2750000000.0,340.0,4,4,,6,,no,casa_campestre,5.956,6.986,6.995,rionegro,ciencuadras
+1500000000.0,220.0,4,4,4,8,1,no,casa,5.957,0.578,0.7,monseñor alfonso uribe jaramillo,ciencuadras
+530000000.0,64.0,3,2,5,1,1,si,apartamento,5.6,0.022,0.139,san antonio,ciencuadras
+580000000.0,77.0,3,2,5,1,,si,apartamento,5.313,0.995,1.038,el porvenir,ciencuadras
+4900000000.0,660.0,3,4,6,6,1,si,casa,6.194,2.705,2.784,san antonio,ciencuadras
+420000000.0,110.0,4,3,4,,,no,casa,4.493,1.46,1.43,el porvenir,ciencuadras
+3400000000.0,1750.0,3,5,,2,1,no,casa_campestre,3.509,7.925,7.865,otras,ciencuadras
+370000000.0,124.0,4,2,2,,1,no,apartamento,5.944,0.56,0.682,monseñor alfonso uribe jaramillo,ciencuadras
+280000000.0,55.0,3,2,3,1,,no,apartamento,7.107,2.167,2.166,rionegro,ciencuadras
+700000000.0,130.0,4,3,4,1,,no,casa,5.85,1.501,1.586,san antonio,ciencuadras
+530000000.0,65.0,2,2,4,,,no,apartamento,2.159,3.993,3.924,rionegro,ciencuadras
+240000000.0,56.0,2,2,4,,1,si,apartamento,5.758,1.221,1.305,rionegro,ciencuadras
+335000000.0,56.0,3,2,4,1,1,si,apartamento,5.18,1.469,1.358,liborio mejia,ciencuadras
+330000000.0,50.0,2,2,3,1,,no,apartamento,4.045,1.596,1.517,el porvenir,ciencuadras
+370000000.0,57.0,2,2,4,1,,si,apartamento,5.141,1.504,1.392,rionegro,ciencuadras
+290000000.0,61.0,3,2,4,1,,si,apartamento,5.161,1.376,1.264,rionegro,ciencuadras
+440000000.0,64.0,2,2,4,1,5,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+670000000.0,80.0,3,2,5,1,1,si,apartamento,5.244,0.754,0.778,san antonio,ciencuadras
+1350000000.0,380.0,5,4,4,4,1,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+590000000.0,78.0,2,2,4,,,si,apartamento,6.333,1.515,1.627,san antonio,metrocuadrado
+1650000000.0,210.0,4,5,5,2,,no,apartamento,5.523,0.768,0.836,otras,ciencuadras
+229000000.0,49.0,3,2,3,,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+2700000000.0,210.0,3,4,4,2,1,no,casa,3.268,7.34,7.284,rionegro,ciencuadras
+450000000.0,66.0,2,2,4,1,,si,apartamento,2.334,3.752,3.684,rionegro,ciencuadras
+315000000.0,49.0,2,2,4,,,si,apartamento,7.06,1.635,1.684,monseñor alfonso uribe jaramillo,ciencuadras
+320000000.0,55.0,3,2,4,2,1,no,apartamento,5.256,0.973,0.862,liborio mejia,ciencuadras
+380000000.0,72.0,2,2,3,,1,no,apartamento,5.957,2.756,2.825,san antonio,metrocuadrado
+2160000000.0,280.0,3,5,4,2,,si,casa,5.523,0.768,0.836,rionegro,metrocuadrado
+527000000.0,73.65,3,2,4,1,,no,apartamento,6.224,2.911,2.988,san antonio,ciencuadras
+340000000.0,48.0,2,2,4,1,,no,apartamento,4.02,2.108,2.073,el porvenir,ciencuadras
+240000000.0,53.0,3,2,4,1,1,si,apartamento,6.557,1.101,1.148,monseñor alfonso uribe jaramillo,ciencuadras
+550000000.0,69.0,2,3,4,1,1,si,apartamento,3.177,2.677,2.61,otras,ciencuadras
+360000000.0,67.72,2,2,4,1,1,no,apartamento,4.971,1.108,0.985,rionegro,ciencuadras
+350000000.0,48.0,2,2,4,1,,no,apartamento,4.02,2.108,2.073,el porvenir,metrocuadrado
+650000000.0,170.0,7,5,3,,1,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+2100000000.0,315.0,3,3,,1,1,no,casa_campestre,4.572,6.222,6.21,rionegro,ciencuadras
+1500000000.0,240.0,4,3,,1,1,no,casa_campestre,4.572,6.222,6.21,rionegro,ciencuadras
+240000000.0,52.0,3,2,3,1,,no,apartamento,5.957,0.578,0.7,monseñor alfonso uribe jaramillo,ciencuadras
+340000000.0,78.0,2,2,4,1,4,si,apartamento,4.733,0.892,0.817,liborio mejia,ciencuadras
+2800000000.0,366.0,5,5,5,4,,no,casa,8.951,9.583,9.616,rionegro,ciencuadras
+500000000.0,60.0,3,2,5,1,1,si,apartamento,5.423,0.525,0.573,liborio mejia,ciencuadras
+1200000000.0,250.0,3,4,2,2,,no,casa,6.593,1.009,1.123,monseñor alfonso uribe jaramillo,ciencuadras
+315000000.0,55.0,3,2,1,1,,si,apartamento,8.064,2.474,2.582,monseñor alfonso uribe jaramillo,ciencuadras
+620000000.0,76.0,3,2,5,1,1,si,apartamento,5.845,3.079,3.139,san antonio,metrocuadrado
+595000000.0,90.0,2,2,4,1,1,si,casa,6.143,3.125,3.195,san antonio,ciencuadras
+345000000.0,48.0,2,2,4,1,1,no,apartamento,6.676,1.112,1.23,monseñor alfonso uribe jaramillo,ciencuadras
+800000000.0,180.0,4,4,4,1,,no,casa,4.642,1.022,0.959,liborio mejia,ciencuadras
+584500000.0,73.65,3,2,5,1,4,no,apartamento,4.436,2.032,2.024,el porvenir,ciencuadras
+285000000.0,54.0,3,2,3,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+350000000.0,62.0,2,2,4,2,,no,apartamento,2.159,3.993,3.924,rionegro,ciencuadras
+1450000000.0,220.0,4,6,3,2,,si,casa,5.598,0.016,0.134,liborio mejia,ciencuadras
+480000000.0,127.0,3,2,2,,1,no,casa,2.159,3.993,3.924,rionegro,metrocuadrado
+550000000.0,82.0,1,2,4,1,1,si,apartamento,5.772,3.697,3.746,san antonio,lonja_propiedad_raiz
+4300000000.0,400.0,4,4,5,2,,no,casa,7.735,7.435,7.478,rionegro,lonja_propiedad_raiz
+520000000.0,66.71,2,2,4,1,1,si,apartamento,6.925,3.24,3.335,san antonio,ciencuadras
+1180000000.0,206.0,3,6,4,5,,no,casa,6.32,0.771,0.838,monseñor alfonso uribe jaramillo,metrocuadrado
+1450000000.0,141.0,3,4,4,1,,no,apartamento,5.753,5.07,5.101,rionegro,ciencuadras
+3100000000.0,410.0,4,8,4,3,1,si,casa,5.244,0.754,0.778,otras,lonja_propiedad_raiz
+730000000.0,210.0,4,3,4,1,1,no,casa,5.972,1.084,1.04,el porvenir,lonja_propiedad_raiz
+750000000.0,95.0,3,2,4,2,1,si,apartamento,6.321,1.23,1.349,monseñor alfonso uribe jaramillo,ciencuadras
+400000000.0,61.0,2,2,4,1,1,no,apartamento,4.971,1.108,0.985,rionegro,metrocuadrado
+580000000.0,65.0,2,2,5,1,,si,apartamento,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+540000000.0,76.0,3,2,4,1,1,si,apartamento,6.589,1.767,1.883,san antonio,ciencuadras
+530000000.0,64.5,2,2,5,,,si,apartamento,6.532,1.692,1.807,san antonio,metrocuadrado
+1250000000.0,149.0,2,2,6,2,1,si,apartamento,5.051,7.007,6.995,rionegro,ciencuadras
+1150000000.0,178.0,4,3,4,1,,si,casa,5.024,2.413,2.443,san antonio,ciencuadras
+430000000.0,56.79,2,2,3,1,,si,apartamento,5.828,1.92,1.996,san antonio,ciencuadras
+730000000.0,96.0,3,1,5,,1,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+995000000.0,138.0,3,4,5,1,,no,casa,6.425,3.564,3.637,san antonio,ciencuadras
+600000000.0,76.25,3,2,5,1,,no,apartamento,2.956,2.882,2.811,el porvenir,ciencuadras
+9250000000.0,350.0,3,4,5,6,1,si,casa,5.523,0.768,0.836,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+4000000000.0,6930.0,5,6,3,2,1,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+320000000.0,54.0,2,2,3,,,no,apartamento,7.226,2.027,2.05,monseñor alfonso uribe jaramillo,metrocuadrado
+365000000.0,60.0,2,2,4,1,1,si,apartamento,4.835,1.286,1.162,rionegro,ciencuadras
+535000000.0,61.0,2,2,4,,,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+455000000.0,170.0,5,3,3,,22,no,casa,3.966,1.839,1.781,el porvenir,lonja_propiedad_raiz
+530000000.0,56.0,2,2,5,1,2024,si,apartamento,3.203,2.604,2.535,el porvenir,ciencuadras
+1070000000.0,122.0,3,3,4,2,,si,apartamento,7.251,2.529,2.648,rionegro,metrocuadrado
+1380000000.0,113.0,2,2,6,2,1,no,apartamento,3.336,8.93,8.829,rionegro,lonja_propiedad_raiz
+318000000.0,48.18,2,2,3,1,1,si,apartamento,4.263,1.554,1.504,el porvenir,ciencuadras
+495000000.0,60.0,2,2,6,1,2,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+290000000.0,51.0,2,2,3,1,1,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+280000000.0,66.0,3,1,3,,7,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+260000000.0,53.0,2,2,4,,8,si,apartamento,5.26,1.578,1.471,rionegro,ciencuadras
+998000000.0,230.0,3,3,,,1,si,casa_campestre,7.858,4.767,4.704,rionegro,ciencuadras
+620000000.0,75.0,3,2,5,,2,si,apartamento,3.301,2.459,2.387,el porvenir,ciencuadras
+380000000.0,56.0,2,2,4,1,,no,apartamento,4.733,0.892,0.817,liborio mejia,metrocuadrado
+1000000000.0,195.0,4,3,3,1,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+206000000.0,52.0,2,2,3,,,no,apartamento,5.523,0.768,0.836,rionegro,metrocuadrado
+650000000.0,66.71,2,2,3,1,,no,apartamento,6.902,3.219,3.314,san antonio,ciencuadras
+280000000.0,50.0,2,2,4,,,si,apartamento,7.086,1.681,1.728,monseñor alfonso uribe jaramillo,metrocuadrado
+290000000.0,49.0,2,1,4,,1,si,apartamento,7.088,1.69,1.736,monseñor alfonso uribe jaramillo,ciencuadras
+430000000.0,75.0,3,2,4,1,16,no,apartamento,6.361,2.957,3.038,san antonio,metrocuadrado
+350000000.0,57.0,3,2,4,1,6,si,apartamento,5.02,0.865,0.739,el porvenir,ciencuadras
+550000000.0,174.0,5,2,3,,24,no,casa,5.391,0.265,0.139,el porvenir,metrocuadrado
+250000000.0,54.0,2,2,3,1,26,no,apartamento,6.671,1.228,1.274,monseñor alfonso uribe jaramillo,ciencuadras
+350000000.0,57.0,2,2,4,1,26,si,apartamento,4.789,1.29,1.165,liborio mejia,ciencuadras
+260000000.0,54.0,2,2,4,,4,no,apartamento,6.544,1.076,1.126,el porvenir,ciencuadras
+250000000.0,52.0,3,2,3,,3,si,apartamento,4.817,1.237,1.112,liborio mejia,ciencuadras
+680000000.0,140.0,3,5,5,,46,no,casa,7.49,1.889,1.993,el porvenir,ciencuadras
+210000000.0,49.0,2,1,3,1,26,no,apartamento,4.621,1.051,0.933,liborio mejia,lonja_propiedad_raiz
+260000000.0,48.0,2,2,4,,4,si,apartamento,8.15,2.56,2.668,monseñor alfonso uribe jaramillo,metrocuadrado
+460000000.0,59.0,2,1,3,,16,no,apartamento,6.428,3.035,3.117,san antonio,metrocuadrado
+295000000.0,59.0,2,2,4,1,26,no,apartamento,5.19,1.433,1.322,liborio mejia,lonja_propiedad_raiz
+315000000.0,55.0,2,2,4,,5,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+2850000000.0,403.94,5,6,6,2,,si,casa,3.928,8.208,8.152,rionegro,ciencuadras
+388000000.0,49.0,2,2,4,1,,no,apartamento,6.011,3.16,3.225,san antonio,ciencuadras
+245000000.0,50.0,2,2,3,1,1,si,apartamento,3.984,1.675,1.599,el porvenir,ciencuadras
+320000000.0,48.0,2,2,4,,1,si,apartamento,6.944,1.457,1.516,monseñor alfonso uribe jaramillo,ciencuadras
+800000000.0,76.0,3,2,5,1,8,si,apartamento,6.234,1.114,1.232,monseñor alfonso uribe jaramillo,ciencuadras
+285000000.0,55.0,2,2,4,,4,si,apartamento,7.238,2.081,2.101,rionegro,ciencuadras
+680000000.0,80.0,2,2,4,1,3,si,apartamento,6.925,3.24,3.335,san antonio,lonja_propiedad_raiz
+450000000.0,104.0,3,2,3,2,1,no,apartamento,5.523,0.768,0.836,rionegro,metrocuadrado
+320000000.0,62.0,3,2,4,1,4,si,apartamento,5.56,0.728,0.644,el porvenir,ciencuadras
+450000000.0,33.0,1,1,5,1,11,si,apartamento,5.172,7.177,7.165,rionegro,metrocuadrado
+570000000.0,189.0,4,4,4,1,8,no,casa,5.523,0.768,0.836,rionegro,metrocuadrado
+900000000.0,140.0,3,3,5,1,15,no,casa,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+980000000.0,150.0,3,3,5,1,15,no,casa,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+1350000000.0,200.0,3,3,6,2,7,si,casa,4.089,2.062,2.03,el porvenir,ciencuadras
+265000000.0,49.0,3,1,2,,4,no,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+360000000.0,54.0,2,2,4,1,1,no,apartamento,4.089,2.062,2.03,el porvenir,ciencuadras
+1100000000.0,144.0,4,4,,1,4,no,casa_campestre,5.244,0.754,0.778,el porvenir,metrocuadrado
+900000000.0,180.0,4,4,,2,21,si,casa_campestre,5.244,0.754,0.778,el porvenir,ciencuadras
+320000000.0,52.0,2,2,3,1,,si,apartamento,4.817,1.237,1.112,liborio mejia,ciencuadras
+3600000000.0,320.0,3,4,5,7,4,si,casa,4.172,5.154,5.142,rionegro,lonja_propiedad_raiz
+6000000000.0,652.0,4,5,6,8,2021,si,casa,5.6,0.022,0.139,liborio mejia,ciencuadras
+565000000.0,122.0,4,3,4,,,no,casa,6.369,2.824,2.908,san antonio,ciencuadras
+400000000.0,66.0,2,2,4,2,,si,apartamento,6.269,2.889,2.968,comuna 2 san antonio,metrocuadrado
+330000000.0,55.7,2,2,4,1,1,no,apartamento,6.131,1.571,1.67,san antonio,ciencuadras
+230000000.0,48.0,2,1,3,,1,si,casa,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+385000000.0,50.0,2,2,4,,2,no,apartamento,6.197,4.216,4.272,rionegro,metrocuadrado
+510000000.0,58.0,1,2,4,1,,si,apartamento,6.525,1.482,1.602,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+800000000.0,83.0,2,2,6,,,si,apartamento,5.375,2.916,2.959,san antonio,ciencuadras
+600000000.0,103.0,3,2,4,,,no,apartamento,6.363,3.297,3.373,san antonio,ciencuadras
+360000000.0,63.0,3,2,4,,,si,apartamento,4.82,1.204,1.079,el porvenir,metrocuadrado
+750000000.0,185.0,5,3,4,1,,no,casa,6.314,2.653,2.738,san antonio,ciencuadras
+310000000.0,68.0,3,2,4,,,no,apartamento,6.286,2.781,2.863,san antonio,lonja_propiedad_raiz
+515000000.0,88.0,3,2,4,1,,no,apartamento,3.56,2.441,2.389,el porvenir,metrocuadrado
+450000000.0,110.0,3,4,3,,,no,casa,6.282,1.358,1.471,monseñor alfonso uribe jaramillo,ciencuadras
+420000000.0,72.0,3,2,4,1,,no,apartamento,6.236,1.457,1.565,monseñor alfonso uribe jaramillo,ciencuadras
+1100000000.0,154.0,3,4,5,1,,no,apartamento,4.793,0.896,0.844,liborio mejia,lonja_propiedad_raiz
+250000000.0,50.0,2,2,3,1,1,si,apartamento,4.817,1.237,1.112,liborio mejia,metrocuadrado
+450000000.0,80.0,3,2,4,,14,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+360000000.0,60.0,2,2,4,1,9,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+250000000.0,52.0,3,2,3,,,no,apartamento,4.376,1.525,1.4,rionegro,ciencuadras
+3200000000.0,281.0,3,3,6,6,24,no,casa,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+330000000.0,57.0,3,2,4,1,8,no,apartamento,5.558,0.258,0.335,liborio mejia,ciencuadras
+680000000.0,170.0,1,2,4,,6,no,casa,4.503,1.506,1.481,el porvenir,ciencuadras
+1140000000.0,186.0,3,3,5,2,6,no,casa,5.602,0.015,0.136,liborio mejia,lonja_propiedad_raiz
+460000000.0,66.7,3,2,4,1,1,no,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+500000000.0,92.0,3,2,5,1,2,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+690000000.0,90.0,3,2,4,,,si,apartamento,6.035,2.147,2.229,san antonio,ciencuadras
+260000000.0,50.0,2,2,3,1,,si,apartamento,6.616,1.18,1.224,monseñor alfonso uribe jaramillo,ciencuadras
+780000000.0,92.0,3,2,5,1,1,si,apartamento,5.153,0.866,0.882,el porvenir,ciencuadras
+630000000.0,88.0,3,2,4,2,,no,apartamento,6.334,0.9,1.027,monseñor alfonso uribe jaramillo,ciencuadras
+420000000.0,60.42,2,2,4,1,,no,apartamento,4.835,1.286,1.162,rionegro,ciencuadras
+398000000.0,57.0,3,2,3,,,si,apartamento,5.02,0.865,0.739,liborio mejia,ciencuadras
+500000000.0,68.0,2,2,5,1,1,si,apartamento,5.244,0.754,0.778,monseñor alfonso uribe jaramillo,ciencuadras
+340000000.0,50.0,2,2,4,1,1,no,apartamento,4.223,1.864,1.833,el porvenir,lonja_propiedad_raiz
+470000000.0,65.0,2,2,3,1,1,no,apartamento,5.313,0.995,1.038,el porvenir,lonja_propiedad_raiz
+1130000000.0,173.0,3,4,5,2,1,si,casa,5.362,2.922,2.965,san antonio,ciencuadras
+550000000.0,64.0,2,2,4,1,1,no,apartamento,6.598,1.847,1.961,monseñor alfonso uribe jaramillo,metrocuadrado
+650000000.0,75.0,2,2,5,1,,si,apartamento,3.215,2.589,2.519,el porvenir,ciencuadras
+420000000.0,58.0,2,2,5,1,1,no,apartamento,6.639,1.782,1.899,otras,ciencuadras
+380000000.0,56.0,3,2,4,1,,no,apartamento,5.6,0.022,0.139,el porvenir,ciencuadras
+280000000.0,45.0,4,2,3,1,,si,apartamento,5.068,1.023,0.902,liborio mejia,ciencuadras
+600000000.0,140.0,5,3,3,,,no,casa,5.88,0.514,0.512,liborio mejia,ciencuadras
+700000000.0,85.0,9,4,4,1,,si,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+600000000.0,120.0,7,4,2,1,1,no,casa,4.171,2.034,2.007,el porvenir,ciencuadras
+320000000.0,49.0,3,2,3,1,1,no,apartamento,3.434,2.29,2.216,el porvenir,metrocuadrado
+1550000000.0,185.0,2,4,5,2,,si,casa,3.191,2.755,2.694,el porvenir,ciencuadras
+4500000000.0,4035.14,4,6,5,4,,si,casa,2.6,6.832,6.769,rionegro,metrocuadrado
+290000000.0,58.0,2,2,4,1,,si,apartamento,5.177,1.416,1.305,rionegro,metrocuadrado
+175500000.0,50.8,3,2,4,,1,no,apartamento,5.6,0.022,0.139,el porvenir,ciencuadras
+240000000.0,48.0,3,1,2,,,no,apartamento,7.76,2.162,2.268,monseñor alfonso uribe jaramillo,ciencuadras
+613000000.0,89.91,3,2,4,1,1,no,apartamento,5.406,1.366,1.42,san antonio,ciencuadras
+279000000.0,53.0,2,2,3,,1,no,apartamento,5.6,0.022,0.139,el porvenir,metrocuadrado
+550000000.0,58.0,2,2,5,1,1,si,apartamento,3.405,2.649,2.596,el porvenir,lonja_propiedad_raiz
+560000000.0,69.0,3,2,5,,,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+230000000.0,56.97,3,2,2,,,no,apartamento,4.84,0.818,0.759,liborio mejia,ciencuadras
+800000000.0,137.53,3,2,4,1,,si,casa,6.233,1.154,1.27,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+530000000.0,78.0,3,2,5,1,1,si,apartamento,6.254,3.35,3.42,san antonio,ciencuadras
+2950000000.0,420.0,3,6,4,3,1,si,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+350000000.0,49.2,2,1,3,1,1,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+4200000000.0,430.0,4,5,5,6,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+900000000.0,121.0,3,3,3,1,11,no,casa,5.6,0.022,0.139,liborio mejia,ciencuadras
+1300000000.0,150.0,3,4,5,2,,no,casa,6.884,2.94,3.039,rionegro,ciencuadras
+690000000.0,130.0,4,4,4,1,1,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+260000000.0,54.0,2,2,3,1,,no,apartamento,6.616,1.18,1.224,monseñor alfonso uribe jaramillo,ciencuadras
+680000000.0,120.0,4,3,3,1,,no,casa,5.944,0.56,0.682,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+600000000.0,210.0,6,4,5,1,1,si,casa,6.458,2.698,2.788,san antonio,ciencuadras
+325000000.0,55.7,2,2,4,1,,si,apartamento,6.728,1.145,1.259,monseñor alfonso uribe jaramillo,ciencuadras
+250000000.0,48.0,2,2,4,,,si,apartamento,6.721,1.142,1.256,monseñor alfonso uribe jaramillo,ciencuadras
+2950000000.0,7637.0,3,4,5,2,1,si,casa,5.244,0.754,0.778,comuna 3 monseñor alfonso uribe jaramillo,metrocuadrado
+1400000000.0,232.0,4,4,6,1,,si,casa,5.523,0.768,0.836,san antonio,lonja_propiedad_raiz
+1500000000.0,280.0,4,4,5,8,4,no,casa,5.957,0.578,0.7,monseñor alfonso uribe jaramillo,metrocuadrado
+330000000.0,55.0,2,2,4,1,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+300000000.0,54.98,2,2,4,1,1,si,apartamento,7.238,2.081,2.101,rionegro,ciencuadras
+650000000.0,83.0,2,3,5,,,si,apartamento,5.6,0.022,0.139,el porvenir,ciencuadras
+585000000.0,65.0,2,2,5,1,,si,apartamento,5.207,0.799,0.82,el porvenir,ciencuadras
+476500000.0,58.0,2,2,5,1,,si,apartamento,6.916,3.24,3.334,san antonio,lonja_propiedad_raiz
+6800000000.0,595.0,7,15,5,3,1,si,casa,4.918,6.935,6.921,rionegro,ciencuadras
+490000000.0,124.0,3,3,3,1,12,no,casa,4.083,1.691,1.633,el porvenir,metrocuadrado
+2350000000.0,267.0,3,4,5,2,,si,casa,7.397,6.878,6.923,comuna 3 monseñor alfonso uribe jaramillo,ciencuadras
+2310000000.0,500.0,5,8,4,3,1,si,casa,5.442,2.253,2.305,san antonio,ciencuadras
+2700000000.0,340.0,3,4,6,,,no,casa,3.232,6.511,6.387,rionegro,ciencuadras
+423000000.0,73.37,3,2,5,1,1,si,apartamento,5.77,1.986,2.058,san antonio,ciencuadras
+900000000.0,132.0,3,2,4,1,,no,casa,6.207,3.288,3.358,san antonio,ciencuadras
+530000000.0,66.0,2,2,3,1,,no,apartamento,6.197,4.216,4.272,rionegro,metrocuadrado
+200000000.0,54.0,3,2,3,1,,no,apartamento,4.621,1.051,0.933,liborio mejia,metrocuadrado
+290000000.0,56.0,2,2,4,,1,si,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+580000000.0,105.0,3,2,3,1,,no,casa,6.227,3.361,3.43,san antonio,ciencuadras
+560000000.0,60.0,2,2,5,1,1,si,apartamento,5.846,3.08,3.139,san antonio,lonja_propiedad_raiz
+720000000.0,180.0,4,3,4,,1,no,casa,6.673,1.092,1.206,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+490000000.0,64.0,1,2,5,1,1,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+1950000000.0,140.0,5,2,1,9,,no,casa,5.6,0.022,0.139,comuna 3 monseñor alfonso uribe jaramillo,ciencuadras
+2600000000.0,280.0,3,4,6,2,1,si,casa,5.244,0.754,0.778,el porvenir,metrocuadrado
+2700000000.0,300.0,3,4,4,4,,no,casa,5.639,5.441,5.464,rionegro,metrocuadrado
+560000000.0,105.0,3,2,3,1,,no,casa,5.244,0.754,0.778,rionegro,ciencuadras
+1200000000.0,340.0,5,4,4,1,,no,casa,5.6,0.022,0.139,liborio mejia,ciencuadras
+330000000.0,49.0,2,2,4,1,,no,apartamento,2.159,3.993,3.924,rionegro,ciencuadras
+3100000000.0,520.0,3,8,4,14,1,si,casa,5.341,0.3,0.276,otras,metrocuadrado
+920000000.0,200.0,3,4,4,1,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+650000000.0,140.0,3,3,2,,,no,casa,4.927,0.828,0.797,el porvenir,ciencuadras
+370000000.0,60.0,3,2,4,1,,no,apartamento,5.362,1.079,0.976,liborio mejia,lonja_propiedad_raiz
+270000000.0,50.0,2,2,4,2,1,si,apartamento,6.812,1.25,1.368,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+598000000.0,76.25,3,2,5,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+2816071000.0,370.0,5,6,4,1,1,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+4800000000.0,870.0,4,8,,3,5,no,casa_campestre,5.826,8.858,8.834,rionegro,lonja_propiedad_raiz
+2050000000.0,350.0,3,4,5,2,,si,casa,5.569,0.781,0.854,monseñor alfonso uribe jaramillo,ciencuadras
+370000000.0,40.0,1,2,3,1,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+250000000.0,53.0,2,2,4,,,no,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+570000000.0,77.0,2,2,5,1,1,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+2850000000.0,382.0,4,4,6,2,,si,casa,1.595,6.953,6.866,rionegro,ciencuadras
+600000000.0,64.0,3,2,5,2,1,si,apartamento,5.313,0.995,1.038,el porvenir,metrocuadrado
+650000000.0,94.0,3,2,3,1,,no,apartamento,6.224,2.911,2.988,san antonio,ciencuadras
+680000000.0,120.0,3,2,4,,,no,apartamento,6.269,2.889,2.968,san antonio,lonja_propiedad_raiz
+310000000.0,62.0,3,2,3,1,1,si,apartamento,4.037,2.376,2.25,rionegro,metrocuadrado
+4300000000.0,1500.0,5,6,6,8,1,no,casa,3.498,6.414,6.375,rionegro,metrocuadrado
+1800000000.0,320.0,5,4,4,2,1,si,casa,4.225,3.971,3.967,rionegro,ciencuadras
+600000000.0,70.0,3,2,5,1,1,si,apartamento,5.462,2.213,2.266,san antonio,metrocuadrado
+310000000.0,57.0,2,2,3,1,,si,apartamento,4.789,1.29,1.165,liborio mejia,ciencuadras
+615000000.0,90.0,3,3,5,1,,si,apartamento,4.02,2.108,2.073,el porvenir,lonja_propiedad_raiz
+540000000.0,78.0,3,2,4,1,1,no,apartamento,6.197,4.216,4.272,rionegro,lonja_propiedad_raiz
+649000000.0,90.1,3,3,5,1,1,si,apartamento,3.262,2.513,2.443,el porvenir,ciencuadras
+550000000.0,140.0,4,2,4,,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+1950000000.0,211.0,4,3,6,4,,si,casa,4.866,2.606,2.628,san antonio,ciencuadras
+380000000.0,57.0,2,2,5,1,6,si,apartamento,5.385,1.018,0.916,liborio mejia,metrocuadrado
+4500000000.0,492.0,4,5,6,3,,no,casa,5.321,1.933,1.98,san antonio,ciencuadras
+1390000000.0,2500.0,3,2,4,,1,no,casa,5.6,0.022,0.139,liborio mejia,ciencuadras
+350000000.0,67.0,2,2,4,1,1,si,apartamento,4.971,1.108,0.985,otras,metrocuadrado
+1300000000.0,245.0,3,4,3,,,no,casa,5.6,0.022,0.139,liborio mejia,ciencuadras
+250000000.0,48.0,2,2,3,1,1,no,apartamento,8.159,2.568,2.675,rionegro,ciencuadras
+450000000.0,79.0,3,2,5,,,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+300000000.0,57.0,3,2,4,1,,si,apartamento,5.087,1.519,1.405,rionegro,ciencuadras
+750000000.0,128.0,4,4,4,1,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+370000000.0,58.0,2,2,4,1,6,no,apartamento,4.835,1.286,1.162,rionegro,ciencuadras
+490000000.0,58.25,2,2,5,1,1,si,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+1400000000.0,360.0,4,3,3,2,,no,casa,5.758,1.221,1.305,rionegro,ciencuadras
+1400000000.0,162.0,3,3,5,2,,si,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+510000000.0,57.0,2,2,5,,1,si,apartamento,3.153,2.609,2.536,el porvenir,ciencuadras
+230000000.0,50.0,2,2,4,1,,si,apartamento,8.159,2.568,2.675,rionegro,metrocuadrado
+1050000000.0,230.0,4,8,4,3,,no,casa,6.15,2.675,2.753,san antonio,ciencuadras
+380000000.0,60.0,2,2,4,1,,si,apartamento,4.798,1.299,1.174,rionegro,ciencuadras
+650000000.0,63.0,1,2,5,2,,si,apartamento,5.244,0.754,0.778,comuna 3 monseñor alfonso uribe jaramillo,metrocuadrado
+659000000.0,96.0,3,2,5,1,,si,apartamento,5.601,0.386,0.318,liborio mejia,lonja_propiedad_raiz
+370000000.0,68.0,3,2,4,1,,no,apartamento,5.243,0.361,0.265,liborio mejia,ciencuadras
+1250000000.0,162.0,3,3,5,2,,no,casa,3.683,2.223,2.167,el porvenir,lonja_propiedad_raiz
+2400000000.0,340.0,4,3,6,2,1,si,casa,5.753,5.07,5.101,rionegro,metrocuadrado
+530000000.0,64.0,2,2,3,1,1,si,apartamento,4.02,2.108,2.073,el porvenir,ciencuadras
+480000000.0,130.0,4,3,2,,,si,casa,5.602,0.015,0.136,liborio mejia,ciencuadras
+2190000000.0,253.0,3,4,5,10,,no,casa,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+380000000.0,59.0,2,2,4,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,metrocuadrado
+570000000.0,189.0,4,4,3,2,,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+253000000.0,51.0,2,2,3,,,si,apartamento,8.137,2.565,2.678,rionegro,ciencuadras
+750000000.0,96.0,3,3,4,1,,si,apartamento,5.413,0.848,0.902,el porvenir,ciencuadras
+350000000.0,54.0,3,2,4,1,2,no,apartamento,5.758,1.221,1.305,rionegro,ciencuadras
+319000000.0,58.0,3,2,4,1,1,no,apartamento,5.073,1.531,1.417,rionegro,ciencuadras
+575000000.0,130.0,5,3,2,,,no,casa,5.6,0.022,0.139,san antonio,lonja_propiedad_raiz
+1500000000.0,280.0,3,4,6,2,,no,casa,3.136,2.726,2.66,el porvenir,metrocuadrado
+308000000.0,36.0,1,1,3,1,1,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+495000000.0,97.0,2,2,4,,,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+1200000000.0,346.0,5,4,4,4,,no,casa,5.6,0.022,0.139,liborio mejia,metrocuadrado
+1380000000.0,140.0,3,4,5,2,1,si,apartamento,5.244,0.754,0.778,comuna 3 monseñor alfonso uribe jaramillo,ciencuadras
+1170000000.0,250.0,4,4,4,1,,no,casa,3.153,2.609,2.536,comuna 3 monseñor alfonso uribe jaramillo,ciencuadras
+570000000.0,70.0,2,3,5,1,1,si,apartamento,3.327,2.457,2.387,el porvenir,ciencuadras
+610000000.0,65.0,2,2,5,,,si,apartamento,6.364,3.546,3.617,san antonio,ciencuadras
+575000000.0,67.0,2,2,5,1,1,si,apartamento,5.244,0.754,0.778,comuna 3 monseñor alfonso uribe jaramillo,ciencuadras
+1300000000.0,174.0,3,4,5,1,1,si,casa,6.569,3.292,3.375,san antonio,ciencuadras
+440000000.0,57.0,5,2,5,1,1,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+2490000000.0,363.0,4,4,6,4,,si,casa,5.3,8.47,8.44,rionegro,ciencuadras
+1150000000.0,206.0,3,4,6,2,,si,casa,5.79,3.831,3.879,san antonio,metrocuadrado
+790000000.0,125.0,3,3,5,1,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+770000000.0,95.0,2,2,5,1,,si,apartamento,3.153,2.609,2.536,rionegro,ciencuadras
+500000000.0,90.0,3,2,3,1,,no,apartamento,6.224,2.911,2.988,san antonio,ciencuadras
+2650000000.0,328.0,4,5,5,2,,si,casa,5.602,0.015,0.136,liborio mejia,ciencuadras
+550000000.0,59.5,2,2,4,1,,no,apartamento,3.394,2.457,2.393,el porvenir,ciencuadras
+400000000.0,56.0,3,2,5,1,1,si,apartamento,5.084,1.521,1.407,rionegro,ciencuadras
+365000000.0,60.0,3,2,4,2,,no,apartamento,4.789,1.29,1.165,liborio mejia,ciencuadras
+750000000.0,170.0,3,4,5,2,,si,casa,6.204,0.816,0.941,monseñor alfonso uribe jaramillo,ciencuadras
+511393797.0,59.11,2,2,5,1,,si,apartamento,5.244,0.754,0.778,rionegro,ciencuadras
+2990000000.0,450.0,5,7,4,3,,no,casa,4.353,3.706,3.707,rionegro,ciencuadras
+419000000.0,66.81,2,2,4,1,,no,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+635000000.0,60.0,1,2,4,1,1,si,apartamento,3.538,9.14,9.042,rionegro,ciencuadras
+515000000.0,66.0,2,2,4,1,,no,apartamento,6.927,3.253,3.347,san antonio,ciencuadras
+370000000.0,57.0,3,2,4,1,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+730000000.0,93.0,3,2,5,1,,si,apartamento,3.56,2.441,2.389,el porvenir,ciencuadras
+3200000000.0,400.0,4,6,6,3,,no,casa,5.523,0.768,0.836,rionegro,metrocuadrado
+1180000000.0,170.0,3,4,5,5,1,si,casa,5.276,2.061,2.105,san antonio,ciencuadras
+2300000000.0,279.0,3,4,6,6,,si,casa,5.6,0.022,0.139,liborio mejia,metrocuadrado
+570000000.0,65.0,2,2,5,1,,si,apartamento,6.474,3.57,3.644,san antonio,ciencuadras
+700000000.0,144.0,5,3,4,1,,si,casa,5.214,1.028,1.06,el porvenir,ciencuadras
+600000000.0,90.0,3,2,5,1,1,si,apartamento,6.28,0.795,0.921,monseñor alfonso uribe jaramillo,ciencuadras
+3400000000.0,2800.0,7,6,4,2,,no,casa,5.613,6.374,6.384,rionegro,ciencuadras
+3000000000.0,328.31,3,3,5,4,1,si,casa,5.6,0.022,0.139,el porvenir,ciencuadras
+570000000.0,93.0,2,2,5,1,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+2950000000.0,460.0,4,8,4,3,1,si,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+500000000.0,170.0,3,2,2,,1,no,casa,5.944,0.56,0.682,monseñor alfonso uribe jaramillo,metrocuadrado
+460000000.0,57.0,2,2,5,1,,no,apartamento,3.207,2.569,2.498,el porvenir,metrocuadrado
+260000000.0,80.0,4,2,3,,,no,casa,4.672,1.025,0.904,liborio mejia,ciencuadras
+700000000.0,188.0,4,4,3,1,,no,casa,5.957,0.578,0.7,monseñor alfonso uribe jaramillo,metrocuadrado
+280000000.0,58.0,2,2,3,,,si,apartamento,4.817,1.237,1.112,liborio mejia,metrocuadrado
+510000000.0,57.0,2,2,5,1,,no,apartamento,2.576,3.35,3.279,rionegro,lonja_propiedad_raiz
+409000000.0,52.0,2,2,3,1,1,si,apartamento,2.159,3.993,3.924,rionegro,ciencuadras
+850000000.0,138.0,3,1,5,,,si,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+3500000000.0,2000.0,3,3,5,6,,si,casa,12.813,8.339,8.464,san antonio,ciencuadras
+1199000000.0,350.0,4,3,4,4,1,no,casa,2.028,5.273,5.21,rionegro,ciencuadras
+280000000.0,53.0,2,2,4,1,,no,apartamento,19.461,24.784,24.667,rionegro,ciencuadras
+358000000.0,64.0,3,2,3,1,1,si,apartamento,5.523,0.768,0.836,otras,ciencuadras
+850000000.0,280.0,3,3,6,3,,no,casa,7.529,1.927,2.028,monseñor alfonso uribe jaramillo,ciencuadras
+2600000000.0,390.0,4,4,,4,,si,casa,5.629,11.168,11.078,rionegro,lonja_propiedad_raiz
+1200000000.0,240.0,4,3,4,,,no,casa,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+410000000.0,70.0,2,2,4,1,1,no,apartamento,5.957,0.578,0.7,monseñor alfonso uribe jaramillo,ciencuadras
+720000000.0,40.0,1,1,6,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+350000000.0,60.0,2,2,5,1,1,no,apartamento,7.251,2.529,2.648,rionegro,metrocuadrado
+740000000.0,72.0,3,2,5,1,,si,apartamento,23.255,27.482,27.356,san antonio,ciencuadras
+630000000.0,205.0,4,4,4,1,,si,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+850000000.0,170.0,3,6,4,2,1,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+310000000.0,56.0,3,2,4,1,1,si,apartamento,5.428,0.621,0.518,liborio mejia,metrocuadrado
+3650000000.0,350.0,4,5,4,8,,no,casa,7.996,2.397,2.501,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+1300000000.0,220.0,3,3,5,2,,si,casa,6.257,1.354,1.466,monseñor alfonso uribe jaramillo,ciencuadras
+700000000.0,96.0,3,3,3,1,1,no,apartamento,2.317,3.658,3.586,rionegro,ciencuadras
+949500000.0,144.0,4,4,4,2,2,no,casa,8.117,4.957,4.898,rionegro,metrocuadrado
+800000000.0,80.0,1,1,4,1,,no,apartamento,5.957,0.578,0.7,monseñor alfonso uribe jaramillo,ciencuadras
+830000000.0,144.0,4,3,3,1,,no,apartamento,6.389,2.582,2.671,san antonio,ciencuadras
+5980000000.0,760.0,5,7,5,3,1,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+1200000000.0,182.0,3,4,4,3,1,si,casa,5.498,2.235,2.29,san antonio,ciencuadras
+250000000.0,44.29,3,2,3,1,,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+430000000.0,54.0,2,3,5,,,no,apartamento,6.314,3.286,3.36,san antonio,ciencuadras
+2200000000.0,278.0,3,4,,2,1,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+315000000.0,56.09,3,2,4,1,1,si,apartamento,5.523,0.768,0.836,rionegro,metrocuadrado
+540000000.0,62.42,2,2,5,1,1,no,apartamento,3.277,2.459,2.385,el porvenir,ciencuadras
+800000000.0,125.0,5,4,4,1,,no,casa,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+295000000.0,56.0,3,2,4,1,,si,apartamento,5.18,1.469,1.358,liborio mejia,ciencuadras
+900000000.0,135.0,3,3,4,1,,no,casa,6.649,1.07,1.185,monseñor alfonso uribe jaramillo,ciencuadras
+530000000.0,67.0,2,2,4,,,si,apartamento,6.525,1.482,1.602,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+315000000.0,51.0,2,2,3,,1,si,apartamento,5.247,0.498,0.494,liborio mejia,metrocuadrado
+2300000000.0,500.0,4,5,3,3,1,no,casa,2.827,8.1,7.988,rionegro,ciencuadras
+390000000.0,49.0,3,2,3,1,,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+5800000000.0,800.0,5,4,6,13,8,si,casa,4.832,2.642,2.663,san antonio,ciencuadras
+560000000.0,105.0,3,2,4,4,,no,casa,3.921,1.822,1.757,el porvenir,ciencuadras
+245000000.0,52.0,2,2,3,,,no,apartamento,5.944,0.56,0.682,monseñor alfonso uribe jaramillo,metrocuadrado
+2400000000.0,336.0,5,4,5,,,si,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+3700000000.0,430.0,5,6,,5,1,si,casa_campestre,5.523,0.768,0.836,rionegro,ciencuadras
+700000000.0,71.0,2,2,5,1,,si,apartamento,5.328,0.692,0.729,liborio mejia,ciencuadras
+750000000.0,214.0,3,4,4,1,,no,casa,5.602,0.015,0.136,liborio mejia,metrocuadrado
+260000000.0,52.0,2,1,4,1,1,si,apartamento,5.483,0.978,0.884,liborio mejia,metrocuadrado
+1050000000.0,200.0,4,5,4,2,,si,casa,2.159,3.993,3.924,rionegro,metrocuadrado
+700000000.0,2950.0,4,3,5,,,no,casa,5.6,0.022,0.139,liborio mejia,ciencuadras
+750000000.0,130.0,3,4,5,1,1,si,casa,5.093,1.034,1.051,el porvenir,lonja_propiedad_raiz
+950000000.0,80.0,3,2,4,,,no,casa,6.953,5.796,5.848,rionegro,ciencuadras
+640000000.0,66.0,2,2,2,1,,no,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+385000000.0,114.0,4,3,3,,,si,casa,6.636,1.105,1.171,monseñor alfonso uribe jaramillo,ciencuadras
+2800000000.0,201.0,3,6,4,3,1,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+245000000.0,48.24,3,2,3,1,,no,apartamento,4.02,2.108,2.073,el porvenir,ciencuadras
+780000000.0,152.0,3,2,5,1,,si,casa,7.081,3.667,3.758,rionegro,metrocuadrado
+800000000.0,145.0,3,4,4,2,1,no,casa,5.758,1.221,1.305,rionegro,lonja_propiedad_raiz
+1550000000.0,200.0,3,2,3,3,1,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+400000000.0,180.0,4,5,4,,,no,casa,3.549,2.484,2.433,el porvenir,ciencuadras
+5800000000.0,750.0,3,4,,8,,no,casa_campestre,5.523,0.768,0.836,otras,ciencuadras
+350000000.0,45.1,2,2,4,1,1,no,apartamento,5.6,0.022,0.139,liborio mejia,metrocuadrado
+950000000.0,150.0,3,3,5,,,si,apartamento,5.6,0.022,0.139,el porvenir,ciencuadras
+1200000000.0,162.87,3,4,6,2,1,si,casa,5.45,2.919,2.966,san antonio,ciencuadras
+495000000.0,176.0,3,2,3,,,no,casa,5.6,0.022,0.139,san antonio,ciencuadras
+525000000.0,67.0,2,2,5,1,1,si,apartamento,6.099,3.035,3.105,san antonio,ciencuadras
+550000000.0,79.5,3,2,4,1,,no,apartamento,6.264,3.37,3.441,otras,metrocuadrado
+430000000.0,86.0,3,2,3,,1,no,apartamento,4.78,1.439,1.439,el porvenir,ciencuadras
+1400000000.0,186.0,4,5,5,2,,no,casa,6.541,1.495,1.615,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+470000000.0,84.0,3,2,4,1,2,si,apartamento,5.891,3.141,3.202,san antonio,ciencuadras
+600000000.0,87.0,3,2,5,,,no,apartamento,6.194,2.705,2.784,san antonio,ciencuadras
+270000000.0,52.0,2,2,3,,1,no,apartamento,6.573,1.037,1.104,monseñor alfonso uribe jaramillo,metrocuadrado
+2410000000.0,600.0,4,3,5,2,1,si,casa,5.244,0.754,0.778,san antonio,ciencuadras
+2300000000.0,272.0,3,5,5,2,,si,casa,14.315,17.329,17.324,rionegro,ciencuadras
+1250000000.0,173.0,3,3,5,2,,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+590000000.0,76.0,2,2,6,1,,no,apartamento,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+320000000.0,49.0,2,2,4,,1,si,apartamento,5.02,0.865,0.739,el porvenir,ciencuadras
+560000000.0,64.0,2,2,4,1,1,si,apartamento,3.368,2.373,2.3,el porvenir,ciencuadras
+5000000000.0,420.0,3,4,6,2,,si,casa,5.655,6.578,6.586,rionegro,ciencuadras
+493000000.0,138.0,3,3,3,,,no,casa,4.94,1.304,1.314,el porvenir,ciencuadras
+490000000.0,60.0,2,2,4,1,1,si,apartamento,6.035,3.394,3.457,san antonio,ciencuadras
+1150000000.0,126.0,2,3,6,1,1,si,apartamento,3.336,8.93,8.829,rionegro,metrocuadrado
+430000000.0,73.0,3,2,4,1,,si,apartamento,6.35,3.149,3.227,san antonio,metrocuadrado
+300000000.0,51.0,2,2,4,1,1,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+940000000.0,186.0,3,4,4,1,,no,casa,6.197,4.216,4.272,rionegro,ciencuadras
+550000000.0,160.0,5,3,3,,,no,casa,4.861,0.899,0.864,el porvenir,lonja_propiedad_raiz
+290000000.0,61.0,2,2,3,1,5,si,apartamento,4.606,1.692,1.568,rionegro,ciencuadras
+360000000.0,57.0,2,2,4,,,no,apartamento,5.671,0.247,0.228,liborio mejia,ciencuadras
+560000000.0,69.0,2,2,4,1,1,si,apartamento,5.77,3.463,3.515,san antonio,ciencuadras
+900000000.0,136.0,3,3,4,1,1,si,casa,5.935,3.606,3.661,otras,ciencuadras
+1200000000.0,168.0,4,5,6,2,,no,casa,5.247,0.498,0.494,liborio mejia,ciencuadras
+550000000.0,64.5,2,2,4,1,,si,apartamento,6.063,1.345,1.447,monseñor alfonso uribe jaramillo,ciencuadras
+450000000.0,102.54,4,3,3,,,no,casa,3.612,2.435,2.385,el porvenir,ciencuadras
+1450000000.0,270.0,4,4,3,2,,no,casa,5.523,0.768,0.836,liborio mejia,ciencuadras
+2380000000.0,597.0,4,3,3,4,1,no,casa,5.6,0.022,0.139,liborio mejia,ciencuadras
+850000000.0,100.0,2,2,4,2,,no,casa,5.626,0.033,0.159,liborio mejia,ciencuadras
+300000000.0,61.5,2,2,4,,,no,apartamento,5.6,0.022,0.139,el porvenir,ciencuadras
+3650000000.0,350.0,4,4,5,1,,no,casa,3.48,6.436,6.397,rionegro,ciencuadras
+260000000.0,45.0,2,2,3,,,si,apartamento,4.467,2.597,2.599,rionegro,ciencuadras
+540000000.0,66.0,2,2,5,1,1,si,apartamento,6.361,0.861,0.986,monseñor alfonso uribe jaramillo,ciencuadras
+270000000.0,57.0,2,2,4,1,,no,apartamento,6.557,1.101,1.148,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+1870000000.0,168.0,4,3,,2,,no,casa_campestre,2.416,3.734,3.668,otras,metrocuadrado
+500000000.0,62.0,2,2,4,1,,no,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+580000000.0,140.0,3,3,3,1,,si,casa,4.858,0.928,0.898,el porvenir,ciencuadras
+600000000.0,75.0,3,2,4,,,no,apartamento,2.576,3.35,3.279,rionegro,metrocuadrado
+1200000000.0,180.0,3,3,5,2,,si,casa,3.683,2.223,2.167,el porvenir,ciencuadras
+660000000.0,210.0,5,4,4,,,no,casa,5.803,2.352,2.421,san antonio,metrocuadrado
+3900000000.0,450.0,3,5,5,2,1,si,casa,4.493,3.814,3.819,rionegro,lonja_propiedad_raiz
+550000000.0,88.0,3,2,3,1,,no,apartamento,5.944,0.56,0.682,monseñor alfonso uribe jaramillo,metrocuadrado
+600000000.0,83.0,3,3,5,1,,si,apartamento,3.21,2.537,2.463,el porvenir,lonja_propiedad_raiz
+240000000.0,52.0,2,2,3,,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+530000000.0,76.5,3,2,4,1,,si,apartamento,6.047,0.63,0.651,liborio mejia,ciencuadras
+380000000.0,40.0,1,2,3,1,1,si,apartamento,4.759,3.417,3.433,rionegro,metrocuadrado
+640000000.0,129.0,3,2,5,1,,si,apartamento,5.89,3.448,3.504,san antonio,ciencuadras
+1400000000.0,186.0,4,4,5,2,,si,casa,6.927,3.253,3.348,san antonio,lonja_propiedad_raiz
+410000000.0,110.0,4,2,2,1,1,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+630000000.0,220.0,5,4,4,1,,no,casa,4.818,0.919,0.879,el porvenir,ciencuadras
+540000000.0,73.0,3,2,5,1,,si,apartamento,7.229,2.563,2.681,rionegro,ciencuadras
+930000000.0,160.0,4,5,5,1,,no,casa,6.197,4.216,4.272,rionegro,metrocuadrado
+580000000.0,88.0,3,2,5,1,1,si,apartamento,5.28,1.647,1.692,san antonio,ciencuadras
+435000000.0,74.0,2,2,4,,,no,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+800000000.0,95.0,3,3,4,1,,no,casa,5.523,0.768,0.836,rionegro,metrocuadrado
+770000000.0,94.0,3,2,5,,,no,apartamento,6.269,2.889,2.968,san antonio,ciencuadras
+950000000.0,250.0,3,4,5,2,,no,casa,6.076,0.477,0.587,monseñor alfonso uribe jaramillo,metrocuadrado
+5000000000.0,480.0,3,6,,4,,si,casa_campestre,4.629,4.972,4.974,rionegro,ciencuadras
+230000000.0,48.0,2,2,3,,,si,apartamento,8.165,2.575,2.683,rionegro,ciencuadras
+285000000.0,57.0,3,2,4,1,1,no,apartamento,5.217,1.351,1.241,rionegro,metrocuadrado
+1900000000.0,200.0,4,3,5,,,no,casa,6.546,3.163,3.247,san antonio,ciencuadras
+380000000.0,90.0,4,2,3,,,no,casa,5.6,0.022,0.139,el porvenir,lonja_propiedad_raiz
+470000000.0,58.0,2,2,5,1,1,no,apartamento,5.141,1.511,1.399,liborio mejia,lonja_propiedad_raiz
+1200000000.0,168.0,4,4,5,2,1,si,casa,5.362,2.922,2.965,san antonio,ciencuadras
+530000000.0,79.0,2,2,4,1,1,no,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+410000000.0,77.0,2,2,4,1,,no,apartamento,5.739,0.903,0.838,liborio mejia,ciencuadras
+430000000.0,60.0,2,2,3,1,,si,apartamento,6.28,2.819,2.899,san antonio,ciencuadras
+325000000.0,56.0,3,2,4,1,4,si,apartamento,4.72,1.372,1.246,rionegro,lonja_propiedad_raiz
+3700000000.0,350.0,4,6,4,10,1,si,casa,5.758,1.221,1.305,rionegro,ciencuadras
+3800000000.0,470.0,4,8,5,3,1,si,casa,5.503,0.219,0.115,otras,ciencuadras
+285000000.0,60.0,3,2,4,1,1,no,apartamento,6.557,1.101,1.148,monseñor alfonso uribe jaramillo,ciencuadras
+239500000.0,52.0,2,2,3,1,4,no,apartamento,3.635,2.007,1.898,rionegro,ciencuadras
+530000000.0,80.0,3,2,5,1,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+510000000.0,59.0,2,2,5,1,1,si,apartamento,6.677,3.068,3.158,san antonio,ciencuadras
+530000000.0,72.0,3,2,5,1,,no,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+320000000.0,55.0,3,2,3,1,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+2300000000.0,2425.0,2,3,5,2,,no,casa,5.6,0.022,0.139,liborio mejia,metrocuadrado
+1250000000.0,114.0,2,2,5,,,no,apartamento,5.024,2.413,2.443,san antonio,ciencuadras
+650000000.0,71.0,2,2,3,1,1,si,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+250000000.0,45.0,2,2,2,2,,no,apartamento,6.557,1.101,1.148,monseñor alfonso uribe jaramillo,metrocuadrado
+315000000.0,53.0,2,2,3,1,,si,apartamento,5.244,0.754,0.778,rionegro,ciencuadras
+650000000.0,89.0,3,2,5,1,,si,apartamento,6.218,2.694,2.774,san antonio,lonja_propiedad_raiz
+960000000.0,220.0,3,3,5,1,,si,casa,6.165,2.671,2.75,san antonio,lonja_propiedad_raiz
+300000000.0,52.0,3,2,3,1,1,si,apartamento,4.377,1.558,1.432,rionegro,lonja_propiedad_raiz
+1300000000.0,94.0,2,2,6,1,1,no,apartamento,7.397,6.878,6.923,rionegro,lonja_propiedad_raiz
+530000000.0,66.71,2,2,4,2,,si,apartamento,6.927,3.253,3.347,san antonio,metrocuadrado
+250000000.0,52.0,2,2,4,,1,si,apartamento,6.834,1.268,1.385,monseñor alfonso uribe jaramillo,ciencuadras
+260000000.0,54.0,2,2,4,,1,si,apartamento,6.911,1.308,1.409,otras,metrocuadrado
+380000000.0,124.0,4,2,3,,,no,apartamento,5.646,0.053,0.179,liborio mejia,ciencuadras
+550000000.0,110.0,3,2,3,2,,no,casa,5.944,0.56,0.682,monseñor alfonso uribe jaramillo,ciencuadras
+490000000.0,58.25,2,2,4,1,,si,apartamento,6.902,3.219,3.314,san antonio,ciencuadras
+1250000000.0,240.0,4,4,5,1,1,no,casa,5.024,2.552,2.582,san antonio,metrocuadrado
+700000000.0,90.0,3,3,5,,1,si,apartamento,5.523,0.768,0.836,monseñor alfonso uribe jaramillo,ciencuadras
+220000000.0,64.0,3,2,3,,,no,apartamento,5.203,0.985,0.87,liborio mejia,ciencuadras
+1250000000.0,223.0,4,3,5,,,si,casa,5.388,2.304,2.353,san antonio,metrocuadrado
+2700000000.0,350.0,5,6,6,7,1,no,casa,5.613,6.374,6.384,rionegro,metrocuadrado
+1450000000.0,220.0,4,4,5,1,,si,casa,5.523,0.768,0.836,monseñor alfonso uribe jaramillo,ciencuadras
+1800000000.0,266.0,3,5,3,2,,no,casa,5.244,0.754,0.778,rionegro,ciencuadras
+530000000.0,73.0,3,2,4,1,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+250000000.0,52.0,2,2,3,1,,no,apartamento,2.159,3.993,3.924,rionegro,ciencuadras
+530000000.0,59.0,2,2,5,,2,si,apartamento,4.961,0.764,0.729,el porvenir,ciencuadras
+3400000000.0,285.0,3,3,5,2,,no,casa,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+850000000.0,270.0,4,4,4,2,,no,casa,5.234,1.108,1.144,el porvenir,lonja_propiedad_raiz
+420000000.0,66.0,3,2,5,,,si,apartamento,6.305,1.361,1.476,monseñor alfonso uribe jaramillo,metrocuadrado
+500000000.0,56.0,1,1,5,,1,si,apartamento,5.745,3.51,3.561,san antonio,metrocuadrado
+1800000000.0,380.0,4,5,3,,,no,casa,5.773,1.649,1.727,san antonio,lonja_propiedad_raiz
+295000000.0,56.0,3,2,4,1,,si,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+1350000000.0,186.0,4,5,5,2,,si,casa,5.523,0.768,0.836,monseñor alfonso uribe jaramillo,ciencuadras
+530000000.0,60.0,2,2,3,1,,si,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+245000000.0,49.0,2,2,3,1,,si,apartamento,5.257,0.349,0.279,liborio mejia,ciencuadras
+600000000.0,73.65,3,2,4,1,,no,apartamento,5.846,3.08,3.139,otras,metrocuadrado
+2250000000.0,355.0,4,5,4,2,1,si,casa,5.165,2.28,2.317,san antonio,lonja_propiedad_raiz
+340000000.0,65.0,2,2,5,1,,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+600000000.0,64.0,1,1,5,1,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+420000000.0,79.6,3,2,3,,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+449900000.0,54.49,2,2,4,1,,no,apartamento,4.063,1.676,1.613,el porvenir,ciencuadras
+950000000.0,140.0,3,3,4,1,1,no,casa,6.224,2.911,2.988,san antonio,ciencuadras
+540000000.0,60.0,2,2,5,1,,no,apartamento,5.914,3.383,3.441,san antonio,ciencuadras
+825000000.0,150.0,4,2,5,1,,no,apartamento,6.386,2.62,2.708,san antonio,ciencuadras
+235000000.0,52.0,2,2,3,,1,si,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+365000000.0,50.0,2,2,4,1,1,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+340000000.0,57.0,2,2,4,,1,si,apartamento,5.678,0.205,0.32,liborio mejia,ciencuadras
+565000000.0,60.0,2,2,5,1,,si,apartamento,6.554,2.983,3.07,san antonio,lonja_propiedad_raiz
+370000000.0,86.0,3,2,5,,,si,apartamento,5.244,0.754,0.778,el porvenir,metrocuadrado
+1500000000.0,2643.0,4,2,,2,,no,casa_campestre,3.77,8.453,8.333,rionegro,lonja_propiedad_raiz
+530000000.0,68.0,3,2,5,,,no,apartamento,2.576,3.35,3.279,rionegro,ciencuadras
+1647000000.0,139.0,3,4,6,2,,si,apartamento,4.757,4.787,4.793,rionegro,metrocuadrado
+315000000.0,55.0,3,2,4,1,1,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+8000000000.0,2225.0,6,8,6,6,,no,casa,5.655,6.578,6.586,rionegro,ciencuadras
+1425000000.0,200.0,3,4,,5,9,no,casa_campestre,5.523,0.768,0.836,rionegro,ciencuadras
+585000000.0,75.0,3,2,5,,,si,apartamento,3.154,2.617,2.544,el porvenir,metrocuadrado
+230000000.0,65.0,3,2,2,,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+2200000000.0,278.0,3,5,,1,4,no,casa_campestre,4.572,6.222,6.21,rionegro,ciencuadras
+700000000.0,80.0,3,2,6,1,2,no,apartamento,6.02,3.416,3.478,san antonio,ciencuadras
+680000000.0,75.0,2,2,5,1,,si,apartamento,6.269,2.889,2.968,san antonio,ciencuadras
+470000000.0,76.8,2,2,4,1,,no,apartamento,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+600000000.0,85.0,3,2,4,2,1,si,apartamento,3.689,4.114,3.988,rionegro,ciencuadras
+520000000.0,60.7,2,2,5,1,1,si,apartamento,6.342,3.14,3.217,san antonio,ciencuadras
+528000000.0,59.0,2,2,4,1,1,si,apartamento,1.691,5.005,4.935,rionegro,ciencuadras
+970000000.0,160.0,4,5,5,1,1,no,casa,5.955,3.492,3.55,san antonio,ciencuadras
+989772592.0,94.0,3,3,4,,1,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+1250000000.0,180.6,3,3,6,2,,no,casa,5.961,3.03,3.095,san antonio,metrocuadrado
+530000000.0,90.0,4,3,3,,,no,casa,5.6,0.022,0.139,el porvenir,ciencuadras
+230000000.0,48.15,2,2,3,,,no,apartamento,4.02,2.108,2.073,el porvenir,ciencuadras
+1230000000.0,86.0,2,2,6,3,,si,apartamento,5.431,3.031,3.075,san antonio,lonja_propiedad_raiz
+510000000.0,69.0,2,2,4,1,,si,apartamento,5.77,3.463,3.515,san antonio,metrocuadrado
+610000000.0,77.0,3,2,5,1,1,no,apartamento,5.523,0.768,0.836,otras,ciencuadras
+12000000000.0,1080.0,4,5,5,4,,no,casa,5.046,6.033,6.034,rionegro,lonja_propiedad_raiz
+610000000.0,80.0,2,2,5,1,,si,apartamento,5.6,0.022,0.139,el porvenir,ciencuadras
+550000000.0,62.0,2,2,4,1,,si,apartamento,6.229,0.631,0.725,liborio mejia,ciencuadras
+350000000.0,55.0,2,2,4,1,1,si,apartamento,5.18,1.469,1.358,liborio mejia,ciencuadras
+374000000.0,58.07,2,2,4,1,,no,apartamento,6.197,4.216,4.272,rionegro,metrocuadrado
+1400000000.0,240.0,4,4,5,3,,si,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+980000000.0,134.0,3,3,3,1,1,no,casa,5.6,0.022,0.139,el porvenir,ciencuadras
+390000000.0,57.0,3,2,4,1,1,no,apartamento,5.389,1.039,0.938,liborio mejia,metrocuadrado
+3650000000.0,350.0,5,4,6,8,,si,casa,5.6,0.022,0.139,liborio mejia,ciencuadras
+1500000000.0,5088.0,3,2,4,1,1,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+590000000.0,82.0,2,2,4,1,,no,apartamento,6.146,1.081,1.196,monseñor alfonso uribe jaramillo,metrocuadrado
+640000000.0,76.5,3,2,5,,,no,apartamento,6.613,1.879,1.992,rionegro,ciencuadras
+1190000000.0,138.0,2,3,5,2,,si,apartamento,5.6,0.022,0.139,liborio mejia,ciencuadras
+317000000.0,68.0,3,2,3,,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+330000000.0,50.0,2,2,4,1,1,si,apartamento,5.02,0.865,0.739,liborio mejia,ciencuadras
+490000000.0,58.0,1,2,5,,,no,apartamento,5.489,0.175,0.056,liborio mejia,ciencuadras
+680000000.0,86.0,3,2,5,1,,si,apartamento,6.465,2.939,3.024,san antonio,ciencuadras
+320000000.0,56.0,2,2,3,1,,no,apartamento,5.758,1.221,1.305,rionegro,lonja_propiedad_raiz
+4200000000.0,200.0,3,3,6,6,,no,casa,10.961,11.564,11.604,rionegro,lonja_propiedad_raiz
+2550000000.0,270.0,3,4,4,4,1,si,casa,4.986,6.902,6.89,rionegro,lonja_propiedad_raiz
+4200000000.0,1050.0,4,9,4,,1,no,casa,5.546,0.239,0.157,liborio mejia,ciencuadras
+1300000000.0,120.0,2,4,5,,1,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+521212150.0,73.0,3,2,4,1,,no,apartamento,6.737,1.894,2.011,rionegro,metrocuadrado
+410000000.0,53.0,2,2,4,1,1,si,apartamento,5.26,1.578,1.471,rionegro,metrocuadrado
+340000000.0,82.0,2,2,4,,1,si,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+700000000.0,87.0,3,2,4,1,1,no,apartamento,3.499,2.659,2.612,el porvenir,ciencuadras
+210000000.0,45.0,2,2,4,,,no,apartamento,4.859,0.835,0.713,liborio mejia,metrocuadrado
+400000000.0,80.0,3,1,4,,1,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+530000000.0,81.0,2,2,3,2,,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+320000000.0,49.0,3,2,3,1,,no,apartamento,5.559,0.827,0.742,liborio mejia,metrocuadrado
+510000000.0,65.19,2,2,5,1,,no,apartamento,5.151,0.875,0.892,el porvenir,metrocuadrado
+4400000000.0,540.0,4,5,6,10,,no,casa,2.83,6.834,6.777,rionegro,ciencuadras
+275000000.0,68.0,3,2,4,,1,no,casa,5.244,0.754,0.778,el porvenir,ciencuadras
+295000000.0,57.0,3,2,5,1,6,no,apartamento,5.08,1.515,1.401,rionegro,ciencuadras
+3850000000.0,430.0,3,13,4,3,1,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+495000000.0,60.0,2,2,5,1,,si,apartamento,5.602,0.015,0.136,liborio mejia,lonja_propiedad_raiz
+1260000000.0,131.0,3,3,5,2,,no,apartamento,5.6,0.684,0.763,monseñor alfonso uribe jaramillo,metrocuadrado
+2700000000.0,385.0,5,5,4,,,no,casa,3.113,7.915,7.847,rionegro,ciencuadras
+280000000.0,60.0,2,2,3,,,no,apartamento,5.6,0.022,0.139,el porvenir,ciencuadras
+700000000.0,130.0,4,3,4,1,,no,casa,5.6,0.022,0.139,el porvenir,metrocuadrado
+340000000.0,58.0,3,2,3,1,1,no,apartamento,5.207,1.0,1.031,el porvenir,metrocuadrado
+1250000000.0,280.0,4,4,4,1,,no,casa,5.6,0.022,0.139,el porvenir,ciencuadras
+590000000.0,88.8,3,2,5,1,,no,apartamento,6.327,0.889,1.015,monseñor alfonso uribe jaramillo,metrocuadrado
+2300000000.0,600.0,9,7,,1,,no,casa_campestre,5.6,0.022,0.139,liborio mejia,metrocuadrado
+3300000000.0,11000.0,3,4,4,5,,no,casa,5.6,0.022,0.139,liborio mejia,metrocuadrado
+630000000.0,75.0,2,2,5,1,,no,apartamento,2.576,3.35,3.279,rionegro,ciencuadras
+990000000.0,230.0,4,4,3,2,1,no,casa,6.224,2.911,2.988,san antonio,metrocuadrado
+395000000.0,57.0,3,2,3,1,,si,apartamento,4.95,1.068,0.943,el porvenir,ciencuadras
+310000000.0,56.0,3,2,3,1,,no,apartamento,5.758,1.221,1.305,rionegro,ciencuadras
+411000000.0,67.0,2,2,5,1,1,no,apartamento,5.889,3.141,3.202,san antonio,ciencuadras
+2050000000.0,270.0,2,3,4,2,1,si,casa,5.244,0.754,0.778,monseñor alfonso uribe jaramillo,ciencuadras
+600000000.0,104.0,3,2,4,,1,si,apartamento,6.094,1.167,1.276,monseñor alfonso uribe jaramillo,ciencuadras
+1150000000.0,153.0,3,4,4,1,,si,apartamento,3.465,2.54,2.485,el porvenir,lonja_propiedad_raiz
+720000000.0,80.0,3,2,5,1,1,no,apartamento,5.912,1.924,2.004,san antonio,metrocuadrado
+1200000000.0,400.0,5,8,4,5,,no,casa,6.46,1.404,1.524,monseñor alfonso uribe jaramillo,ciencuadras
+570000000.0,65.13,2,2,5,1,,si,apartamento,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+236372175.0,51.0,3,2,3,,,no,apartamento,8.196,2.625,2.737,rionegro,lonja_propiedad_raiz
+1700000000.0,118.0,3,4,5,1,,no,casa,6.269,2.889,2.968,san antonio,ciencuadras
+3800000000.0,320.0,3,3,,2,,no,casa_campestre,5.523,0.768,0.836,rionegro,lonja_propiedad_raiz
+520000000.0,69.0,2,2,4,1,1,si,apartamento,5.754,3.451,3.502,san antonio,lonja_propiedad_raiz
+400000000.0,60.0,2,2,3,,,no,apartamento,5.944,0.56,0.682,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+1200000000.0,220.0,4,5,5,1,,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+810000000.0,170.0,4,4,5,2,,si,casa,6.033,2.891,2.961,san antonio,ciencuadras
+600000000.0,74.0,2,2,4,1,,si,apartamento,6.466,1.191,1.316,monseñor alfonso uribe jaramillo,metrocuadrado
+415000000.0,65.0,1,1,4,1,,si,apartamento,5.768,3.462,3.514,san antonio,ciencuadras
+1200000000.0,160.0,2,2,5,3,,si,apartamento,5.525,2.345,2.4,san antonio,metrocuadrado
+799500000.0,74.0,2,2,4,2,3,si,casa,7.459,4.224,4.161,rionegro,ciencuadras
+800000000.0,145.0,4,3,5,1,,no,casa,5.523,0.768,0.836,rionegro,ciencuadras
+2380000000.0,591.0,4,3,5,2,,si,casa,5.753,5.07,5.101,rionegro,metrocuadrado
+3500000000.0,734.0,4,5,6,2,,si,casa,5.523,0.768,0.836,rionegro,ciencuadras
+2800000000.0,395.0,5,7,4,12,,no,casa,5.426,6.967,6.843,rionegro,ciencuadras
+800000000.0,145.0,3,3,5,1,,si,casa,5.343,2.69,2.733,san antonio,ciencuadras
+15000000000.0,500.0,4,5,,10,,no,casa_campestre,2.53,6.471,6.411,rionegro,lonja_propiedad_raiz
+820000000.0,140.0,3,4,5,1,,no,casa,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+780000000.0,144.0,4,3,5,1,,no,casa,5.602,0.015,0.136,liborio mejia,metrocuadrado
+680000000.0,76.34,3,2,4,1,,no,apartamento,3.248,2.748,2.69,el porvenir,metrocuadrado
+2600000000.0,328.0,3,5,6,2,,si,casa,5.244,0.754,0.778,el porvenir,lonja_propiedad_raiz
+460000000.0,70.0,2,3,4,1,,no,apartamento,3.327,2.457,2.387,el porvenir,ciencuadras
+319500000.0,51.0,2,2,3,,2,no,apartamento,6.572,1.036,1.103,monseñor alfonso uribe jaramillo,ciencuadras
+660000000.0,144.0,4,3,4,1,1,no,casa,6.088,2.878,2.95,san antonio,ciencuadras
+2600000000.0,365.0,3,5,6,1,1,si,casa,4.788,4.872,4.879,rionegro,ciencuadras
+295000000.0,51.0,2,2,4,1,1,si,apartamento,7.238,2.081,2.101,rionegro,ciencuadras
+300000000.0,66.0,3,2,4,,,no,apartamento,5.602,0.015,0.136,liborio mejia,ciencuadras
+463000000.0,58.0,2,2,5,1,5,si,apartamento,6.916,3.24,3.334,san antonio,ciencuadras
+650000000.0,226.0,5,2,2,,,no,casa,6.009,0.434,0.509,el porvenir,metrocuadrado
+3590000000.0,360.0,4,5,5,5,1,no,casa,5.457,5.731,5.746,rionegro,ciencuadras
+560000000.0,88.0,3,2,5,1,,si,apartamento,6.326,0.888,1.014,monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+535000000.0,80.0,3,2,5,1,1,si,apartamento,5.244,0.754,0.778,el porvenir,ciencuadras
+480000000.0,61.0,2,2,4,1,,no,apartamento,6.269,2.889,2.968,san antonio,metrocuadrado
+282000000.0,56.0,3,2,3,1,1,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+680000000.0,65.0,1,2,5,2,1,si,apartamento,5.242,0.755,0.779,comuna 3 monseñor alfonso uribe jaramillo,lonja_propiedad_raiz
+520000000.0,63.0,1,2,5,1,,no,casa,5.861,2.938,3.0,san antonio,ciencuadras
+400000000.0,90.0,3,2,4,1,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+4580000000.0,570.0,4,8,5,5,1,si,casa,4.918,6.935,6.921,rionegro,ciencuadras
+2700000000.0,2663.0,3,4,,2,,no,casa_campestre,5.613,6.374,6.384,rionegro,ciencuadras
+890000000.0,130.0,3,3,4,1,,si,casa,6.24,2.713,2.794,san antonio,lonja_propiedad_raiz
+950000000.0,240.0,4,5,5,1,,si,casa,2.576,3.35,3.279,rionegro,ciencuadras
+250000000.0,50.0,2,2,3,,,no,casa,7.506,1.904,2.007,monseñor alfonso uribe jaramillo,metrocuadrado
+550000000.0,66.0,2,2,4,2,6,si,apartamento,3.398,2.587,2.531,el porvenir,ciencuadras
+5950000000.0,577.0,3,4,5,4,,si,casa,5.207,0.782,0.802,corregimiento casimiro garcia,ciencuadras
+230000000.0,59.0,3,2,4,,1,si,apartamento,5.228,0.746,0.767,el porvenir,lonja_propiedad_raiz
+1060000000.0,270.0,3,4,4,3,1,si,casa,4.224,1.864,1.833,el porvenir,ciencuadras
+330000000.0,57.0,2,2,2,1,,no,apartamento,7.486,1.887,1.992,monseñor alfonso uribe jaramillo,ciencuadras
+4950000000.0,3010.0,5,7,5,15,,no,casa,2.762,8.33,8.227,rionegro,metrocuadrado
+610000000.0,120.0,2,2,4,1,,no,casa,5.55,1.372,1.438,san antonio,ciencuadras
+579000000.0,73.3,3,2,5,1,,si,apartamento,5.845,3.079,3.139,san antonio,lonja_propiedad_raiz
+270000000.0,58.0,2,2,4,1,,si,apartamento,5.177,1.416,1.305,rionegro,metrocuadrado
+350000000.0,57.0,3,2,3,,,no,apartamento,5.747,1.135,1.064,liborio mejia,ciencuadras
+255000000.0,70.0,4,3,3,,1,no,casa,4.679,1.004,0.884,liborio mejia,lonja_propiedad_raiz
+350000000.0,58.5,3,2,4,1,,no,apartamento,5.602,0.015,0.136,liborio mejia,lonja_propiedad_raiz
+1300000000.0,150.0,3,2,3,2,,no,casa,4.647,1.061,1.008,liborio mejia,ciencuadras
+2500000000.0,230.0,3,4,,2,,si,casa_campestre,5.523,0.768,0.836,rionegro,ciencuadras
+680000000.0,81.0,3,2,5,1,1,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+355000000.0,56.1,3,2,4,1,1,si,apartamento,5.08,1.515,1.401,rionegro,ciencuadras
+685000000.0,80.0,3,2,4,1,,no,apartamento,6.197,4.216,4.272,rionegro,ciencuadras
+1390000000.0,235.0,5,5,6,2,,no,casa,3.302,2.731,2.675,el porvenir,lonja_propiedad_raiz
+395000000.0,88.0,2,2,3,,,no,apartamento,5.944,0.56,0.682,monseñor alfonso uribe jaramillo,metrocuadrado
+3000000000.0,500.0,9,8,4,,1,no,casa,5.406,1.366,1.42,san antonio,metrocuadrado
+400000000.0,55.0,1,2,4,1,,si,apartamento,5.02,0.865,0.739,el porvenir,metrocuadrado
+470000000.0,72.0,3,2,3,1,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+4550000000.0,3800.0,3,4,5,2,,si,casa,5.244,0.754,0.778,comuna 3 monseñor alfonso uribe jaramillo,ciencuadras
+255000000.0,56.0,3,2,4,1,1,si,apartamento,4.468,1.428,1.393,el porvenir,ciencuadras
+392000000.0,61.33,2,2,4,1,,no,apartamento,6.197,4.216,4.272,rionegro,metrocuadrado
+490000000.0,60.0,2,2,4,1,,no,apartamento,5.523,0.768,0.836,rionegro,ciencuadras
+900000000.0,93.0,2,3,5,1,,si,apartamento,1.807,6.768,6.69,rionegro,ciencuadras
+580000000.0,78.0,3,2,4,1,,no,apartamento,5.889,1.114,1.21,monseñor alfonso uribe jaramillo,ciencuadras
+4700000000.0,400.0,3,5,,2,,no,casa_campestre,4.463,3.595,3.6,otras,ciencuadras
+515000000.0,59.0,2,2,5,1,2,si,apartamento,3.241,2.601,2.534,el porvenir,ciencuadras
+490000000.0,58.0,1,2,4,1,1,si,apartamento,6.185,2.714,2.792,otras,ciencuadras
+295000000.0,54.0,2,2,2,,1,si,apartamento,4.236,1.4,1.321,liborio mejia,ciencuadras
+360000000.0,54.0,2,2,5,1,,si,apartamento,6.28,1.557,1.665,san antonio,ciencuadras
+2550000000.0,360.0,4,6,6,3,,si,casa,4.432,3.865,3.868,rionegro,ciencuadras
+1750000000.0,380.0,4,8,2,2,,si,casa,5.6,0.022,0.139,el porvenir,ciencuadras
+260000000.0,55.0,2,2,4,1,1,si,apartamento,4.216,1.434,1.359,liborio mejia,lonja_propiedad_raiz
+300000000.0,55.0,2,2,4,1,,si,apartamento,5.244,0.754,0.778,rionegro,metrocuadrado
+2950000000.0,305.0,5,5,6,6,1,si,casa,3.468,6.359,6.32,rionegro,metrocuadrado
+1100000000.0,205.0,4,6,5,2,1,si,casa,3.178,2.657,2.589,el porvenir,ciencuadras
+2500000000.0,211.0,4,4,4,,,si,casa,5.244,0.754,0.778,el porvenir,metrocuadrado
+1700000000.0,4600.0,4,5,3,2,,no,casa,5.6,0.022,0.139,liborio mejia,ciencuadras
+410000000.0,58.0,2,2,4,,,no,apartamento,3.15,2.62,2.547,el porvenir,ciencuadras
+560000000.0,87.0,3,2,3,2,,si,apartamento,3.905,1.93,1.874,el porvenir,ciencuadras
+590000000.0,139.0,4,2,4,1,,no,apartamento,5.498,0.86,0.768,liborio mejia,ciencuadras
+1150000000.0,235.0,4,4,5,1,,si,casa,3.178,2.657,2.589,el porvenir,metrocuadrado
+255000000.0,58.0,3,2,3,,,si,apartamento,5.218,1.501,1.392,rionegro,ciencuadras
+1400000000.0,130.0,2,3,5,2,,no,apartamento,3.549,9.149,9.052,rionegro,ciencuadras
+403238700.0,56.79,2,2,4,1,,no,apartamento,5.91,0.57,0.689,monseñor alfonso uribe jaramillo,metrocuadrado
+600000000.0,77.0,3,2,5,1,4,si,apartamento,6.326,0.892,1.018,,fincaraiz
+615000000.0,88.0,3,2,4,2,4,si,apartamento,5.244,0.754,0.778,,fincaraiz
+820000000.0,128.0,4,2,5,2,1,no,casa,6.423,0.947,1.072,,fincaraiz
