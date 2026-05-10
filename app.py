@@ -163,6 +163,8 @@ div[data-baseweb="base-input"]:focus-within {
 
 /* Color de texto dentro de inputs */
 div[data-baseweb="select"] span,
+div[data-baseweb="select"] > div,
+div[data-baseweb="select"] > div > div,
 div[data-baseweb="base-input"] input {
     color: #1C2B3A !important;
 }
@@ -365,9 +367,7 @@ if modelo_ok:
 
         st.info(
             f"**Margen de error estimado (±1 RMSE):** "
-            f"${low/1e6:,.0f}M — ${high/1e6:,.0f}M COP\n\n"
-            "Este modelo predice precios de oferta publicados en portales inmobiliarios, "
-            "no precios de cierre de transacciones reales. Úselo como referencia orientativa."
+            f"${low/1e6:,.0f}M — ${high/1e6:,.0f}M COP"
         )
 
 # ── Footer ────────────────────────────────────────────────────────────────────
