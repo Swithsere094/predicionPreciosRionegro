@@ -161,6 +161,12 @@ div[data-baseweb="base-input"]:focus-within {
     box-shadow: 0 0 0 3px rgba(28, 43, 58, 0.08) !important;
 }
 
+/* Color de texto dentro de inputs */
+div[data-baseweb="select"] span,
+div[data-baseweb="base-input"] input {
+    color: #1C2B3A !important;
+}
+
 /* Botón primario */
 .stButton > button[data-testid="baseButton-primary"] {
     background: #1C2B3A !important;
